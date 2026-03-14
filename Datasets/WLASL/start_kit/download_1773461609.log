@@ -1,0 +1,2935 @@
+INFO:root:Start downloading videos using multithreading.
+INFO:root:gloss: medicine, video: 35456.
+INFO:root:gloss: medicine, video: 35457.
+INFO:root:35456 exists at raw_videos/35456.mp4
+INFO:root:gloss: medicine, video: 35458.
+INFO:root:gloss: medicine, video: 35452.
+INFO:root:35452 exists at raw_videos/35452.mp4
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6826.mp4
+INFO:root:Requesting https://www.handspeak.com/word/m/medicine.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=R62C5PdSB1o already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=88xSMjuFPHA already exists.
+INFO:root:gloss: medicine, video: 35464.
+INFO:root:Requesting http://www.aslpro.com/main/l/liquid_medicine.swf
+ERROR:root:Unsuccessful downloading - video 35458
+INFO:root:gloss: medicine, video: 35465.
+INFO:root:Requesting http://www.aslpro.com/main/m/medicine.swf
+ERROR:root:Unsuccessful downloading - video 35457
+INFO:root:gloss: medicine, video: 35466.
+INFO:root:Requesting http://www.aslpro.com/main/m/medicine_taking.swf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=rdtLwk9PeEU
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/AUEQVbV588c
+INFO:root:gloss: medicine, video: 35467.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/medical.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=vAVSxCCr9jk
+INFO:root:gloss: medicine, video: 35453.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/medicine.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=1_jXxjd0lKE already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=4Nh1iFv2BMc already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=ieLzL1Sl6SU
+INFO:root:gloss: need, video: 37885.
+INFO:root:Requesting https://www.handspeak.com/word/n/need.mp4
+INFO:root:gloss: need, video: 37886.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9563.mp4
+ERROR:root:Unsuccessful downloading - video 37885
+ERROR:root:Unsuccessful downloading - video 37886
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Eo-vEE1gFxM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Eo-vEE1gFxM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=kgmz82HWI-I
+INFO:root:gloss: need, video: 37881.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/63549.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=n5hGwUxGm0Y
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/JPvbOOrG-gU
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=RoY7cjIPNxY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=rul1iWBt3Jg
+INFO:root:gloss: need, video: 37893.
+INFO:root:Requesting http://www.aslpro.com/main/n/need.swf
+INFO:root:gloss: need, video: 37894.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/shall.mp4
+ERROR:root:Unsuccessful downloading - video 35464
+INFO:root:gloss: need, video: 37882.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/need.mp4
+ERROR:root:Unsuccessful downloading - video 35465
+INFO:root:gloss: need, video: 37883.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Need-0qij0e7-5Ak.mp4
+ERROR:root:Unsuccessful downloading - video 35466
+INFO:root:gloss: need, video: 37884.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468718141.8252.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=zHd4YEFzpwE already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=bzeoojCEbX0
+INFO:root:gloss: paint, video: 40838.
+INFO:root:Requesting https://www.handspeak.com/word/p/paint-art.mp4
+INFO:root:gloss: paint, video: 40839.
+INFO:root:Requesting https://www.handspeak.com/word/p/paint-wall.mp4
+ERROR:root:Unsuccessful downloading - video 40838
+INFO:root:gloss: paint, video: 40840.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14823.mp4
+ERROR:root:Unsuccessful downloading - video 40839
+INFO:root:gloss: paint, video: 40841.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14824.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=VPeBrHewtSY
+ERROR:root:Unsuccessful downloading - video 40840
+ERROR:root:Unsuccessful downloading - video 40841
+INFO:root:gloss: paint, video: 40834.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Paint%202-na0od_u1s8k.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=9V_pXf6tP_U
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=iZ713O5fNos
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/2x5hblbX1Ho
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=NGNoEmYEpCQ
+INFO:root:gloss: paint, video: 40846.
+INFO:root:Requesting http://www.aslpro.com/main/p/paint.swf
+INFO:root:gloss: paint, video: 40847.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/paint.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=WXDexpGu-zU
+INFO:root:gloss: paint, video: 40835.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Paint-e962KC5Cm5w.mp4
+INFO:root:gloss: paint, video: 40836.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Paint-qTA0nc4WYOc.mp4
+ERROR:root:Unsuccessful downloading - video 37893
+INFO:root:gloss: paint, video: 40837.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468723124.3329.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=zHd4YEFzpwE already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=f85vUmJJP8I
+INFO:root:gloss: paper, video: 41030.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1522767936.333.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=LXLQyvK23hc
+INFO:root:gloss: paper, video: 41031.
+INFO:root:Requesting https://www.handspeak.com/word/p/paper.mp4
+ERROR:root:Unsuccessful downloading - video 41031
+INFO:root:gloss: paper, video: 41032.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5899.mp4
+ERROR:root:Unsuccessful downloading - video 41032
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=zNSQm23fGzI
+INFO:root:gloss: paper, video: 41025.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/49171.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=zNSQm23fGzI
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/f_l5OkjlEpw
+INFO:root:gloss: paper, video: 41036.
+INFO:root:Requesting http://www.aslpro.com/main/p/paper.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZrdOYM36B9I
+INFO:root:gloss: paper, video: 41037.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/paper.mp4
+ERROR:root:Unsuccessful downloading - video 35467
+INFO:root:gloss: paper, video: 41026.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/paper.mp4
+INFO:root:gloss: paper, video: 41027.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Paper%202-wnfSW4-iXHY.mp4
+INFO:root:gloss: paper, video: 41028.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Paper.mp4
+INFO:root:gloss: paper, video: 41029.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468723544.417.mp4
+ERROR:root:Unsuccessful downloading - video 40846
+INFO:root:YouTube videos https://www.youtube.com/watch?v=zHd4YEFzpwE already exists.
+INFO:root:gloss: pull, video: 69439.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/pull.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=Z25ng9maolE already exists.
+INFO:root:gloss: pull, video: 45265.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468757283.4828.mp4
+INFO:root:gloss: pull, video: 45266.
+INFO:root:Requesting https://www.handspeak.com/word/p/pull.mp4
+ERROR:root:Unsuccessful downloading - video 45266
+INFO:root:gloss: pull, video: 45267.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22921.mp4
+ERROR:root:Unsuccessful downloading - video 45267
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=i5qAkbXqz9Y
+ERROR:root:Unsuccessful downloading - video 37894
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=kO_5FgRTVCs
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=v_raVhhnAIE
+INFO:root:gloss: pull, video: 66351.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PU/PULL-229.mp4
+ERROR:root:Unsuccessful downloading - video 66351
+INFO:root:gloss: pull, video: 45261.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/306777.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/nsRQOdkyTP8
+INFO:root:gloss: pull, video: 45272.
+INFO:root:Requesting http://www.aslpro.com/main/p/pull.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=zfNH9EdhgNo
+INFO:root:gloss: pull, video: 45273.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/pull.mp4
+ERROR:root:Unsuccessful downloading - video 41036
+INFO:root:gloss: pull, video: 45262.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pull2-3gtcnXxKZHs.mp4
+INFO:root:gloss: pull, video: 45263.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pull-78bHeANdyYc.mp4
+INFO:root:gloss: pull, video: 45264.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pull-N_bMKvAGxjs.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=zHd4YEFzpwE already exists.
+INFO:root:gloss: purple, video: 69440.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/purple.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ESK6NAvvsKg
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=nBhhhS7HXIo
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WprUBqi3iBc already exists.
+INFO:root:gloss: purple, video: 45438.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6858.mp4
+ERROR:root:Unsuccessful downloading - video 45438
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=lKzYzA2JZaI
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=zgdzYtHB6jg
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=zW5FrLEDRiM
+INFO:root:gloss: purple, video: 66355.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PU/PURPLE-989.mp4
+ERROR:root:Unsuccessful downloading - video 66355
+INFO:root:gloss: purple, video: 45442.
+INFO:root:Requesting http://www.aslpro.com/main/p/purple.swf
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/54csIWbS-Gc
+INFO:root:gloss: purple, video: 45443.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/purple.mp4
+ERROR:root:Unsuccessful downloading - video 45442
+INFO:root:gloss: purple, video: 45433.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/49224.mp4
+INFO:root:gloss: purple, video: 45434.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/purple.mp4
+INFO:root:gloss: purple, video: 45435.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Purple.mp4
+INFO:root:gloss: purple, video: 45436.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468757349.9136.mp4
+ERROR:root:Unsuccessful downloading - video 40847
+INFO:root:gloss: purple, video: 45437.
+INFO:root:Requesting https://www.handspeak.com/word/p/purple.mp4
+ERROR:root:Unsuccessful downloading - video 45437
+INFO:root:gloss: right, video: 48122.
+INFO:root:Requesting http://www.aslpro.com/main/r/right_correct.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=e1RF5h4OgOg
+INFO:root:gloss: right, video: 48123.
+INFO:root:Requesting http://www.aslpro.com/main/r/right_direction.swf
+ERROR:root:Unsuccessful downloading - video 45272
+INFO:root:gloss: right, video: 48105.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/right.mp4
+INFO:root:gloss: right, video: 48124.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/correct.mp4
+ERROR:root:Unsuccessful downloading - video 41037
+INFO:root:gloss: right, video: 48126.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/right.mp4
+ERROR:root:Unsuccessful downloading - video 48122
+INFO:root:gloss: right, video: 48106.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Right%2C%20Correct-XhAAfS8YF4o.mp4
+ERROR:root:Unsuccessful downloading - video 48123
+INFO:root:gloss: right, video: 48107.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Right-VC1zsuX_WU4.mp4
+INFO:root:gloss: right, video: 48108.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466903512.8429.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/0AbAh8gsQZg
+INFO:root:gloss: right, video: 48109.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468761005.7507.mp4
+INFO:root:gloss: right, video: 48111.
+INFO:root:Requesting https://www.handspeak.com/word/r/right-correct2.mp4
+ERROR:root:Unsuccessful downloading - video 48111
+INFO:root:gloss: right, video: 48112.
+INFO:root:Requesting https://www.handspeak.com/word/r/right-dir.mp4
+ERROR:root:Unsuccessful downloading - video 48112
+INFO:root:gloss: right, video: 48114.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22624.mp4
+ERROR:root:Unsuccessful downloading - video 48114
+INFO:root:gloss: right, video: 48115.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6234.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/bmc1BJWo_Pw
+ERROR:root:Unsuccessful downloading - video 48115
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=5UnUWDYxfv0
+INFO:root:gloss: same, video: 49173.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50775.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mxX9mVMl8O4
+INFO:root:gloss: same, video: 49175.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Same%2C%20Similar-u52CAu7ygrY.mp4
+ERROR:root:Unsuccessful downloading - video 45273
+INFO:root:gloss: same, video: 49176.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Same-DeqpnWES_bs.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=rDAGt54vEsI
+INFO:root:gloss: same, video: 49178.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468762687.6352.mp4
+INFO:root:gloss: same, video: 49179.
+INFO:root:Requesting https://www.handspeak.com/word/s/same-also.mp4
+INFO:root:gloss: same, video: 49180.
+INFO:root:Requesting https://www.handspeak.com/word/s/same-as.mp4
+ERROR:root:Unsuccessful downloading - video 49179
+INFO:root:gloss: same, video: 49181.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14298.mp4
+ERROR:root:Unsuccessful downloading - video 49180
+INFO:root:gloss: same, video: 49182.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8807.mp4
+ERROR:root:Unsuccessful downloading - video 49181
+ERROR:root:Unsuccessful downloading - video 49182
+INFO:root:gloss: same, video: 49183.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8808.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/BZxoTuwBHvA
+ERROR:root:Unsuccessful downloading - video 49183
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/sR_PzooQLx4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=cnX45VWbjmc
+INFO:root:gloss: same, video: 49187.
+INFO:root:Requesting http://www.aslpro.com/main/s/same.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=o1NMZAc7vO4
+INFO:root:gloss: same, video: 49188.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/same.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=OwtSP1QozuE
+INFO:root:gloss: same, video: 49174.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Same%202-YS_M2kWlN4E.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Aq6l7fEWRVM
+INFO:root:YouTube videos https://www.youtube.com/watch?v=bq-HmgjGzmw already exists.
+INFO:root:gloss: son, video: 53272.
+INFO:root:Requesting https://www.handspeak.com/word/s/son.mp4
+ERROR:root:Unsuccessful downloading - video 53272
+INFO:root:gloss: son, video: 53273.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6483.mp4
+ERROR:root:Unsuccessful downloading - video 53273
+INFO:root:gloss: son, video: 53274.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8467.mp4
+ERROR:root:Unsuccessful downloading - video 53274
+INFO:root:gloss: son, video: 53275.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8468.mp4
+ERROR:root:Unsuccessful downloading - video 53275
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=IRIy8xUFfHk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=JtgGFe8HIFQ
+INFO:root:gloss: son, video: 66531.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SON-1095.mp4
+ERROR:root:Unsuccessful downloading - video 66531
+INFO:root:gloss: son, video: 66532.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SON-2294.mp4
+ERROR:root:Unsuccessful downloading - video 66532
+INFO:root:gloss: son, video: 53268.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/son.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/rbEp5hFQljM
+INFO:root:gloss: son, video: 53278.
+INFO:root:Requesting http://www.aslpro.com/main/s/son.swf
+ERROR:root:Unsuccessful downloading - video 45443
+INFO:root:gloss: son, video: 53279.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/son.mp4
+ERROR:root:Unsuccessful downloading - video 48124
+INFO:root:gloss: son, video: 53269.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Son%20old-cbYUv1Dfe-E.mp4
+INFO:root:gloss: son, video: 53270.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Son-xK7RVeNsExY.mp4
+INFO:root:gloss: son, video: 53271.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468776548.4657.mp4
+ERROR:root:Unsuccessful downloading - video 48126
+INFO:root:YouTube videos https://www.youtube.com/watch?v=x6CehcknaH8 already exists.
+INFO:root:gloss: tell, video: 57278.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468943705.2416.mp4
+INFO:root:gloss: tell, video: 57279.
+INFO:root:Requesting https://www.handspeak.com/word/t/tell-me.mp4
+INFO:root:gloss: tell, video: 57280.
+INFO:root:Requesting https://www.handspeak.com/word/t/tell.mp4
+ERROR:root:Unsuccessful downloading - video 57279
+INFO:root:gloss: tell, video: 57281.
+INFO:root:Requesting https://www.handspeak.com/word/t/tell-them.mp4
+ERROR:root:Unsuccessful downloading - video 57280
+INFO:root:gloss: tell, video: 57282.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14398.mp4
+ERROR:root:Unsuccessful downloading - video 57281
+INFO:root:gloss: tell, video: 57283.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6412.mp4
+ERROR:root:Unsuccessful downloading - video 57282
+INFO:root:gloss: tell, video: 57284.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7823.mp4
+ERROR:root:Unsuccessful downloading - video 57283
+INFO:root:gloss: tell, video: 57285.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9494.mp4
+ERROR:root:Unsuccessful downloading - video 57284
+INFO:root:gloss: tell, video: 57276.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/58555.mp4
+ERROR:root:Unsuccessful downloading - video 57285
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/giIzGcYftow
+INFO:root:gloss: tell, video: 57286.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9495.mp4
+ERROR:root:Unsuccessful downloading - video 57286
+INFO:root:gloss: tell, video: 57287.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9828.mp4
+ERROR:root:Unsuccessful downloading - video 49187
+ERROR:root:Unsuccessful downloading - video 57287
+INFO:root:gloss: tell, video: 57290.
+INFO:root:Requesting http://www.aslpro.com/main/t/tell.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=SvfopPYaJJU
+INFO:root:gloss: tell, video: 57291.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/tell.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Uda6XJH18yw
+INFO:root:gloss: tell, video: 57277.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tell-BJ_V7T3naFY.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=x6CehcknaH8 already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=sErq0TJMKEo already exists.
+INFO:root:gloss: thursday, video: 58362.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Thursday-rvL5KYKyuS8.mp4
+INFO:root:gloss: thursday, video: 58363.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468945192.6467.mp4
+INFO:root:gloss: thursday, video: 58364.
+INFO:root:Requesting https://www.handspeak.com/word/t/thursday.mp4
+ERROR:root:Unsuccessful downloading - video 58364
+INFO:root:gloss: thursday, video: 58365.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6019.mp4
+ERROR:root:Unsuccessful downloading - video 58365
+INFO:root:gloss: thursday, video: 58366.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6020.mp4
+ERROR:root:Unsuccessful downloading - video 58366
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=avbqdo5HoQc
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=PJs5VaRTMak
+INFO:root:gloss: thursday, video: 66637.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THURSDAY-1224.mp4
+ERROR:root:Unsuccessful downloading - video 66637
+INFO:root:gloss: thursday, video: 66638.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THURSDAY-1228.mp4
+ERROR:root:Unsuccessful downloading - video 66638
+INFO:root:gloss: thursday, video: 66639.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THURSDAY-1229.mp4
+ERROR:root:Unsuccessful downloading - video 66639
+INFO:root:gloss: thursday, video: 66640.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THURSDAY-1331.mp4
+ERROR:root:Unsuccessful downloading - video 66640
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/3HztBiJlikY
+ERROR:root:Unsuccessful downloading - video 53278
+INFO:root:gloss: thursday, video: 58369.
+INFO:root:Requesting http://www.aslpro.com/main/t/thursday.swf
+INFO:root:gloss: thursday, video: 58370.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/thursday.mp4
+ERROR:root:Unsuccessful downloading - video 57290
+INFO:root:gloss: thursday, video: 58360.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50882.mp4
+ERROR:root:Unsuccessful downloading - video 49188
+INFO:root:gloss: thursday, video: 58361.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/thursday.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=cP1FdT_zo7U
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=4nMNMyBAXQw
+INFO:root:gloss: visit, video: 61807.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Visit%202-5Dgxt9vLDMQ.mp4
+INFO:root:gloss: visit, video: 61808.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Visit%203-7FEKfpGz_vQ.mp4
+INFO:root:gloss: visit, video: 61809.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Visit-psRhQvN_hLo.mp4
+INFO:root:gloss: visit, video: 61810.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468926605.5501.mp4
+INFO:root:gloss: visit, video: 61811.
+INFO:root:Requesting https://www.handspeak.com/word/v/visit.mp4
+ERROR:root:Unsuccessful downloading - video 61811
+INFO:root:gloss: visit, video: 61812.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14209.mp4
+ERROR:root:Unsuccessful downloading - video 61812
+INFO:root:gloss: visit, video: 66731.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/VI/VISIT-2507.mp4
+ERROR:root:Unsuccessful downloading - video 66731
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=PWLbRrwK4i8
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=PWLbRrwK4i8
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=QlBgIziCGWM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=SWefjHHUouc
+INFO:root:gloss: visit, video: 61818.
+INFO:root:Requesting http://www.aslpro.com/main/v/visit.swf
+ERROR:root:Unsuccessful downloading - video 58369
+INFO:root:gloss: visit, video: 61819.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/visit.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=wosMxHHFE_4
+INFO:root:gloss: visit, video: 61805.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51501.mp4
+ERROR:root:Unsuccessful downloading - video 53279
+INFO:root:gloss: visit, video: 61806.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/visit.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+INFO:root:gloss: wait, video: 62113.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/stall.mp4
+INFO:root:gloss: wait, video: 62098.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/wait.mp4
+INFO:root:gloss: wait, video: 62100.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20wait-g4zPWVKTVc4.mp4
+INFO:root:gloss: wait, video: 62101.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wait-hooZv2wCujw.mp4
+INFO:root:gloss: wait, video: 62102.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wait-mo6REHINcoE.mp4
+INFO:root:gloss: wait, video: 62103.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468926839.9265.mp4
+INFO:root:gloss: wait, video: 62104.
+INFO:root:Requesting https://www.handspeak.com/word/w/wait-long.mp4
+ERROR:root:Unsuccessful downloading - video 62104
+INFO:root:gloss: wait, video: 62105.
+INFO:root:Requesting https://www.handspeak.com/word/w/wait.mp4
+ERROR:root:Unsuccessful downloading - video 62105
+INFO:root:gloss: wait, video: 62106.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7259.mp4
+ERROR:root:Unsuccessful downloading - video 62106
+INFO:root:gloss: wait, video: 66740.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WA/WAIT-1405.mp4
+ERROR:root:Unsuccessful downloading - video 66740
+INFO:root:gloss: wait, video: 62097.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50933.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/QlMV4KuPClU
+INFO:root:gloss: wait, video: 62107.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9671.mp4
+ERROR:root:Unsuccessful downloading - video 62107
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=D-zw_kLwYzI
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=mhJvv6lTQ90
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=YfwgS9ZsBVw
+INFO:root:gloss: wait, video: 62112.
+INFO:root:Requesting http://www.aslpro.com/main/w/wait.swf
+ERROR:root:Unsuccessful downloading - video 57291
+INFO:root:YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=HHX-yrm-DMk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=jDCw7stJaM4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=n1LXJrNY5Cs
+INFO:root:gloss: water, video: 62504.
+INFO:root:Requesting https://www.handspeak.com/word/w/water.mp4
+ERROR:root:Unsuccessful downloading - video 62504
+INFO:root:gloss: water, video: 62505.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22969.mp4
+ERROR:root:Unsuccessful downloading - video 62505
+INFO:root:gloss: water, video: 62506.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22970.mp4
+ERROR:root:Unsuccessful downloading - video 62506
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=QDlDLqvdApI
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-SdOfxGhb0A
+INFO:root:gloss: water, video: 66752.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WA/WATER-1414.mp4
+ERROR:root:Unsuccessful downloading - video 61818
+INFO:root:gloss: water, video: 62499.
+INFO:root:Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/water.mov
+ERROR:root:Unsuccessful downloading - video 66752
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/BWUyTapkOvM
+INFO:root:gloss: water, video: 62509.
+INFO:root:Requesting http://www.aslpro.com/main/w/water.swf
+ERROR:root:Unsuccessful downloading - video 58370
+INFO:root:gloss: water, video: 62510.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/water.mp4
+INFO:root:gloss: water, video: 62500.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/486561.mp4
+INFO:root:gloss: water, video: 62501.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/water.mp4
+INFO:root:gloss: water, video: 62502.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Water-4xQijOap0PY.mp4
+INFO:root:gloss: water, video: 62503.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468927236.4055.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=bq-HmgjGzmw already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=OKIo57nAGU0
+INFO:root:gloss: wife, video: 63329.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468928479.8850.mp4
+INFO:root:gloss: wife, video: 63330.
+INFO:root:Requesting https://www.handspeak.com/word/w/wife2.mp4
+ERROR:root:Unsuccessful downloading - video 63330
+INFO:root:gloss: wife, video: 63331.
+INFO:root:Requesting https://www.handspeak.com/word/w/wife.mp4
+ERROR:root:Unsuccessful downloading - video 63331
+INFO:root:gloss: wife, video: 63332.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23356.mp4
+ERROR:root:Unsuccessful downloading - video 63332
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Fk4hePvsGxA
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=HRv4XLlwdcc
+INFO:root:gloss: wife, video: 66784.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WI/WIFE-1434.mp4
+ERROR:root:Unsuccessful downloading - video 66784
+INFO:root:gloss: wife, video: 66785.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WI/WIFE-2237.mp4
+ERROR:root:Unsuccessful downloading - video 66785
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/hWfPA0ZltzE
+INFO:root:YouTube videos https://www.youtube.com/watch?v=HRv4XLlwdcc already exists.
+INFO:root:gloss: wife, video: 63336.
+INFO:root:Requesting http://www.aslpro.com/main/w/wife.swf
+ERROR:root:Unsuccessful downloading - video 62112
+INFO:root:gloss: wife, video: 63337.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/wife.mp4
+ERROR:root:Unsuccessful downloading - video 62509
+INFO:root:gloss: wife, video: 63326.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51069.mp4
+ERROR:root:Unsuccessful downloading - video 61819
+INFO:root:gloss: wife, video: 63327.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/wife.mp4
+INFO:root:gloss: wife, video: 63328.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wife-945Zh95UWMI.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=BRO-oYGV224 already exists.
+INFO:root:gloss: yellow, video: 69545.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/yellow.mp4
+ERROR:root:Unsuccessful downloading - video 62113
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=iFSTgu0O-cY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=VkyiF6YLSlc
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WprUBqi3iBc already exists.
+INFO:root:gloss: yellow, video: 64266.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7598.mp4
+ERROR:root:Unsuccessful downloading - video 64266
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7JiwJ_ACDjs
+INFO:root:gloss: yellow, video: 66819.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/YE/YELLOW-1470.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=GY90AmJYl0E
+ERROR:root:Unsuccessful downloading - video 66819
+INFO:root:gloss: yellow, video: 64270.
+INFO:root:Requesting http://www.aslpro.com/main/y/yellow.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZTkUfFaizqM
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/beC9KQF_r1Q
+INFO:root:gloss: yellow, video: 64271.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/yellow.mp4
+INFO:root:gloss: yellow, video: 64261.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51105.mp4
+INFO:root:gloss: yellow, video: 64262.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/yellow.mp4
+INFO:root:gloss: yellow, video: 64263.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Yellow.mp4
+INFO:root:gloss: yellow, video: 64264.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468774968.1234.mp4
+INFO:root:gloss: yellow, video: 64265.
+INFO:root:Requesting https://www.handspeak.com/word/y/yellow.mp4
+ERROR:root:Unsuccessful downloading - video 64265
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+ERROR:root:Unsuccessful downloading - video 63336
+INFO:root:gloss: backpack, video: 04618.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Backpack-Q0krKdFUujw.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=v5B1j9lFKts
+INFO:root:gloss: backpack, video: 04619.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Backpack-QE2mPtq4Rh4.mp4
+INFO:root:gloss: backpack, video: 04620.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1545783889.6913.mp4
+INFO:root:gloss: backpack, video: 04621.
+INFO:root:Requesting https://www.handspeak.com/word/b/backpack.mp4
+ERROR:root:Unsuccessful downloading - video 04621
+INFO:root:gloss: backpack, video: 04622.
+INFO:root:Requesting https://www.handspeak.com/word/b/backpack-travel.mp4
+INFO:root:gloss: backpack, video: 04624.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5369.mp4
+ERROR:root:Unsuccessful downloading - video 04624
+INFO:root:gloss: backpack, video: 65123.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BACKPACK-408.mp4
+ERROR:root:Unsuccessful downloading - video 04622
+INFO:root:gloss: backpack, video: 04616.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Backpack%202-ogbE4s8sAO0.mp4
+ERROR:root:Unsuccessful downloading - video 65123
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=B9TD7vd2-lo
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=iTlF3KqKQUA
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Le7g5M_zIJQ
+INFO:root:gloss: backpack, video: 04630.
+INFO:root:Requesting http://www.aslpro.com/main/b/backpack.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=St5PWSrZpOY
+INFO:root:gloss: backpack, video: 04631.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/backpack.mp4
+ERROR:root:Unsuccessful downloading - video 62510
+INFO:root:gloss: backpack, video: 04617.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Backpack-JmEh_jXrVGU.mp4
+INFO:root:gloss: bar, video: 65137.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BAR-2203.mp4
+ERROR:root:Unsuccessful downloading - video 65137
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=kGPN_mu3qQM
+INFO:root:gloss: bar, video: 05103.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/bar.mp4
+ERROR:root:Unsuccessful downloading - video 64270
+INFO:root:gloss: bar, video: 05086.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bar.mp4
+INFO:root:gloss: bar, video: 05087.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bar-JB6vFqncL3E.mp4
+INFO:root:gloss: bar, video: 05088.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466648858.5329.mp4
+INFO:root:gloss: bar, video: 05089.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466648932.5606.mp4
+INFO:root:gloss: bar, video: 05090.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468757192.2435.mp4
+INFO:root:gloss: bar, video: 05092.
+INFO:root:Requesting https://www.handspeak.com/word/b/bar-pub.mp4
+ERROR:root:Unsuccessful downloading - video 05092
+INFO:root:gloss: bar, video: 05093.
+INFO:root:Requesting https://www.handspeak.com/word/b/bar-rod.mp4
+ERROR:root:Unsuccessful downloading - video 05093
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/EoFo7upFN8g
+INFO:root:gloss: bar, video: 05095.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5077.mp4
+ERROR:root:Unsuccessful downloading - video 05095
+INFO:root:gloss: bar, video: 05097.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5079.mp4
+ERROR:root:Unsuccessful downloading - video 05097
+INFO:root:gloss: bar, video: 05098.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7456.mp4
+ERROR:root:Unsuccessful downloading - video 05098
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-qJFy-ADQGY
+INFO:root:gloss: bar, video: 05101.
+INFO:root:Requesting http://www.aslpro.com/main/b/bar.swf
+ERROR:root:Unsuccessful downloading - video 63337
+INFO:root:gloss: bar, video: 05102.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/bar2.mp4
+ERROR:root:Unsuccessful downloading - video 04630
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+INFO:root:gloss: brother, video: 69251.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/brother.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=jdl69Fp9eg8
+INFO:root:gloss: brother, video: 07937.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Brother.mp4
+INFO:root:gloss: brother, video: 07938.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466724511.7331.mp4
+INFO:root:gloss: brother, video: 07939.
+INFO:root:Requesting https://www.handspeak.com/word/b/brother.mp4
+ERROR:root:Unsuccessful downloading - video 07939
+INFO:root:gloss: brother, video: 07940.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5783.mp4
+ERROR:root:Unsuccessful downloading - video 07940
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=G0fzmn3pQng
+INFO:root:gloss: brother, video: 65262.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BR/BROTHER-52.mp4
+ERROR:root:Unsuccessful downloading - video 65262
+INFO:root:gloss: brother, video: 07932.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/125568.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/0j1ddj7K5X8
+INFO:root:gloss: brother, video: 07942.
+INFO:root:Requesting http://www.aslpro.com/main/b/brother.swf
+ERROR:root:Unsuccessful downloading - video 64271
+INFO:root:gloss: brother, video: 07943.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/brother.mp4
+ERROR:root:Unsuccessful downloading - video 05101
+INFO:root:gloss: brother, video: 07933.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/brother.mp4
+INFO:root:gloss: brother, video: 07934.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Boy%20Same%2C%20Brother%202--xhd1F9dpYc.mp4
+INFO:root:gloss: brother, video: 07935.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Brother%202-aDl0aYDbAkw.mp4
+INFO:root:gloss: brother, video: 07936.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Brother-JV5uq2ITsh4.mp4
+ERROR:root:Unsuccessful downloading - video 04631
+INFO:root:YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+INFO:root:gloss: cat, video: 69261.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/cat.mp4
+INFO:root:gloss: cat, video: 09528.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cat-jfXVt72cOm8.mp4
+INFO:root:gloss: cat, video: 09530.
+INFO:root:Requesting https://www.handspeak.com/word/c/cat-hs20.mp4
+ERROR:root:Unsuccessful downloading - video 09530
+INFO:root:gloss: cat, video: 09531.
+INFO:root:Requesting https://www.handspeak.com/word/c/cat.mp4
+ERROR:root:Unsuccessful downloading - video 09531
+INFO:root:gloss: cat, video: 09532.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23063.mp4
+ERROR:root:Unsuccessful downloading - video 09532
+INFO:root:gloss: cat, video: 09533.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23064.mp4
+ERROR:root:Unsuccessful downloading - video 09533
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ekFrFoJ-x78
+INFO:root:gloss: cat, video: 65312.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAT-1037.mp4
+ERROR:root:Unsuccessful downloading - video 65312
+INFO:root:gloss: cat, video: 65313.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAT-1040.mp4
+ERROR:root:Unsuccessful downloading - video 65313
+INFO:root:gloss: cat, video: 09525.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/125842.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/6EEK-SECVDo
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Pb0K73Dx7uM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=PHblYe-5h5g
+INFO:root:gloss: cat, video: 09537.
+INFO:root:Requesting http://www.aslpro.com/main/c/cat.swf
+INFO:root:gloss: cat, video: 09538.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/cat.mp4
+ERROR:root:Unsuccessful downloading - video 07942
+INFO:root:gloss: cat, video: 09526.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cat.mp4
+ERROR:root:Unsuccessful downloading - video 05103
+INFO:root:gloss: check, video: 65343.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CH/CHECK-1059.mp4
+ERROR:root:Unsuccessful downloading - video 09537
+INFO:root:gloss: check, video: 10184.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Card-Ubjzc778qdo.mp4
+INFO:root:gloss: check, video: 10185.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Check-dhK71WnuPPQ.mp4
+ERROR:root:Unsuccessful downloading - video 65343
+INFO:root:gloss: check, video: 10186.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466731128.19.mp4
+INFO:root:gloss: check, video: 10187.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466731165.5151.mp4
+INFO:root:gloss: check, video: 10188.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468378356.4361.mp4
+INFO:root:gloss: check, video: 10189.
+INFO:root:Requesting https://www.handspeak.com/word/c/check.mp4
+INFO:root:gloss: check, video: 10190.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23211.mp4
+INFO:root:gloss: check, video: 10192.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9988.mp4
+ERROR:root:Unsuccessful downloading - video 10190
+INFO:root:gloss: check, video: 10183.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/125943.mp4
+ERROR:root:Unsuccessful downloading - video 10189
+ERROR:root:Unsuccessful downloading - video 10192
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/x-woI4apbkY
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=dRiWaohQ2d8
+INFO:root:gloss: check, video: 10196.
+INFO:root:Requesting http://www.aslpro.com/main/c/check.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=dRiWaohQ2d8
+INFO:root:gloss: check, video: 10197.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/check4.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=v-pa2sZr1a8
+INFO:root:gloss: check, video: 10199.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/check.mp4
+ERROR:root:Unsuccessful downloading - video 05102
+INFO:root:YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+INFO:root:gloss: class, video: 69270.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/class.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=cecj9ZwnEHM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=chZxUBeO5Oo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=T87bUZQZmSw
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=zYsmQgZRW0g
+INFO:root:gloss: class, video: 10975.
+INFO:root:Requesting http://www.aslpro.com/main/c/class.swf
+ERROR:root:Unsuccessful downloading - video 07943
+INFO:root:gloss: class, video: 10976.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/class.mp4
+ERROR:root:Unsuccessful downloading - video 10196
+INFO:root:gloss: class, video: 65364.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CL/CLASS-585.mp4
+ERROR:root:Unsuccessful downloading - video 65364
+INFO:root:gloss: class, video: 10967.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/62732.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/Myn8y2k4Vsg
+INFO:root:gloss: class, video: 10968.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/class.mp4
+INFO:root:gloss: class, video: 10969.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Class.mp4
+INFO:root:gloss: class, video: 10970.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466898679.4866.mp4
+INFO:root:gloss: class, video: 10971.
+INFO:root:Requesting https://www.handspeak.com/word/c/class.mp4
+ERROR:root:Unsuccessful downloading - video 10971
+INFO:root:gloss: class, video: 10972.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9005.mp4
+ERROR:root:Unsuccessful downloading - video 10972
+INFO:root:gloss: class, video: 10973.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9413.mp4
+ERROR:root:Unsuccessful downloading - video 10973
+INFO:root:YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+INFO:root:gloss: cry, video: 14190.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/cry.mp4
+ERROR:root:Unsuccessful downloading - video 10975
+INFO:root:gloss: cry, video: 14175.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cry.mp4
+INFO:root:gloss: cry, video: 14176.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cry-h4Wi_1czvI8.mp4
+ERROR:root:Unsuccessful downloading - video 09538
+INFO:root:gloss: cry, video: 14177.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466905512.2250.mp4
+INFO:root:gloss: cry, video: 14178.
+INFO:root:Requesting https://www.handspeak.com/word/c/cry2.mp4
+INFO:root:gloss: cry, video: 14179.
+INFO:root:Requesting https://www.handspeak.com/word/c/cry.mp4
+ERROR:root:Unsuccessful downloading - video 14178
+INFO:root:gloss: cry, video: 14180.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14521.mp4
+ERROR:root:Unsuccessful downloading - video 14179
+INFO:root:gloss: cry, video: 14182.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9349.mp4
+ERROR:root:Unsuccessful downloading - video 14180
+INFO:root:gloss: cry, video: 14183.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9350.mp4
+ERROR:root:Unsuccessful downloading - video 14182
+INFO:root:gloss: cry, video: 65427.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CR/CRY-437.mp4
+ERROR:root:Unsuccessful downloading - video 65427
+INFO:root:gloss: cry, video: 14174.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51555.mp4
+ERROR:root:Unsuccessful downloading - video 14183
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/TcODOeucG60
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2d8EvTygLOc
+INFO:root:gloss: cry, video: 14187.
+INFO:root:Requesting http://www.aslpro.com/main/c/cry.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=N6EpoWObVVU
+INFO:root:gloss: cry, video: 14188.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/cry2.mp4
+ERROR:root:Unsuccessful downloading - video 14187
+INFO:root:YouTube videos https://www.youtube.com/watch?v=ChIupJBcxjs already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=iPVMxOaLm18
+ERROR:root:Unsuccessful downloading - video 10197
+INFO:root:gloss: different, video: 16195.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466909581.7651.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=LsG5Pxe7bq4
+INFO:root:gloss: different, video: 16196.
+INFO:root:Requesting https://www.handspeak.com/word/d/different2.mp4
+INFO:root:gloss: different, video: 16197.
+INFO:root:Requesting https://www.handspeak.com/word/d/different.mp4
+ERROR:root:Unsuccessful downloading - video 16196
+INFO:root:gloss: different, video: 16198.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7825.mp4
+ERROR:root:Unsuccessful downloading - video 10199
+ERROR:root:Unsuccessful downloading - video 16197
+INFO:root:gloss: different, video: 65480.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DI/DIFFERENT-106.mp4
+ERROR:root:Unsuccessful downloading - video 16198
+ERROR:root:Unsuccessful downloading - video 65480
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=EunD6JXshgY
+INFO:root:gloss: different, video: 16202.
+INFO:root:Requesting http://www.aslpro.com/main/d/different.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=KTy-PKpWS-Y
+INFO:root:gloss: different, video: 16203.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/differ.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=KTy-PKpWS-Y
+INFO:root:gloss: different, video: 16191.
+INFO:root:Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/different.mov
+INFO:root:gloss: different, video: 16192.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/399472.mp4
+INFO:root:gloss: different, video: 16193.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/different.mp4
+INFO:root:gloss: different, video: 16194.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Different-JM7Z5mfnrSk.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=ChIupJBcxjs already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WGfiiDgrq1I already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Y24sRF_8lFU
+INFO:root:gloss: door, video: 17327.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1467773171.4474.mp4
+INFO:root:gloss: door, video: 17329.
+INFO:root:Requesting https://www.handspeak.com/word/d/door.mp4
+ERROR:root:Unsuccessful downloading - video 17329
+INFO:root:gloss: door, video: 17330.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9542.mp4
+ERROR:root:Unsuccessful downloading - video 17330
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ajNNZaXf45Q
+INFO:root:YouTube videos https://www.youtube.com/watch?v=ajNNZaXf45Q already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=WCGDN5CniTY
+INFO:root:gloss: door, video: 65520.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DO/DOOR-116.mp4
+ERROR:root:Unsuccessful downloading - video 65520
+INFO:root:gloss: door, video: 17324.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/58457.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/_tGFUbZjhKs
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=xzIU5tmBrLc
+INFO:root:gloss: door, video: 17335.
+INFO:root:Requesting http://www.aslpro.com/main/d/door.swf
+ERROR:root:Unsuccessful downloading - video 10976
+INFO:root:gloss: door, video: 17336.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/door.mp4
+ERROR:root:Unsuccessful downloading - video 16202
+INFO:root:gloss: door, video: 17325.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/door.mp4
+INFO:root:gloss: door, video: 17326.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Door-go43NtANc7U.mp4
+ERROR:root:Unsuccessful downloading - video 14190
+INFO:root:YouTube videos https://www.youtube.com/watch?v=YdHKN_wHZqo already exists.
+INFO:root:gloss: green, video: 69353.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/green.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WprUBqi3iBc already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=yORTcsp2lLY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=cd4Ixihgu3Q
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=nlo3F62MYEw
+INFO:root:gloss: green, video: 25694.
+INFO:root:Requesting http://www.aslpro.com/main/g/green.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=WrkXE5l6udM
+INFO:root:gloss: green, video: 65854.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GR/GREEN-475.mp4
+ERROR:root:Unsuccessful downloading - video 65854
+INFO:root:gloss: green, video: 25685.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/357968.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/-_amEuxo4-c
+INFO:root:gloss: green, video: 25695.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/green.mp4
+ERROR:root:Unsuccessful downloading - video 17335
+INFO:root:gloss: green, video: 25686.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/green.mp4
+INFO:root:gloss: green, video: 25687.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468550572.2971.mp4
+INFO:root:gloss: green, video: 25688.
+INFO:root:Requesting https://www.handspeak.com/word/g/green.mp4
+ERROR:root:Unsuccessful downloading - video 25688
+INFO:root:gloss: green, video: 25689.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14902.mp4
+ERROR:root:Unsuccessful downloading - video 25689
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=2mmf27exWn8
+INFO:root:YouTube videos https://www.youtube.com/watch?v=SiBub8VD5wo already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=e1Gbf1oa2dc
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=PzKm2HeixmA
+INFO:root:gloss: hair, video: 26173.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/hair2.mp4
+ERROR:root:Unsuccessful downloading - video 14188
+INFO:root:gloss: hair, video: 26174.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/hair.mp4
+ERROR:root:Unsuccessful downloading - video 16203
+INFO:root:gloss: hair, video: 26158.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hair-long.mp4
+INFO:root:gloss: hair, video: 26159.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hair.mp4
+INFO:root:gloss: hair, video: 26162.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hair-YOQEVV-TL7c.mp4
+INFO:root:gloss: hair, video: 26163.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468551480.5090.mp4
+INFO:root:gloss: hair, video: 65870.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HA/HAIR-1848.mp4
+ERROR:root:Unsuccessful downloading - video 65870
+INFO:root:gloss: hair, video: 26166.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23925.mp4
+ERROR:root:Unsuccessful downloading - video 26166
+INFO:root:gloss: hair, video: 26157.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/456539.mp4
+ERROR:root:Unsuccessful downloading - video 25694
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/YIbZVZ-67nA
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=9j2d2WQsriY
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=O5PVGlPfAdA
+INFO:root:gloss: hair, video: 26172.
+INFO:root:Requesting http://www.aslpro.com/main/h/hair.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=O5PVGlPfAdA
+INFO:root:YouTube videos https://www.youtube.com/watch?v=SiBub8VD5wo already exists.
+INFO:root:gloss: have, video: 69360.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/have.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=EyLhZq2s6AI
+INFO:root:YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=W25sZPGnTJc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=ZtprdAYVlmI
+INFO:root:gloss: have, video: 26773.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7433.mp4
+ERROR:root:Unsuccessful downloading - video 26773
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=MeNcohEBMHU
+INFO:root:gloss: have, video: 26766.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/have.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/16kWab7asJ0
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=NETjnRpimm8
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=OZKNIcIFqvU
+INFO:root:gloss: have, video: 26778.
+INFO:root:Requesting http://www.aslpro.com/main/h/have.swf
+ERROR:root:Unsuccessful downloading - video 17336
+INFO:root:gloss: have, video: 26779.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/has.mp4
+ERROR:root:Unsuccessful downloading - video 26172
+INFO:root:gloss: have, video: 26767.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Have-5EEsTqgJ6dw.mp4
+ERROR:root:Unsuccessful downloading - video 25695
+INFO:root:gloss: have, video: 26768.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468579931.5661.mp4
+INFO:root:gloss: have, video: 26770.
+INFO:root:Requesting https://www.handspeak.com/word/h/have2.mp4
+ERROR:root:Unsuccessful downloading - video 26770
+INFO:root:YouTube videos https://www.youtube.com/watch?v=SiBub8VD5wo already exists.
+INFO:root:gloss: headache, video: 26835.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bad%20Headache-_dx7n545hbc.mp4
+INFO:root:gloss: headache, video: 26836.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/Signschool%20Headache-J1Y1SuISPL0.mp4
+INFO:root:gloss: headache, video: 26837.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468580092.2901.mp4
+INFO:root:gloss: headache, video: 26838.
+INFO:root:Requesting https://www.handspeak.com/word/h/headache.mp4
+INFO:root:gloss: headache, video: 26839.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14189.mp4
+ERROR:root:Unsuccessful downloading - video 26838
+INFO:root:gloss: headache, video: 26840.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14190.mp4
+ERROR:root:Unsuccessful downloading - video 26839
+ERROR:root:Unsuccessful downloading - video 26840
+INFO:root:gloss: headache, video: 65881.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HEADACHE-1997.mp4
+ERROR:root:Unsuccessful downloading - video 65881
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=4hjOQ8h1sBY
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/9CyEdCrk9ag
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=BNPsGAjo6nI
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=hCePLZW65pQ
+INFO:root:gloss: headache, video: 26845.
+INFO:root:Requesting http://www.aslpro.com//main/h/headache.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZnwxFOv3SD8
+INFO:root:gloss: headache, video: 26846.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/headache.mp4
+ERROR:root:Unsuccessful downloading - video 26173
+INFO:root:gloss: headache, video: 26833.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/456563.mp4
+INFO:root:gloss: headache, video: 26834.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/headache.mp4
+ERROR:root:Unsuccessful downloading - video 26174
+INFO:root:gloss: inform, video: 29648.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Inform%2C%20Let%20You%20Know-Mc2Tt9PNM3Y.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=K1YuKDdDp_k
+INFO:root:gloss: inform, video: 29649.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468666919.6739.mp4
+INFO:root:gloss: inform, video: 29650.
+INFO:root:Requesting https://www.handspeak.com/word/i/inform2.mp4
+INFO:root:gloss: inform, video: 29651.
+INFO:root:Requesting https://www.handspeak.com/word/i/inform-all.mp4
+ERROR:root:Unsuccessful downloading - video 29650
+INFO:root:gloss: inform, video: 29652.
+INFO:root:Requesting https://www.handspeak.com/word/i/inform-hir2.mp4
+ERROR:root:Unsuccessful downloading - video 29651
+INFO:root:gloss: inform, video: 29653.
+INFO:root:Requesting https://www.handspeak.com/word/i/inform-hir.mp4
+ERROR:root:Unsuccessful downloading - video 29652
+INFO:root:gloss: inform, video: 29654.
+INFO:root:Requesting https://www.handspeak.com/word/i/inform-you.mp4
+ERROR:root:Unsuccessful downloading - video 26778
+INFO:root:gloss: inform, video: 29655.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22421.mp4
+ERROR:root:Unsuccessful downloading - video 29653
+INFO:root:gloss: inform, video: 65940.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IN/INFORM-1733.mp4
+ERROR:root:Unsuccessful downloading - video 29654
+INFO:root:gloss: inform, video: 29646.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51857.mp4
+ERROR:root:Unsuccessful downloading - video 65940
+INFO:root:gloss: inform, video: 29656.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9501.mp4
+ERROR:root:Unsuccessful downloading - video 29655
+INFO:root:gloss: inform, video: 29657.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9502.mp4
+ERROR:root:Unsuccessful downloading - video 29656
+ERROR:root:Unsuccessful downloading - video 29657
+INFO:root:gloss: inform, video: 29660.
+INFO:root:Requesting http://www.aslpro.com/main/i/inform.swf
+INFO:root:gloss: inform, video: 29661.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/inform.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=BGdDXKIB1sY
+INFO:root:gloss: inform, video: 29647.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/inform.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=D2Vg3lKjX78 already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pc0-gVEETVg already exists.
+INFO:root:gloss: knife, video: 31843.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457473.mp4
+INFO:root:gloss: knife, video: 31844.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Knife-CAfDahqUXr4.mp4
+INFO:root:gloss: knife, video: 31846.
+INFO:root:Requesting https://www.handspeak.com/word/k/knife.mp4
+ERROR:root:Unsuccessful downloading - video 31846
+INFO:root:gloss: knife, video: 31848.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23039.mp4
+ERROR:root:Unsuccessful downloading - video 31848
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=47-oTgaEGIw
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=x_ed0qFF3tE
+INFO:root:gloss: knife, video: 66000.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/KN/KNIFE-167.mp4
+ERROR:root:Unsuccessful downloading - video 66000
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/7S3NXRcbPRI
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=xtmQylh07Dc
+INFO:root:gloss: knife, video: 31852.
+INFO:root:Requesting http://www.aslpro.com/main/k/knife_bread.swf
+ERROR:root:Unsuccessful downloading - video 26845
+INFO:root:gloss: knife, video: 31853.
+INFO:root:Requesting http://www.aslpro.com/main/k/knife_electric.swf
+ERROR:root:Unsuccessful downloading - video 29660
+INFO:root:gloss: knife, video: 31854.
+INFO:root:Requesting http://www.aslpro.com/main/k/knife_sharpener.swf
+ERROR:root:Unsuccessful downloading - video 26779
+INFO:root:gloss: knife, video: 31855.
+INFO:root:Requesting http://www.aslpro.com/main/k/knife.swf
+ERROR:root:Unsuccessful downloading - video 31854
+INFO:root:gloss: knife, video: 31856.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/knife.mp4
+ERROR:root:Unsuccessful downloading - video 31852
+INFO:root:gloss: knife, video: 31842.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457472.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=EhkIoTNxwGE already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=JPDU2pWIyDE
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=UU4MRMrBLdU
+INFO:root:gloss: laugh, video: 32397.
+INFO:root:Requesting http://www.aslpro.com/main/l/laugh.swf
+ERROR:root:Unsuccessful downloading - video 31853
+INFO:root:gloss: laugh, video: 32398.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/laugh.mp4
+ERROR:root:Unsuccessful downloading - video 26846
+INFO:root:gloss: laugh, video: 32379.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Laugh%202-kz8jHKm1dLU.mp4
+INFO:root:gloss: laugh, video: 32380.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Laugh%203-aWR8gHhNlH0.mp4
+INFO:root:gloss: laugh, video: 32381.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Laugh%206-IUbR6I36O58.mp4
+INFO:root:gloss: laugh, video: 66016.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LA/LAUGH-380.mp4
+ERROR:root:Unsuccessful downloading - video 66016
+INFO:root:gloss: laugh, video: 32382.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Laugh%207-_bydC3s5Bs4.mp4
+INFO:root:gloss: laugh, video: 32383.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Laugh-es3nr0W584o.mp4
+ERROR:root:Unsuccessful downloading - video 29661
+INFO:root:gloss: laugh, video: 32386.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468671447.7129.mp4
+INFO:root:gloss: laugh, video: 32377.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51948.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/nqWDDn7jtFA
+INFO:root:gloss: laugh, video: 32388.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22292.mp4
+ERROR:root:Unsuccessful downloading - video 32388
+INFO:root:gloss: laugh, video: 32389.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22293.mp4
+ERROR:root:Unsuccessful downloading - video 31855
+INFO:root:YouTube videos https://www.youtube.com/watch?v=EhkIoTNxwGE already exists.
+ERROR:root:Unsuccessful downloading - video 32389
+INFO:root:YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+INFO:root:gloss: learn, video: 32608.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468671748.8336.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=jf6-pIRXAek
+INFO:root:gloss: learn, video: 32609.
+INFO:root:Requesting https://www.handspeak.com/word/l/learn-from.mp4
+INFO:root:gloss: learn, video: 32610.
+INFO:root:Requesting https://www.handspeak.com/word/l/learn.mp4
+ERROR:root:Unsuccessful downloading - video 32609
+INFO:root:gloss: learn, video: 32612.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6392.mp4
+ERROR:root:Unsuccessful downloading - video 32612
+ERROR:root:Unsuccessful downloading - video 32610
+INFO:root:gloss: learn, video: 66024.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LEARN-170.mp4
+ERROR:root:Unsuccessful downloading - video 66024
+INFO:root:gloss: learn, video: 32604.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457511.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=FwrpfdqyEDo
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=78mzpzvN9tc
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/TSQinun_K8U
+INFO:root:gloss: learn, video: 32615.
+INFO:root:Requesting http://www.aslpro.com/main/l/learn.swf
+INFO:root:gloss: learn, video: 32616.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/learn.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=E535Rmh3Foc
+INFO:root:gloss: learn, video: 32605.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/learn.mp4
+INFO:root:gloss: learn, video: 32606.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Learn-lFDh3JaL2QQ.mp4
+ERROR:root:Unsuccessful downloading - video 32615
+INFO:root:gloss: learn, video: 32607.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Learn.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=IxO7unGawfk already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=2vC2G0kDHoQ
+INFO:root:gloss: movie, video: 37126.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/movie.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QkeTuEbsogM
+INFO:root:gloss: movie, video: 37147.
+INFO:root:Requesting http://www.aslpro.com/main/m/movie.swf
+INFO:root:gloss: movie, video: 37149.
+INFO:root:Requesting http://www.aslpro.com//main/m/movie_times.swf
+ERROR:root:Unsuccessful downloading - video 32397
+INFO:root:gloss: movie, video: 37150.
+INFO:root:Requesting http://www.aslpro.com//main/m/movie_usher.swf
+ERROR:root:Unsuccessful downloading - video 31856
+INFO:root:gloss: movie, video: 37125.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/48607.mp4
+INFO:root:gloss: movie, video: 37151.
+INFO:root:Requesting http://www.aslpro.com//main/m/movie_vhs_tape.swf
+ERROR:root:Unsuccessful downloading - video 37147
+INFO:root:gloss: movie, video: 37152.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/movie.mp4
+ERROR:root:Unsuccessful downloading - video 37149
+INFO:root:gloss: movie, video: 37127.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468717080.3985.mp4
+INFO:root:gloss: movie, video: 37128.
+INFO:root:Requesting https://www.handspeak.com/word/m/movie.mp4
+ERROR:root:Unsuccessful downloading - video 37128
+INFO:root:gloss: movie, video: 37129.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8626.mp4
+ERROR:root:Unsuccessful downloading - video 37129
+ERROR:root:Unsuccessful downloading - video 37150
+INFO:root:gloss: movie, video: 37134.
+INFO:root:Requesting http://www.aslpro.com//main/m/movie_drive_in.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ACBYkV6CDxI
+ERROR:root:Unsuccessful downloading - video 37134
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/pRL45Ffm4Vw
+INFO:root:gloss: movie, video: 37135.
+INFO:root:Requesting http://www.aslpro.com//main/m/movie_dvd.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Qc7Dc_qF5NI
+INFO:root:gloss: rabbit, video: 45837.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457813.mp4
+INFO:root:gloss: rabbit, video: 45838.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Rabbit%2C%20Bunny%202-WoWke5dhzfs.mp4
+INFO:root:gloss: rabbit, video: 45839.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Rabbit%2C%20Bunny-P7l2qQaGw5A.mp4
+INFO:root:gloss: rabbit, video: 45840.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468757899.8382.mp4
+ERROR:root:Unsuccessful downloading - video 32398
+INFO:root:gloss: rabbit, video: 45841.
+INFO:root:Requesting https://www.handspeak.com/word/r/rabbit.mp4
+ERROR:root:Unsuccessful downloading - video 45841
+INFO:root:gloss: rabbit, video: 45842.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/24/24029.mp4
+INFO:root:gloss: rabbit, video: 45843.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/24/24030.mp4
+ERROR:root:Unsuccessful downloading - video 45843
+ERROR:root:Unsuccessful downloading - video 45842
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/l5SIK3aStUs
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=89qJlLBkRho
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=OVt2XEtdQhY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=tIMLF_9rrDk
+INFO:root:gloss: rabbit, video: 45849.
+INFO:root:Requesting http://www.aslpro.com/main/r/rabbit_a.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=v4v20gVPJyU
+INFO:root:gloss: rabbit, video: 45850.
+INFO:root:Requesting http://www.aslpro.com/main/r/rabbit_b.swf
+ERROR:root:Unsuccessful downloading - video 37151
+INFO:root:gloss: rabbit, video: 45851.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/bunny.mp4
+ERROR:root:Unsuccessful downloading - video 32616
+INFO:root:gloss: rabbit, video: 45836.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457812.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=D4bgMLe19N4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Nx5yZfVGuX8
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WGfiiDgrq1I already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=xRNzgIs7WWM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ybYuTigZNQo
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Ae98aQIiVZo
+INFO:root:gloss: read, video: 46275.
+INFO:root:Requesting http://www.aslpro.com/main/r/read.swf
+ERROR:root:Unsuccessful downloading - video 37135
+INFO:root:gloss: read, video: 46266.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457816.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/sKEGOtW4ayA
+INFO:root:gloss: read, video: 46276.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/read.mp4
+ERROR:root:Unsuccessful downloading - video 45849
+INFO:root:gloss: read, video: 46267.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/read.mp4
+INFO:root:gloss: read, video: 46268.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Read-ONxA42RnRps.mp4
+ERROR:root:Unsuccessful downloading - video 45850
+INFO:root:gloss: read, video: 46269.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468758340.1852.mp4
+INFO:root:gloss: read, video: 46270.
+INFO:root:Requesting https://www.handspeak.com/word/r/read2.mp4
+ERROR:root:Unsuccessful downloading - video 46270
+INFO:root:gloss: read, video: 46271.
+INFO:root:Requesting https://www.handspeak.com/word/r/read.mp4
+ERROR:root:Unsuccessful downloading - video 46271
+INFO:root:gloss: read, video: 46272.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7042.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+INFO:root:gloss: red, video: 69446.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/red.mp4
+ERROR:root:Unsuccessful downloading - video 46272
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=LQXoQ_I9Ku8
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WprUBqi3iBc already exists.
+INFO:root:gloss: red, video: 46737.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6859.mp4
+ERROR:root:Unsuccessful downloading - video 46737
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=EyKmo6RXVUU
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=l8D2nUTgFiQ
+INFO:root:gloss: red, video: 46731.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/49271.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=pyW0OYYrZ7U
+INFO:root:gloss: red, video: 46741.
+INFO:root:Requesting http://www.aslpro.com/main/r/red.swf
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/HSl6KdDHUlg
+INFO:root:gloss: red, video: 46742.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/red.mp4
+ERROR:root:Unsuccessful downloading - video 37152
+INFO:root:gloss: red, video: 46732.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/red.mp4
+INFO:root:gloss: red, video: 46733.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Red.mp4
+ERROR:root:Unsuccessful downloading - video 46275
+INFO:root:gloss: red, video: 46734.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468758865.1287.mp4
+INFO:root:gloss: red, video: 46735.
+INFO:root:Requesting https://www.handspeak.com/word/r/red2.mp4
+ERROR:root:Unsuccessful downloading - video 46735
+INFO:root:gloss: red, video: 46736.
+INFO:root:Requesting https://www.handspeak.com/word/r/red.mp4
+ERROR:root:Unsuccessful downloading - video 46736
+INFO:root:YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+INFO:root:gloss: room, video: 48509.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/room.mp4
+INFO:root:gloss: room, video: 48510.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Room%2C%20Box-md_GwEQC3G8.mp4
+INFO:root:gloss: room, video: 48511.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Room-c_wEkcZ2eqU.mp4
+INFO:root:gloss: room, video: 48512.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20room-eFVfYZffYLo.mp4
+INFO:root:gloss: room, video: 48513.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Room%202.mp4
+INFO:root:gloss: room, video: 48514.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468761369.8817.mp4
+INFO:root:gloss: room, video: 48515.
+INFO:root:Requesting https://www.handspeak.com/word/r/room.mp4
+ERROR:root:Unsuccessful downloading - video 48515
+INFO:root:gloss: room, video: 48516.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9515.mp4
+ERROR:root:Unsuccessful downloading - video 48516
+INFO:root:gloss: room, video: 66415.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-242.mp4
+INFO:root:gloss: room, video: 66416.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-984.mp4
+ERROR:root:Unsuccessful downloading - video 66415
+ERROR:root:Unsuccessful downloading - video 66416
+INFO:root:gloss: room, video: 48517.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9516.mp4
+ERROR:root:Unsuccessful downloading - video 48517
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/hdDYNPC93DM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ByET2PW3OrQ
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=R60q-PBwY58
+INFO:root:gloss: room, video: 48520.
+INFO:root:Requesting http://www.aslpro.com/main/r/room.swf
+INFO:root:gloss: room, video: 48521.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/box.mp4
+ERROR:root:Unsuccessful downloading - video 45851
+INFO:root:gloss: run, video: 48797.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50771.mp4
+ERROR:root:Unsuccessful downloading - video 46741
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=oDP7rymTvb0
+INFO:root:gloss: run, video: 48798.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/run.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=eLu4zVJhTqU
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=jPGs28X_O54
+INFO:root:gloss: run, video: 48819.
+INFO:root:Requesting http://www.aslpro.com/main/r/run_animal.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=T0_ts-_j8w0
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/o-ii7m7zxx0
+INFO:root:gloss: run, video: 48824.
+INFO:root:Requesting http://www.aslpro.com/main/r/run.swf
+ERROR:root:Unsuccessful downloading - video 46276
+INFO:root:gloss: run, video: 48827.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/sprint.mp4
+ERROR:root:Unsuccessful downloading - video 48520
+INFO:root:gloss: run, video: 48800.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20run%202.mp4
+INFO:root:gloss: run, video: 48801.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468761794.9611.mp4
+INFO:root:gloss: run, video: 48804.
+INFO:root:Requesting https://www.handspeak.com/word/r/run-hurry.mp4
+ERROR:root:Unsuccessful downloading - video 48804
+INFO:root:gloss: run, video: 48805.
+INFO:root:Requesting https://www.handspeak.com/word/r/run-jog.mp4
+ERROR:root:Unsuccessful downloading - video 48805
+INFO:root:gloss: run, video: 48809.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6445.mp4
+ERROR:root:Unsuccessful downloading - video 48809
+INFO:root:gloss: run, video: 48810.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6446.mp4
+ERROR:root:Unsuccessful downloading - video 48810
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=3bzeC5h-lzU
+INFO:root:gloss: show, video: 66473.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SH/SHOW-254.mp4
+ERROR:root:Unsuccessful downloading - video 66473
+INFO:root:YouTube videos https://www.youtube.com/watch?v=4Nh1iFv2BMc already exists.
+INFO:root:gloss: show, video: 51347.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468378950.4291.mp4
+INFO:root:gloss: show, video: 51348.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468766573.2319.mp4
+INFO:root:gloss: show, video: 51349.
+INFO:root:Requesting https://www.handspeak.com/word/s/show-all.mp4
+ERROR:root:Unsuccessful downloading - video 51349
+INFO:root:gloss: show, video: 51350.
+INFO:root:Requesting https://www.handspeak.com/word/s/show-each2.mp4
+ERROR:root:Unsuccessful downloading - video 51350
+INFO:root:gloss: show, video: 51351.
+INFO:root:Requesting https://www.handspeak.com/word/s/show-me-from-hir.mp4
+ERROR:root:Unsuccessful downloading - video 51351
+INFO:root:gloss: show, video: 51352.
+INFO:root:Requesting https://www.handspeak.com/word/s/show.mp4
+ERROR:root:Unsuccessful downloading - video 51352
+INFO:root:gloss: show, video: 51353.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14243.mp4
+ERROR:root:Unsuccessful downloading - video 51353
+INFO:root:gloss: show, video: 51345.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/show.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/eWKXpuCp0x4
+INFO:root:gloss: show, video: 51355.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9921.mp4
+ERROR:root:Unsuccessful downloading - video 51355
+INFO:root:gloss: show, video: 51356.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9922.mp4
+ERROR:root:Unsuccessful downloading - video 51356
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=3tywmZLwClQ
+INFO:root:gloss: show, video: 51358.
+INFO:root:Requesting http://www.aslpro.com/main/s/show.swf
+ERROR:root:Unsuccessful downloading - video 46742
+INFO:root:gloss: show, video: 51360.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/show.mp4
+ERROR:root:Unsuccessful downloading - video 48819
+INFO:root:gloss: show, video: 51346.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Show-ps1C5M4Q4vg.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+INFO:root:gloss: sick, video: 69470.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/sick.mp4
+ERROR:root:Unsuccessful downloading - video 48824
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=bS9icDOS5g4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=OvCEWXAQXaY
+INFO:root:gloss: sick, video: 51516.
+INFO:root:Requesting http://www.aslpro.com/main/s/sick.swf
+INFO:root:gloss: sick, video: 51517.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/ill.mp4
+ERROR:root:Unsuccessful downloading - video 48521
+INFO:root:gloss: sick, video: 51502.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sick.mp4
+INFO:root:gloss: sick, video: 51503.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sick-vS3cW9IUUPM.mp4
+INFO:root:gloss: sick, video: 51504.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468766858.7018.mp4
+INFO:root:gloss: sick, video: 51505.
+INFO:root:Requesting https://www.handspeak.com/word/s/sick2.mp4
+ERROR:root:Unsuccessful downloading - video 51505
+INFO:root:gloss: sick, video: 51506.
+INFO:root:Requesting https://www.handspeak.com/word/s/sick.mp4
+ERROR:root:Unsuccessful downloading - video 51506
+INFO:root:gloss: sick, video: 51507.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14644.mp4
+ERROR:root:Unsuccessful downloading - video 51507
+INFO:root:gloss: sick, video: 66475.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SICK-255.mp4
+ERROR:root:Unsuccessful downloading - video 66475
+INFO:root:gloss: sick, video: 51501.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50808.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/BuJZZAGk6GM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=NBqpHJiufXU
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=oiJ9bPUD1pw
+INFO:root:YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+INFO:root:gloss: snow, video: 69481.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/snow.mp4
+ERROR:root:Unsuccessful downloading - video 51358
+INFO:root:YouTube videos https://www.youtube.com/watch?v=lvqGMGFmuV4 already exists.
+INFO:root:gloss: snow, video: 52862.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14605.mp4
+ERROR:root:Unsuccessful downloading - video 52862
+INFO:root:gloss: snow, video: 52863.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14606.mp4
+ERROR:root:Unsuccessful downloading - video 52863
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=---cgPhwI8k
+INFO:root:gloss: snow, video: 52866.
+INFO:root:Requesting http://www.aslpro.com/main/s/snow.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=x-dZm8O0gys
+INFO:root:gloss: snow, video: 66519.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOW-1085.mp4
+ERROR:root:Unsuccessful downloading - video 66519
+INFO:root:gloss: snow, video: 66518.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOW-686.mp4
+ERROR:root:Unsuccessful downloading - video 66518
+INFO:root:gloss: snow, video: 52857.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/snow.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/KkavX3HF0Es
+INFO:root:gloss: snow, video: 52867.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/snow.mp4
+ERROR:root:Unsuccessful downloading - video 51516
+INFO:root:gloss: snow, video: 52858.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Snow-0uJcHK934ik.mp4
+INFO:root:gloss: snow, video: 52859.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Snow.mp4
+INFO:root:gloss: snow, video: 52860.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468775731.1702.mp4
+INFO:root:gloss: snow, video: 52861.
+INFO:root:Requesting https://www.handspeak.com/word/s/snow.mp4
+ERROR:root:Unsuccessful downloading - video 52861
+INFO:root:YouTube videos https://www.youtube.com/watch?v=x6CehcknaH8 already exists.
+INFO:root:gloss: take, video: 69500.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/take.mp4
+ERROR:root:Unsuccessful downloading - video 48827
+INFO:root:gloss: take, video: 56697.
+INFO:root:Requesting https://www.handspeak.com/word/t/take.mp4
+ERROR:root:Unsuccessful downloading - video 56697
+INFO:root:gloss: take, video: 56698.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6074.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2XukQ6DOr_g
+ERROR:root:Unsuccessful downloading - video 56698
+INFO:root:gloss: take, video: 56699.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6075.mp4
+ERROR:root:Unsuccessful downloading - video 56699
+INFO:root:gloss: take, video: 56700.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6854.mp4
+INFO:root:gloss: take, video: 56701.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9094.mp4
+ERROR:root:Unsuccessful downloading - video 56700
+INFO:root:gloss: take, video: 56692.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/63592.mp4
+ERROR:root:Unsuccessful downloading - video 56701
+INFO:root:gloss: take, video: 56702.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9145.mp4
+ERROR:root:Unsuccessful downloading - video 56702
+INFO:root:gloss: take, video: 56703.
+INFO:root:Requesting http://www.aslpro.com/main/t/take.swf
+INFO:root:gloss: take, video: 56704.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/accept.mp4
+ERROR:root:Unsuccessful downloading - video 52866
+INFO:root:gloss: take, video: 56705.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/take.mp4
+ERROR:root:Unsuccessful downloading - video 51360
+INFO:root:gloss: take, video: 56693.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/take.mp4
+INFO:root:gloss: take, video: 56694.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468942967.4684.mp4
+INFO:root:gloss: take, video: 56695.
+INFO:root:Requesting https://www.handspeak.com/word/t/take-hir.mp4
+ERROR:root:Unsuccessful downloading - video 56695
+INFO:root:gloss: take, video: 56696.
+INFO:root:Requesting https://www.handspeak.com/word/t/take-me.mp4
+ERROR:root:Unsuccessful downloading - video 56696
+INFO:root:YouTube videos https://www.youtube.com/watch?v=x6CehcknaH8 already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=DJBl-DqFr54
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=j0PsxS4J59U
+INFO:root:YouTube videos https://www.youtube.com/watch?v=sErq0TJMKEo already exists.
+INFO:root:gloss: tea, video: 57082.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5818.mp4
+ERROR:root:Unsuccessful downloading - video 57082
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=t56aB-4U9q0
+INFO:root:gloss: tea, video: 57084.
+INFO:root:Requesting http://www.aslpro.com/main/t/tea_hot.swf
+ERROR:root:Unsuccessful downloading - video 51517
+INFO:root:gloss: tea, video: 57085.
+INFO:root:Requesting http://www.aslpro.com/main/t/tea_iced.swf
+ERROR:root:Unsuccessful downloading - video 56703
+INFO:root:gloss: tea, video: 57076.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tea.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/lu7CjOVmTWc
+INFO:root:gloss: tea, video: 57086.
+INFO:root:Requesting http://www.aslpro.com/main/t/tea.swf
+ERROR:root:Unsuccessful downloading - video 57086
+INFO:root:gloss: tea, video: 57087.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/tea.mp4
+ERROR:root:Unsuccessful downloading - video 52867
+INFO:root:gloss: tea, video: 57077.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea%2C%20Vote-JGnz_I9hFCY.mp4
+INFO:root:gloss: tea, video: 57078.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea-KteSJtbKjwA.mp4
+INFO:root:gloss: tea, video: 57079.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea-UT0MFR_XdeE.mp4
+INFO:root:gloss: tea, video: 57080.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468943368.5406.mp4
+INFO:root:gloss: tea, video: 57081.
+INFO:root:Requesting https://www.handspeak.com/word/t/tea.mp4
+ERROR:root:Unsuccessful downloading - video 57084
+INFO:root:YouTube videos https://www.youtube.com/watch?v=x6CehcknaH8 already exists.
+ERROR:root:Unsuccessful downloading - video 57081
+INFO:root:gloss: teacher, video: 57043.
+INFO:root:Requesting https://www.handspeak.com/word/t/teacher.mp4
+ERROR:root:Unsuccessful downloading - video 57043
+INFO:root:gloss: teacher, video: 57044.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6748.mp4
+ERROR:root:Unsuccessful downloading - video 57044
+INFO:root:gloss: teacher, video: 57045.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8205.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=910Bx1PQvIE
+ERROR:root:Unsuccessful downloading - video 57045
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=CrUCwJklAUA
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-DZaI_yoNac
+ERROR:root:Unsuccessful downloading - video 57085
+INFO:root:gloss: teacher, video: 66593.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TE/TEACHER-792.mp4
+ERROR:root:Unsuccessful downloading - video 66593
+INFO:root:gloss: teacher, video: 57039.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/teacher.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=K7V6D8WSZXg
+INFO:root:gloss: teacher, video: 57050.
+INFO:root:Requesting http://www.aslpro.com//main/t/teacher.swf
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/EtRRcMFLqI0
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=-pk0D9N-8Fs
+INFO:root:gloss: teacher, video: 57051.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/instructor.mp4
+INFO:root:gloss: teacher, video: 57040.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Teacher-8jyjX2nNXYU.mp4
+INFO:root:gloss: teacher, video: 57041.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468943450.3372.mp4
+INFO:root:gloss: teacher, video: 57042.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1522768202.9258.mp4
+ERROR:root:Unsuccessful downloading - video 56704
+INFO:root:YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pc0-gVEETVg already exists.
+INFO:root:gloss: week, video: 62744.
+INFO:root:Requesting https://www.handspeak.com/word/w/week.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=nOy7xS2b3WI
+ERROR:root:Unsuccessful downloading - video 62744
+INFO:root:gloss: week, video: 62746.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6752.mp4
+ERROR:root:Unsuccessful downloading - video 62746
+INFO:root:gloss: week, video: 62747.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7600.mp4
+INFO:root:gloss: week, video: 62748.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7602.mp4
+ERROR:root:Unsuccessful downloading - video 62747
+ERROR:root:Unsuccessful downloading - video 62748
+INFO:root:gloss: week, video: 66759.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEEK-1418.mp4
+ERROR:root:Unsuccessful downloading - video 66759
+INFO:root:gloss: week, video: 62740.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50954.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=N6giWOcMj2U
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/H5GXBfRMT3M
+INFO:root:gloss: week, video: 62751.
+INFO:root:Requesting http://www.aslpro.com/main/w/week.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=pdR4hpKqlNg
+INFO:root:gloss: week, video: 62752.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/week.mp4
+ERROR:root:Unsuccessful downloading - video 56705
+INFO:root:gloss: week, video: 62741.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/week.mp4
+INFO:root:gloss: week, video: 62742.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20One%20Week-XnuAfLiLbHs.mp4
+INFO:root:gloss: week, video: 62743.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468927577.4501.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+INFO:root:gloss: why, video: 63283.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Why-1I7SY-H47dU.mp4
+INFO:root:gloss: why, video: 63284.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Why-oOzdNq6PhDc.mp4
+INFO:root:gloss: why, video: 63285.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468928387.7740.mp4
+INFO:root:gloss: why, video: 63286.
+INFO:root:Requesting https://www.handspeak.com/word/w/why.mp4
+ERROR:root:Unsuccessful downloading - video 63286
+INFO:root:gloss: why, video: 63287.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6973.mp4
+ERROR:root:Unsuccessful downloading - video 63287
+INFO:root:gloss: why, video: 63288.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8837.mp4
+ERROR:root:Unsuccessful downloading - video 63288
+INFO:root:gloss: why, video: 66781.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHY-1431.mp4
+ERROR:root:Unsuccessful downloading - video 66781
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/Bp4hwb11MXo
+INFO:root:gloss: why, video: 63289.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8838.mp4
+ERROR:root:Unsuccessful downloading - video 63289
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=-iJt0VZWBcA
+INFO:root:gloss: why, video: 63291.
+INFO:root:Requesting http://www.aslpro.com/main/w/why.swf
+ERROR:root:Unsuccessful downloading - video 57050
+INFO:root:gloss: why, video: 63292.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/why.mp4
+ERROR:root:Unsuccessful downloading - video 63291
+INFO:root:gloss: why, video: 63280.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51068.mp4
+INFO:root:gloss: why, video: 63281.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/why.mp4
+INFO:root:gloss: why, video: 63282.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20No%20Eye%2C%20Why-YoWvmEgpP9A.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+INFO:root:gloss: with, video: 69539.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/with.mp4
+ERROR:root:Unsuccessful downloading - video 62751
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=IUF82n6VGoI
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=-mTZruzaw1E
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-WH3cssdJmQ
+ERROR:root:Unsuccessful downloading - video 57087
+INFO:root:gloss: with, video: 63595.
+INFO:root:Requesting http://www.aslpro.com/main/w/with.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=_JfI3DaFB6w
+INFO:root:gloss: with, video: 63596.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/with.mp4
+INFO:root:gloss: with, video: 66795.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WI/WITH-323.mp4
+ERROR:root:Unsuccessful downloading - video 66795
+INFO:root:gloss: with, video: 63587.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51078.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/etoY8lmULMg
+INFO:root:gloss: with, video: 63588.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/with.mp4
+INFO:root:gloss: with, video: 63589.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20With-sLUkJtZiNn8.mp4
+INFO:root:gloss: with, video: 63590.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468928850.9790.mp4
+INFO:root:gloss: with, video: 63591.
+INFO:root:Requesting https://www.handspeak.com/word/w/with.mp4
+ERROR:root:Unsuccessful downloading - video 63591
+INFO:root:gloss: with, video: 63592.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9702.mp4
+ERROR:root:Unsuccessful downloading - video 63592
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=g4AwGIjxn7k
+INFO:root:YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+INFO:root:gloss: write, video: 69544.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/write.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WGfiiDgrq1I already exists.
+INFO:root:gloss: write, video: 64060.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468929385.6917.mp4
+INFO:root:gloss: write, video: 64061.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1522768314.6956.mp4
+INFO:root:gloss: write, video: 64062.
+INFO:root:Requesting https://www.handspeak.com/word/w/write2.mp4
+ERROR:root:Unsuccessful downloading - video 64062
+INFO:root:gloss: write, video: 64064.
+INFO:root:Requesting https://www.handspeak.com/word/w/write.mp4
+ERROR:root:Unsuccessful downloading - video 64064
+INFO:root:gloss: write, video: 64065.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8441.mp4
+ERROR:root:Unsuccessful downloading - video 64065
+INFO:root:gloss: write, video: 66815.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WR/WRITE-1467.mp4
+ERROR:root:Unsuccessful downloading - video 66815
+INFO:root:gloss: write, video: 64056.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51100.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/ggCEDV4EoGs
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=3RYUgwyFzgM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rqBe62cqd6w
+INFO:root:gloss: write, video: 64068.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/write.mp4
+ERROR:root:Unsuccessful downloading - video 57051
+INFO:root:gloss: write, video: 64057.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/write.mp4
+INFO:root:gloss: write, video: 64058.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/writing.mp4
+INFO:root:gloss: write, video: 64059.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Write-2Vss5wDKFhg.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=BRO-oYGV224 already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=bq-HmgjGzmw already exists.
+INFO:root:gloss: yesterday, video: 64307.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Yesterday-ODfO21WATKY.mp4
+INFO:root:gloss: yesterday, video: 64308.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Yesterday-OTcqJCUGZxY.mp4
+INFO:root:gloss: yesterday, video: 64309.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468774999.2098.mp4
+ERROR:root:Unsuccessful downloading - video 62752
+INFO:root:gloss: yesterday, video: 64310.
+INFO:root:Requesting https://www.handspeak.com/word/y/yesterday.mp4
+INFO:root:gloss: yesterday, video: 64311.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22109.mp4
+ERROR:root:Unsuccessful downloading - video 64310
+ERROR:root:Unsuccessful downloading - video 64311
+INFO:root:gloss: yesterday, video: 66821.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/YE/YESTERDAY-327.mp4
+ERROR:root:Unsuccessful downloading - video 66821
+INFO:root:gloss: yesterday, video: 66822.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/YE/YESTERDAY-328.mp4
+ERROR:root:Unsuccessful downloading - video 66822
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=BrSb83b9kbY
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/Y4I4o8336WM
+INFO:root:gloss: yesterday, video: 64314.
+INFO:root:Requesting http://www.aslpro.com/main/y/yesterday.swf
+ERROR:root:Unsuccessful downloading - video 63595
+INFO:root:gloss: yesterday, video: 64315.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/yesterday.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=WaIrad_avQI
+INFO:root:gloss: yesterday, video: 64304.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/51108.mp4
+INFO:root:gloss: yesterday, video: 64305.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/yesterday2.mp4
+INFO:root:gloss: yesterday, video: 64306.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/yesterday.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=jPn0FQxkdBc already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=6JlqUMRxHwo
+INFO:root:YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+INFO:root:gloss: again, video: 01466.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6335.mp4
+ERROR:root:Unsuccessful downloading - video 01466
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=FMsqLT9Acso
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=wTNv94AY-yE
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=YEz-iyZ0kL0
+INFO:root:gloss: again, video: 65032.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AG/AGAIN-400.mp4
+ERROR:root:Unsuccessful downloading - video 65032
+INFO:root:gloss: again, video: 01460.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/118365.mp4
+INFO:root:gloss: again, video: 01470.
+INFO:root:Requesting http://www.aslpro.com/main/a/again.swf
+ERROR:root:Unsuccessful downloading - video 63292
+INFO:root:gloss: again, video: 01471.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/again.mp4
+ERROR:root:Unsuccessful downloading - video 64314
+INFO:root:gloss: again, video: 01461.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/again.mp4
+INFO:root:gloss: again, video: 01462.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Again-EYX5aL3d8_M.mp4
+ERROR:root:Unsuccessful downloading - video 63596
+INFO:root:gloss: again, video: 01463.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466171389.6039.mp4
+INFO:root:gloss: again, video: 01464.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1522766184.698.mp4
+INFO:root:gloss: again, video: 01465.
+INFO:root:Requesting https://www.handspeak.com/word/a/again.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+INFO:root:gloss: bad, video: 69219.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/bad.mp4
+ERROR:root:Unsuccessful downloading - video 01465
+INFO:root:gloss: bad, video: 04709.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bad.mp4
+INFO:root:gloss: bad, video: 04712.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bad-2099RpCyLwU.mp4
+INFO:root:gloss: bad, video: 04713.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20bad5.mp4
+INFO:root:gloss: bad, video: 04715.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466648215.3053.mp4
+INFO:root:gloss: bad, video: 04716.
+INFO:root:Requesting https://www.handspeak.com/word/b/bad.mp4
+ERROR:root:Unsuccessful downloading - video 04716
+INFO:root:gloss: bad, video: 04717.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6529.mp4
+INFO:root:gloss: bad, video: 65125.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BAD-29.mp4
+ERROR:root:Unsuccessful downloading - video 04717
+INFO:root:gloss: bad, video: 04708.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/123148.mp4
+ERROR:root:Unsuccessful downloading - video 65125
+INFO:root:gloss: bad, video: 04718.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6944.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/-kgTBeOw95A
+ERROR:root:Unsuccessful downloading - video 04718
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=BUhCGlNOqRA
+INFO:root:gloss: bad, video: 04722.
+INFO:root:Requesting http://www.aslpro.com/main/b/bad.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=prwtXZ1o2As
+INFO:root:gloss: bad, video: 04723.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/bad.mp4
+ERROR:root:Unsuccessful downloading - video 01470
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+INFO:root:gloss: ball, video: 69221.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/ball.mp4
+INFO:root:gloss: ball, video: 04850.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/ball.mp4
+INFO:root:gloss: ball, video: 04851.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20ball-u7YdwN89Leg.mp4
+INFO:root:gloss: ball, video: 04852.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466648644.5380.mp4
+INFO:root:gloss: ball, video: 04853.
+INFO:root:Requesting https://www.handspeak.com/word/b/ball.mp4
+ERROR:root:Unsuccessful downloading - video 04853
+INFO:root:gloss: ball, video: 04854.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14844.mp4
+ERROR:root:Unsuccessful downloading - video 04854
+INFO:root:gloss: ball, video: 04858.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6775.mp4
+ERROR:root:Unsuccessful downloading - video 04858
+INFO:root:gloss: ball, video: 65131.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BALL-382.mp4
+ERROR:root:Unsuccessful downloading - video 64068
+INFO:root:gloss: ball, video: 04849.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/123213.mp4
+ERROR:root:Unsuccessful downloading - video 65131
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/pqPXlU9_Chc
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=1WX8ohyKYQY
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=FXU1RbwSJvU
+INFO:root:gloss: ball, video: 04862.
+INFO:root:Requesting http://www.aslpro.com/main/b/ball.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vnmpdsQdbFc
+INFO:root:gloss: ball, video: 04864.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/ball.mp4
+ERROR:root:Unsuccessful downloading - video 64315
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+INFO:root:gloss: bathroom, video: 05299.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bathroom-u7XrB6j-o3E.mp4
+INFO:root:gloss: bathroom, video: 05300.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466649768.1620.mp4
+INFO:root:gloss: bathroom, video: 05301.
+INFO:root:Requesting https://www.handspeak.com/word/b/bathroom2.mp4
+ERROR:root:Unsuccessful downloading - video 05301
+INFO:root:gloss: bathroom, video: 05302.
+INFO:root:Requesting https://www.handspeak.com/word/b/bathroom.mp4
+ERROR:root:Unsuccessful downloading - video 05302
+INFO:root:gloss: bathroom, video: 05303.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23911.mp4
+ERROR:root:Unsuccessful downloading - video 05303
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=2xdhyJEgXdI
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=GSRwDBAFh70
+INFO:root:gloss: bathroom, video: 65148.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATHROOM-32.mp4
+ERROR:root:Unsuccessful downloading - video 65148
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/cI3AyC9DfWQ
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=tk5XZhfgfcc
+INFO:root:gloss: bathroom, video: 05308.
+INFO:root:Requesting http://www.aslpro.com/main/b/bathroom_portable.swf
+ERROR:root:Unsuccessful downloading - video 04722
+INFO:root:gloss: bathroom, video: 05309.
+INFO:root:Requesting http://www.aslpro.com/main/b/bathroom.swf
+ERROR:root:Unsuccessful downloading - video 01471
+INFO:root:gloss: bathroom, video: 05310.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/bathroom.mp4
+ERROR:root:Unsuccessful downloading - video 04862
+INFO:root:gloss: bathroom, video: 05297.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/92604.mp4
+INFO:root:gloss: bathroom, video: 05298.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bathroom.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+INFO:root:gloss: blanket, video: 06553.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blanket-56AEFvJQNKM.mp4
+INFO:root:gloss: blanket, video: 06554.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blanket-PGnWLYRHS4Y.mp4
+INFO:root:gloss: blanket, video: 06555.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466682724.4542.mp4
+INFO:root:gloss: blanket, video: 06557.
+INFO:root:Requesting https://www.handspeak.com/word/b/blanket.mp4
+ERROR:root:Unsuccessful downloading - video 06557
+INFO:root:gloss: blanket, video: 06558.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/24/24250.mp4
+ERROR:root:Unsuccessful downloading - video 06558
+INFO:root:gloss: blanket, video: 06559.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9933.mp4
+ERROR:root:Unsuccessful downloading - video 06559
+INFO:root:gloss: blanket, video: 65204.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BL/BLANKET-40.mp4
+ERROR:root:Unsuccessful downloading - video 65204
+INFO:root:gloss: blanket, video: 65205.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BL/BLANKET-41.mp4
+ERROR:root:Unsuccessful downloading - video 65205
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/zvl9WNR_Jco
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=M4dD1mvydVw
+INFO:root:gloss: blanket, video: 06561.
+INFO:root:Requesting http://www.aslpro.com/main/b/blanket_electric.swf
+ERROR:root:Unsuccessful downloading - video 05308
+INFO:root:gloss: blanket, video: 06562.
+INFO:root:Requesting http://www.aslpro.com/main/b/blanket.swf
+ERROR:root:Unsuccessful downloading - video 05309
+INFO:root:gloss: blanket, video: 06563.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/blanket.mp4
+ERROR:root:Unsuccessful downloading - video 04723
+INFO:root:gloss: blanket, video: 06551.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/blanket.mp4
+INFO:root:gloss: blanket, video: 06552.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blanket%202-TpMWkAVN-yo.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+INFO:root:gloss: buy, video: 69255.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/buy.mp4
+ERROR:root:Unsuccessful downloading - video 04864
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=irVfUAKKYpg
+INFO:root:gloss: buy, video: 08488.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6442.mp4
+ERROR:root:Unsuccessful downloading - video 08488
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=wEPDfmy2M8w
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-XubDLk1b10
+INFO:root:gloss: buy, video: 08491.
+INFO:root:Requesting http://www.aslpro.com/main/b/buy.swf
+ERROR:root:Unsuccessful downloading - video 06561
+INFO:root:gloss: buy, video: 65282.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BU/BUY-424.mp4
+ERROR:root:Unsuccessful downloading - video 65282
+INFO:root:gloss: buy, video: 08482.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/125647.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/-dvQ-z8mVlM
+INFO:root:gloss: buy, video: 08492.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/buy.mp4
+INFO:root:gloss: buy, video: 08483.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/buy.mp4
+INFO:root:gloss: buy, video: 08484.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Buy%202-8DpqiNo5tl4.mp4
+INFO:root:gloss: buy, video: 08485.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Buy.mp4
+INFO:root:gloss: buy, video: 08486.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466725657.9852.mp4
+INFO:root:gloss: buy, video: 08487.
+INFO:root:Requesting https://www.handspeak.com/word/b/buy.mp4
+ERROR:root:Unsuccessful downloading - video 08487
+INFO:root:gloss: call, video: 65290.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CALL-65.mp4
+ERROR:root:Unsuccessful downloading - video 65290
+INFO:root:gloss: call, video: 08706.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8872.mp4
+ERROR:root:Unsuccessful downloading - video 08706
+INFO:root:gloss: call, video: 08707.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9229.mp4
+ERROR:root:Unsuccessful downloading - video 08707
+INFO:root:gloss: call, video: 65556.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/E(/E(call)-1909.mp4
+ERROR:root:Unsuccessful downloading - video 65556
+INFO:root:gloss: call, video: 08713.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/call.mp4
+ERROR:root:Unsuccessful downloading - video 06562
+INFO:root:gloss: call, video: 08689.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Call%20copy-Y2Mgkkiy_xA.mp4
+INFO:root:gloss: call, video: 08690.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Call-ypM7UO3bocI.mp4
+INFO:root:gloss: call, video: 08691.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466726118.1106.mp4
+INFO:root:gloss: call, video: 08692.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1471143923.4012.mp4
+INFO:root:gloss: call, video: 08694.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1527808150.9457.mp4
+INFO:root:gloss: call, video: 08695.
+INFO:root:Requesting https://www.handspeak.com/word/c/call-me-phone.mp4
+ERROR:root:Unsuccessful downloading - video 08695
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/oroJy8hOvpc
+INFO:root:gloss: call, video: 08697.
+INFO:root:Requesting https://www.handspeak.com/word/c/call-phone2.mp4
+ERROR:root:Unsuccessful downloading - video 08697
+INFO:root:gloss: call, video: 08698.
+INFO:root:Requesting https://www.handspeak.com/word/c/call-phone.mp4
+ERROR:root:Unsuccessful downloading - video 08698
+INFO:root:gloss: call, video: 08701.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6738.mp4
+ERROR:root:Unsuccessful downloading - video 08701
+INFO:root:gloss: call, video: 08702.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6918.mp4
+ERROR:root:Unsuccessful downloading - video 08702
+INFO:root:YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=CSj7IScvZnE already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=sErq0TJMKEo already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vcB472PRkJM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=xFRvV_RkEQI
+INFO:root:gloss: coffee, video: 11565.
+INFO:root:Requesting http://www.aslpro.com/main/c/coffee.swf
+ERROR:root:Unsuccessful downloading - video 05310
+INFO:root:gloss: coffee, video: 11566.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/coffee.mp4
+ERROR:root:Unsuccessful downloading - video 08491
+INFO:root:gloss: coffee, video: 65375.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COFFEE-2035.mp4
+ERROR:root:Unsuccessful downloading - video 65375
+INFO:root:gloss: coffee, video: 11558.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/74941.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/dBm92x_A4M4
+INFO:root:gloss: coffee, video: 11559.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/coffee.mp4
+INFO:root:gloss: coffee, video: 11560.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20coffee-zjqRswd2CkM.mp4
+INFO:root:gloss: coffee, video: 11561.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466899664.8061.mp4
+INFO:root:gloss: coffee, video: 11562.
+INFO:root:Requesting https://www.handspeak.com/word/c/coffee.mp4
+ERROR:root:Unsuccessful downloading - video 11562
+INFO:root:gloss: coffee, video: 11563.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7924.mp4
+ERROR:root:Unsuccessful downloading - video 11563
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=1wk1W5GuGiI
+INFO:root:gloss: cold, video: 65377.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLD-432.mp4
+ERROR:root:Unsuccessful downloading - video 65377
+INFO:root:gloss: cold, video: 11638.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/cold.mp4
+ERROR:root:Unsuccessful downloading - video 06563
+INFO:root:gloss: cold, video: 11622.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cold.mp4
+INFO:root:gloss: cold, video: 11623.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20cold%203-YldGtQZmZYU.mp4
+INFO:root:gloss: cold, video: 11624.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cold-u2a1DwJhmrQ.mp4
+INFO:root:gloss: cold, video: 11625.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cold-V5nv_yk_Ah8.mp4
+INFO:root:gloss: cold, video: 11627.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Cold.mp4
+INFO:root:gloss: cold, video: 11628.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466899767.7689.mp4
+INFO:root:gloss: cold, video: 11630.
+INFO:root:Requesting https://www.handspeak.com/word/c/cold-brr.mp4
+ERROR:root:Unsuccessful downloading - video 11630
+INFO:root:gloss: cold, video: 11621.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/399313.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/EQJ7BYa01Co
+INFO:root:gloss: cold, video: 11633.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22759.mp4
+ERROR:root:Unsuccessful downloading - video 11633
+INFO:root:gloss: cold, video: 11634.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22867.mp4
+ERROR:root:Unsuccessful downloading - video 11634
+INFO:root:gloss: cold, video: 11635.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7159.mp4
+ERROR:root:Unsuccessful downloading - video 11565
+ERROR:root:Unsuccessful downloading - video 11635
+INFO:root:gloss: cold, video: 11637.
+INFO:root:Requesting http://www.aslpro.com/main/c/cold.swf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=trlv3hkAQsQ
+INFO:root:YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=cdK1IiBMu_M
+INFO:root:YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=dVU0UNF7DEw
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=NK9T1HlF3H4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=NK9T1HlF3H4 already exists.
+INFO:root:gloss: college, video: 11717.
+INFO:root:Requesting http://www.aslpro.com/main/c/college.swf
+ERROR:root:Unsuccessful downloading - video 08492
+INFO:root:gloss: college, video: 65379.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4
+ERROR:root:Unsuccessful downloading - video 65379
+INFO:root:gloss: college, video: 11708.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/58486.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/H1Axlp1fLIU
+INFO:root:gloss: college, video: 11718.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/college.mp4
+ERROR:root:Unsuccessful downloading - video 08713
+INFO:root:gloss: college, video: 11709.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/college.mp4
+INFO:root:gloss: college, video: 11710.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20College.mp4
+INFO:root:gloss: college, video: 11711.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466899881.4501.mp4
+INFO:root:gloss: college, video: 11712.
+INFO:root:Requesting https://www.handspeak.com/word/c/college.mp4
+ERROR:root:Unsuccessful downloading - video 11712
+INFO:root:gloss: college, video: 11713.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5794.mp4
+ERROR:root:Unsuccessful downloading - video 11713
+INFO:root:YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Oacp14zeUUk
+INFO:root:gloss: copy, video: 13269.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466903369.6461.mp4
+INFO:root:gloss: copy, video: 13270.
+INFO:root:Requesting https://www.handspeak.com/word/c/copy-everyone.mp4
+ERROR:root:Unsuccessful downloading - video 13270
+INFO:root:gloss: copy, video: 13271.
+INFO:root:Requesting https://www.handspeak.com/word/c/copy-me.mp4
+ERROR:root:Unsuccessful downloading - video 13271
+INFO:root:gloss: copy, video: 13272.
+INFO:root:Requesting https://www.handspeak.com/word/c/copy.mp4
+ERROR:root:Unsuccessful downloading - video 13272
+INFO:root:gloss: copy, video: 13273.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/1/1380.mp4
+ERROR:root:Unsuccessful downloading - video 13273
+INFO:root:gloss: copy, video: 13275.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/24/24147.mp4
+ERROR:root:Unsuccessful downloading - video 13275
+INFO:root:gloss: copy, video: 65405.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COPY-1165.mp4
+ERROR:root:Unsuccessful downloading - video 65405
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/czmcAskan8Y
+ERROR:root:Unsuccessful downloading - video 11637
+INFO:root:gloss: copy, video: 13277.
+INFO:root:Requesting http://www.aslpro.com/main/c/copy.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=dm0PExvlbKY
+INFO:root:gloss: copy, video: 13278.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/copy2.mp4
+ERROR:root:Unsuccessful downloading - video 11566
+INFO:root:gloss: copy, video: 13279.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/copy.mp4
+ERROR:root:Unsuccessful downloading - video 11717
+INFO:root:gloss: copy, video: 13267.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Copy%202-JFnW_6la6nc.mp4
+INFO:root:gloss: copy, video: 13268.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Copy-bxtQREjPuTg.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lE--hnqz2lo
+INFO:root:gloss: cute, video: 14455.
+INFO:root:Requesting https://www.handspeak.com/word/c/cute2.mp4
+ERROR:root:Unsuccessful downloading - video 14455
+INFO:root:gloss: cute, video: 14456.
+INFO:root:Requesting https://www.handspeak.com/word/c/cute.mp4
+ERROR:root:Unsuccessful downloading - video 14456
+INFO:root:gloss: cute, video: 14457.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8732.mp4
+ERROR:root:Unsuccessful downloading - video 14457
+INFO:root:gloss: cute, video: 14458.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8733.mp4
+ERROR:root:Unsuccessful downloading - video 14458
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Swd3dXctl9E
+INFO:root:gloss: cute, video: 65432.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CU/CUTE_1or2-438.mp4
+ERROR:root:Unsuccessful downloading - video 65432
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/SRF4kTJWSBQ
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/Tpd0LRCDzsY
+INFO:root:gloss: cute, video: 14460.
+INFO:root:Requesting http://www.aslpro.com/main/c/cute.swf
+ERROR:root:Unsuccessful downloading - video 11638
+INFO:root:gloss: cute, video: 14461.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/cute.mp4
+ERROR:root:Unsuccessful downloading - video 13277
+INFO:root:gloss: cute, video: 14451.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/58499.mp4
+INFO:root:gloss: cute, video: 14452.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cute.mp4
+INFO:root:gloss: cute, video: 14453.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466906048.8806.mp4
+INFO:root:gloss: cute, video: 14454.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1546573069.1645.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=ChIupJBcxjs already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=bq-HmgjGzmw already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Rfnpk9fqpGI
+INFO:root:gloss: daughter, video: 14754.
+INFO:root:Requesting https://www.handspeak.com/word/d/daughter.mp4
+ERROR:root:Unsuccessful downloading - video 14754
+INFO:root:gloss: daughter, video: 14755.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6365.mp4
+ERROR:root:Unsuccessful downloading - video 14755
+INFO:root:gloss: daughter, video: 14756.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8464.mp4
+ERROR:root:Unsuccessful downloading - video 14756
+INFO:root:gloss: daughter, video: 14757.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8466.mp4
+ERROR:root:Unsuccessful downloading - video 14757
+INFO:root:gloss: daughter, video: 65443.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DA/DAUGHTER-1211.mp4
+ERROR:root:Unsuccessful downloading - video 65443
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=hJD5uIn7ZHg
+INFO:root:gloss: daughter, video: 14759.
+INFO:root:Requesting http://www.aslpro.com/main/d/daughter.swf
+ERROR:root:Unsuccessful downloading - video 14460
+INFO:root:gloss: daughter, video: 14760.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/daughter.mp4
+ERROR:root:Unsuccessful downloading - video 11718
+INFO:root:gloss: daughter, video: 14749.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/399330.mp4
+INFO:root:gloss: daughter, video: 14750.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/daughter.mp4
+INFO:root:gloss: daughter, video: 14751.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Daughter%20Old-v4cNSS7EQus.mp4
+INFO:root:gloss: daughter, video: 14752.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Daughter--CRawrGay1g.mp4
+INFO:root:gloss: daughter, video: 14753.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466906650.7965.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=2oaCeSdHG-A already exists.
+INFO:root:gloss: example, video: 20067.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example%202-y3XklXpz9Xc.mp4
+INFO:root:gloss: example, video: 20068.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example%203-eKHr0uVDy9g.mp4
+INFO:root:gloss: example, video: 20070.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example-H2rgcfiBkbo.mp4
+INFO:root:gloss: example, video: 20071.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example-luDr_yqrP4s.mp4
+INFO:root:gloss: example, video: 20072.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468378376.6984.mp4
+ERROR:root:Unsuccessful downloading - video 13278
+INFO:root:gloss: example, video: 20073.
+INFO:root:Requesting https://www.handspeak.com/word/e/example.mp4
+ERROR:root:Unsuccessful downloading - video 13279
+INFO:root:gloss: example, video: 65652.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EX/EXAMPLE-1337.mp4
+INFO:root:gloss: example, video: 65653.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EX/EXAMPLE-2305.mp4
+ERROR:root:Unsuccessful downloading - video 65652
+INFO:root:gloss: example, video: 65654.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EX/EXAMPLE-2958.mp4
+ERROR:root:Unsuccessful downloading - video 20073
+INFO:root:gloss: example, video: 20074.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6176.mp4
+ERROR:root:Unsuccessful downloading - video 65653
+ERROR:root:Unsuccessful downloading - video 65654
+INFO:root:gloss: example, video: 20076.
+INFO:root:Requesting http://www.aslpro.com/main/e/example.swf
+ERROR:root:Unsuccessful downloading - video 20074
+INFO:root:gloss: example, video: 20077.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/example.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=DnIb38DHk30
+INFO:root:gloss: example, video: 20066.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/455572.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=lWaQxL25Aew already exists.
+INFO:root:gloss: far, video: 21073.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far-Is4-JyMoX5A.mp4
+ERROR:root:Unsuccessful downloading - video 20076
+INFO:root:gloss: far, video: 21074.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far-sfcP223iU-4.mp4
+INFO:root:gloss: far, video: 21075.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1499869515.5396.mp4
+INFO:root:gloss: far, video: 21076.
+INFO:root:Requesting https://www.handspeak.com/word/f/far.mp4
+INFO:root:gloss: far, video: 21077.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23561.mp4
+ERROR:root:Unsuccessful downloading - video 21076
+INFO:root:gloss: far, video: 21078.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23562.mp4
+ERROR:root:Unsuccessful downloading - video 21077
+INFO:root:gloss: far, video: 65682.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FA/FAR-699.mp4
+ERROR:root:Unsuccessful downloading - video 21078
+INFO:root:gloss: far, video: 21069.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/455630.mp4
+ERROR:root:Unsuccessful downloading - video 65682
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/fpCyfaQ5bXY
+INFO:root:gloss: far, video: 21080.
+INFO:root:Requesting http://www.aslpro.com/main/f/far.swf
+ERROR:root:Unsuccessful downloading - video 14759
+INFO:root:gloss: far, video: 21081.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/remote.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=zVJ7-WuHsow
+INFO:root:gloss: far, video: 21070.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/far.mp4
+INFO:root:gloss: far, video: 21071.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far%202-0WbL8BG12fo.mp4
+INFO:root:gloss: far, video: 21072.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far-6By4ve8GCtI.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=lWaQxL25Aew already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=jDCw7stJaM4 already exists.
+INFO:root:gloss: first, video: 22086.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/first.mp4
+INFO:root:gloss: first, video: 22087.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468494663.4948.mp4
+INFO:root:gloss: first, video: 22088.
+INFO:root:Requesting https://www.handspeak.com/word/f/first-ordinal.mp4
+ERROR:root:Unsuccessful downloading - video 22088
+INFO:root:gloss: first, video: 22089.
+INFO:root:Requesting https://www.handspeak.com/word/f/first-time.mp4
+ERROR:root:Unsuccessful downloading - video 22089
+INFO:root:gloss: first, video: 22094.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7760.mp4
+ERROR:root:Unsuccessful downloading - video 22094
+INFO:root:gloss: first, video: 65729.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIRST-1474.mp4
+ERROR:root:Unsuccessful downloading - video 65729
+INFO:root:gloss: first, video: 65730.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIRST-1475.mp4
+ERROR:root:Unsuccessful downloading - video 65730
+INFO:root:gloss: first, video: 65728.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIRST-458.mp4
+ERROR:root:Unsuccessful downloading - video 65728
+INFO:root:gloss: first, video: 22085.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/455675.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/y2qGwZW9V4g
+ERROR:root:Unsuccessful downloading - video 14461
+INFO:root:gloss: first, video: 22095.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8417.mp4
+ERROR:root:Unsuccessful downloading - video 22095
+INFO:root:gloss: first, video: 22097.
+INFO:root:Requesting http://www.aslpro.com/main/f/first.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=x5l3yT0VW_w
+INFO:root:gloss: first, video: 22098.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/first.mp4
+ERROR:root:Unsuccessful downloading - video 21080
+INFO:root:YouTube videos https://www.youtube.com/watch?v=lWaQxL25Aew already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=25OsRZMSydI
+INFO:root:YouTube videos https://www.youtube.com/watch?v=bq-HmgjGzmw already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=uvhVws-LlfM
+INFO:root:gloss: friend, video: 23574.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14372.mp4
+ERROR:root:Unsuccessful downloading - video 23574
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=6a571i9uA3U
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=6RRmIyhkMx0
+INFO:root:gloss: friend, video: 65782.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FR/FRIEND-462.mp4
+ERROR:root:Unsuccessful downloading - video 65782
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/VXN_PVcYgKc
+ERROR:root:Unsuccessful downloading - video 14760
+INFO:root:gloss: friend, video: 23577.
+INFO:root:Requesting http://www.aslpro.com/main/f/friend.swf
+INFO:root:gloss: friend, video: 23578.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/friend.mp4
+ERROR:root:Unsuccessful downloading - video 22097
+INFO:root:gloss: friend, video: 23568.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/456372.mp4
+INFO:root:gloss: friend, video: 23569.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/friend.mp4
+INFO:root:gloss: friend, video: 23570.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Friend-kf4Rs2291OM.mp4
+INFO:root:gloss: friend, video: 23572.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468514220.311.mp4
+INFO:root:gloss: friend, video: 23573.
+INFO:root:Requesting https://www.handspeak.com/word/f/friend.mp4
+ERROR:root:Unsuccessful downloading - video 23573
+INFO:root:YouTube videos https://www.youtube.com/watch?v=YdHKN_wHZqo already exists.
+INFO:root:gloss: good, video: 69347.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/good.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=WprUBqi3iBc already exists.
+INFO:root:gloss: good, video: 25072.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14369.mp4
+ERROR:root:Unsuccessful downloading - video 25072
+INFO:root:gloss: good, video: 25073.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6519.mp4
+ERROR:root:Unsuccessful downloading - video 25073
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=tTDXplV6TKA
+INFO:root:gloss: good, video: 25075.
+INFO:root:Requesting http://www.aslpro.com/main/g/good.swf
+ERROR:root:Unsuccessful downloading - video 20077
+INFO:root:gloss: good, video: 65835.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GO/GOOD-472.mp4
+ERROR:root:Unsuccessful downloading - video 65835
+INFO:root:gloss: good, video: 25066.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/456461.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/nTaaoVc75-k
+INFO:root:gloss: good, video: 25076.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/good.mp4
+ERROR:root:Unsuccessful downloading - video 21081
+INFO:root:gloss: good, video: 25067.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/good.mp4
+INFO:root:gloss: good, video: 25068.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20good2-teA9no8RAog.mp4
+INFO:root:gloss: good, video: 25069.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Good-kA-FPrCV88o.mp4
+INFO:root:gloss: good, video: 25070.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468549579.7523.mp4
+INFO:root:gloss: good, video: 25071.
+INFO:root:Requesting https://www.handspeak.com/word/g/good.mp4
+ERROR:root:Unsuccessful downloading - video 25071
+INFO:root:YouTube videos https://www.youtube.com/watch?v=SiBub8VD5wo already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=CSj7IScvZnE already exists.
+INFO:root:gloss: happy, video: 26528.
+INFO:root:Requesting https://www.handspeak.com/word/h/happy.mp4
+ERROR:root:Unsuccessful downloading - video 26528
+INFO:root:gloss: happy, video: 26530.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23649.mp4
+ERROR:root:Unsuccessful downloading - video 26530
+INFO:root:gloss: happy, video: 26531.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23650.mp4
+ERROR:root:Unsuccessful downloading - video 26531
+INFO:root:gloss: happy, video: 26532.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23651.mp4
+ERROR:root:Unsuccessful downloading - video 26532
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=RYpAClHsBTM
+ERROR:root:Unsuccessful downloading - video 23577
+INFO:root:gloss: happy, video: 26524.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/456551.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/deGERv54kIc
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=SHc7_8aD9Rw
+INFO:root:gloss: happy, video: 26536.
+INFO:root:Requesting http://www.aslpro.com/main/h/happy.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZXHHO_DY6_A
+INFO:root:gloss: happy, video: 26537.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/happy.mp4
+ERROR:root:Unsuccessful downloading - video 22098
+INFO:root:gloss: happy, video: 26525.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/happy.mp4
+INFO:root:gloss: happy, video: 26526.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Happy.mp4
+ERROR:root:Unsuccessful downloading - video 26536
+INFO:root:gloss: happy, video: 26527.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468579583.2605.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=SiBub8VD5wo already exists.
+INFO:root:gloss: home, video: 69366.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/home.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=h5auyidvtSc
+INFO:root:YouTube videos https://www.youtube.com/watch?v=jDCw7stJaM4 already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=n0Xb58PVX_A
+INFO:root:gloss: home, video: 27774.
+INFO:root:Requesting http://www.aslpro.com/main/h/home.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=WSHD1XX7kWk
+INFO:root:gloss: home, video: 27765.
+INFO:root:Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/home.mov
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/kI8My8vQVXM
+INFO:root:gloss: home, video: 27775.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/residence.mp4
+ERROR:root:Unsuccessful downloading - video 25075
+INFO:root:gloss: home, video: 27766.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/58526.mp4
+INFO:root:gloss: home, video: 27767.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/home.mp4
+INFO:root:gloss: home, video: 27768.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468581607.3342.mp4
+INFO:root:gloss: home, video: 27769.
+INFO:root:Requesting https://www.handspeak.com/word/h/home.mp4
+ERROR:root:Unsuccessful downloading - video 27769
+INFO:root:gloss: home, video: 27770.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7180.mp4
+ERROR:root:Unsuccessful downloading - video 27770
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=mq0ygGcmFKY
+INFO:root:YouTube videos https://www.youtube.com/watch?v=D2Vg3lKjX78 already exists.
+INFO:root:gloss: know, video: 31900.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468670827.8910.mp4
+INFO:root:gloss: know, video: 31901.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1522766867.4800.mp4
+INFO:root:gloss: know, video: 31902.
+INFO:root:Requesting https://www.handspeak.com/word/k/know.mp4
+ERROR:root:Unsuccessful downloading - video 31902
+INFO:root:gloss: know, video: 31903.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9496.mp4
+ERROR:root:Unsuccessful downloading - video 31903
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=6jP9ZtXcQkM
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Ht2B0VzHFwQ
+INFO:root:gloss: know, video: 66002.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/KN/KNOW-554.mp4
+ERROR:root:Unsuccessful downloading - video 66002
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/AMYxu_v6Caw
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=MBzzJk_5WwY
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=RLjz2Q1WMQ4
+INFO:root:gloss: know, video: 31908.
+INFO:root:Requesting http://www.aslpro.com/main/k/know.swf
+ERROR:root:Unsuccessful downloading - video 23578
+INFO:root:gloss: know, video: 31909.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/know.mp4
+ERROR:root:Unsuccessful downloading - video 27774
+INFO:root:gloss: know, video: 31897.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457474.mp4
+INFO:root:gloss: know, video: 31898.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/know.mp4
+INFO:root:gloss: know, video: 31899.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Know-aCx2fU-hklU.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=EhkIoTNxwGE already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=CSj7IScvZnE already exists.
+INFO:root:gloss: late, video: 32304.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468671400.7103.mp4
+INFO:root:gloss: late, video: 32305.
+INFO:root:Requesting https://www.handspeak.com/word/l/late.mp4
+ERROR:root:Unsuccessful downloading - video 32305
+INFO:root:gloss: late, video: 32306.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14721.mp4
+ERROR:root:Unsuccessful downloading - video 32306
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=8W6NWFfvQG0
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=9ul_1z23KLI
+INFO:root:gloss: late, video: 32309.
+INFO:root:Requesting http://www.aslpro.com/main/l/late_for_class.swf
+ERROR:root:Unsuccessful downloading - video 25076
+INFO:root:gloss: late, video: 66013.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LA/LATE-1689.mp4
+ERROR:root:Unsuccessful downloading - video 66013
+INFO:root:gloss: late, video: 32300.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457495.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/hE7vwJDc-4Y
+INFO:root:gloss: late, video: 32310.
+INFO:root:Requesting http://www.aslpro.com/main/l/late.swf
+ERROR:root:Unsuccessful downloading - video 32310
+INFO:root:gloss: late, video: 32311.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/late.mp4
+ERROR:root:Unsuccessful downloading - video 31908
+INFO:root:gloss: late, video: 32312.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/late.mp4
+ERROR:root:Unsuccessful downloading - video 26537
+INFO:root:gloss: late, video: 32302.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/late.mp4
+INFO:root:gloss: late, video: 32303.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Late-dyYqPvUysCQ.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=fn1PTkU1fGI
+INFO:root:gloss: leave, video: 32655.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/leave.mp4
+INFO:root:gloss: leave, video: 32675.
+INFO:root:Requesting http://www.aslpro.com/main/l/leave.swf
+ERROR:root:Unsuccessful downloading - video 27775
+INFO:root:gloss: leave, video: 32677.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/leave.mp4
+ERROR:root:Unsuccessful downloading - video 32309
+INFO:root:gloss: leave, video: 66025.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LEAVE-471.mp4
+ERROR:root:Unsuccessful downloading - video 66025
+INFO:root:gloss: leave, video: 32657.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Leave%2C%20Strike-2gkECov8jEc.mp4
+INFO:root:gloss: leave, video: 32658.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Leave-e_PuKm3xt7A.mp4
+INFO:root:gloss: leave, video: 32659.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Leave-ihxQx3ngWyc.mp4
+INFO:root:gloss: leave, video: 32661.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468671849.7366.mp4
+INFO:root:gloss: leave, video: 32662.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1469158423.398.mp4
+INFO:root:gloss: leave, video: 32663.
+INFO:root:Requesting https://www.handspeak.com/word/l/leave-depart.mp4
+ERROR:root:Unsuccessful downloading - video 32663
+INFO:root:gloss: leave, video: 32654.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457518.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/1ebUDpd-7DE
+INFO:root:gloss: leave, video: 32664.
+INFO:root:Requesting https://www.handspeak.com/word/l/leave-gone.mp4
+ERROR:root:Unsuccessful downloading - video 32664
+INFO:root:gloss: leave, video: 32667.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22235.mp4
+ERROR:root:Unsuccessful downloading - video 32667
+INFO:root:gloss: leave, video: 32669.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22740.mp4
+ERROR:root:Unsuccessful downloading - video 32669
+INFO:root:YouTube videos https://www.youtube.com/watch?v=EhkIoTNxwGE already exists.
+INFO:root:gloss: list, video: 33475.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20List-UOfIIfQ2XZc.mp4
+INFO:root:gloss: list, video: 33477.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468712054.3568.mp4
+INFO:root:gloss: list, video: 33478.
+INFO:root:Requesting https://www.handspeak.com/word/l/list.mp4
+ERROR:root:Unsuccessful downloading - video 33478
+INFO:root:gloss: list, video: 33479.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23283.mp4
+ERROR:root:Unsuccessful downloading - video 33479
+INFO:root:gloss: list, video: 33480.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23285.mp4
+ERROR:root:Unsuccessful downloading - video 33480
+ERROR:root:Unsuccessful downloading - video 31909
+INFO:root:gloss: list, video: 66075.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LI/LIST-1644.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=6tmwqlYiflI
+ERROR:root:Unsuccessful downloading - video 66075
+INFO:root:gloss: list, video: 33472.
+INFO:root:Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/list.mov
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/8vNp_xyNxws
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=d87UogAsyxg
+INFO:root:gloss: list, video: 33485.
+INFO:root:Requesting http://www.aslpro.com/main/l/list.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=LFubvvh2-sE
+INFO:root:gloss: list, video: 33486.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/list.mp4
+ERROR:root:Unsuccessful downloading - video 32675
+INFO:root:gloss: list, video: 33473.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/75021.mp4
+INFO:root:gloss: list, video: 33474.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lesson%2C%20List%2C%20Recipe-8d-XUOnzYFE.mp4
+INFO:root:gloss: lose, video: 34002.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457582.mp4
+INFO:root:gloss: lose, video: 34004.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lose%20(Trimmed)-Tjt-yGXkpfQ.mp4
+INFO:root:gloss: lose, video: 34005.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lose%2C%20Lost-1960eVTWUJw.mp4
+INFO:root:gloss: lose, video: 34006.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20lose-srt0wJbxsZE.mp4
+INFO:root:gloss: lose, video: 34007.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20lose.mp4
+INFO:root:gloss: lose, video: 34008.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468712664.805.mp4
+INFO:root:gloss: lose, video: 34009.
+INFO:root:Requesting https://www.handspeak.com/word/l/lose-game.mp4
+ERROR:root:Unsuccessful downloading - video 34009
+INFO:root:gloss: lose, video: 34010.
+INFO:root:Requesting https://www.handspeak.com/word/l/lose.mp4
+ERROR:root:Unsuccessful downloading - video 34010
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/lH9vlUcCL24
+INFO:root:gloss: lose, video: 34012.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6520.mp4
+ERROR:root:Unsuccessful downloading - video 34012
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=EyI_I3wOt5Y
+INFO:root:YouTube videos https://www.youtube.com/watch?v=EyI_I3wOt5Y already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=hToPKg_N4qY
+INFO:root:gloss: lose, video: 34016.
+INFO:root:Requesting http://www.aslpro.com/main/l/lose.swf
+ERROR:root:Unsuccessful downloading - video 32311
+INFO:root:gloss: lose, video: 34017.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/lose2.mp4
+ERROR:root:Unsuccessful downloading - video 32312
+INFO:root:gloss: lose, video: 34018.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/lose.mp4
+ERROR:root:Unsuccessful downloading - video 33485
+INFO:root:YouTube videos https://www.youtube.com/watch?v=1_jXxjd0lKE already exists.
+INFO:root:gloss: name, video: 69405.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/name.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=GDAvnSKfZoU
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=_ObcZbitfJg
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=GbeC9TFuSX4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=nMFZhDcynoY
+INFO:root:gloss: name, video: 37589.
+INFO:root:Requesting http://www.aslpro.com/main/n/name.swf
+ERROR:root:Unsuccessful downloading - video 32677
+INFO:root:gloss: name, video: 37580.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/48612.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/yFYsa9KPUXc
+INFO:root:gloss: name, video: 37590.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/name.mp4
+ERROR:root:Unsuccessful downloading - video 37589
+INFO:root:gloss: name, video: 37581.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Name-DikA_15hmng.mp4
+INFO:root:gloss: name, video: 37582.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468717645.5170.mp4
+INFO:root:gloss: name, video: 37583.
+INFO:root:Requesting https://www.handspeak.com/word/n/name.mp4
+ERROR:root:Unsuccessful downloading - video 37583
+INFO:root:gloss: name, video: 37584.
+INFO:root:Requesting https://www.handspeak.com/word/n/name-verb.mp4
+ERROR:root:Unsuccessful downloading - video 37584
+INFO:root:gloss: name, video: 37585.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7751.mp4
+ERROR:root:Unsuccessful downloading - video 37585
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=7ZeN8irshAc
+INFO:root:YouTube videos https://www.youtube.com/watch?v=K1VPkuTMpP0 already exists.
+INFO:root:gloss: old, video: 69419.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/old.mp4
+ERROR:root:Unsuccessful downloading - video 34016
+INFO:root:gloss: old, video: 39629.
+INFO:root:Requesting https://www.handspeak.com/word/o/older.mp4
+ERROR:root:Unsuccessful downloading - video 39629
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=wmJfQSUsnQ8
+INFO:root:gloss: old, video: 39624.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/49163.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=XuVeMWG5xMs
+INFO:root:gloss: old, video: 39630.
+INFO:root:Requesting https://www.handspeak.com/word/o/old-notnew.mp4
+INFO:root:gloss: old, video: 39631.
+INFO:root:Requesting https://www.handspeak.com/word/o/old-very.mp4
+ERROR:root:Unsuccessful downloading - video 39630
+ERROR:root:Unsuccessful downloading - video 39631
+INFO:root:gloss: old, video: 39632.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6337.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/IhZacj3-_a4
+ERROR:root:Unsuccessful downloading - video 39632
+INFO:root:gloss: old, video: 39634.
+INFO:root:Requesting http://www.aslpro.com/main/o/old.swf
+INFO:root:gloss: old, video: 39635.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/stale.mp4
+ERROR:root:Unsuccessful downloading - video 33486
+INFO:root:gloss: old, video: 39625.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/old.mp4
+INFO:root:gloss: old, video: 39626.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Old-PYeMIH_-Kog.mp4
+INFO:root:gloss: old, video: 39627.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468721358.1844.mp4
+INFO:root:gloss: old, video: 39628.
+INFO:root:Requesting https://www.handspeak.com/word/o/old-age.mp4
+ERROR:root:Unsuccessful downloading - video 39628
+INFO:root:YouTube videos https://www.youtube.com/watch?v=zHd4YEFzpwE already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=LawiJaK2Jw0
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rcZE9yHR0bQ
+INFO:root:gloss: person, video: 42227.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468725222.7589.mp4
+INFO:root:gloss: person, video: 42228.
+INFO:root:Requesting https://www.handspeak.com/word/p/person.mp4
+ERROR:root:Unsuccessful downloading - video 42228
+INFO:root:gloss: person, video: 42231.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22125.mp4
+ERROR:root:Unsuccessful downloading - video 42231
+INFO:root:gloss: person, video: 42232.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/22/22125.mp4
+ERROR:root:Unsuccessful downloading - video 42232
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ONuBnrzVXQw
+INFO:root:gloss: person, video: 66280.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PE/PERSON-888.mp4
+ERROR:root:Unsuccessful downloading - video 66280
+INFO:root:gloss: person, video: 42225.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/457738.mp4
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/owpU6xgfONs
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=RXX7T4-saPs
+INFO:root:gloss: person, video: 42237.
+INFO:root:Requesting http://www.aslpro.com/main/p/person_marker.swf
+ERROR:root:Unsuccessful downloading - video 39634
+INFO:root:gloss: person, video: 42238.
+INFO:root:Requesting http://www.aslpro.com/main/p/person.swf
+ERROR:root:Unsuccessful downloading - video 34017
+INFO:root:gloss: person, video: 42239.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/person.mp4
+ERROR:root:Unsuccessful downloading - video 34018
+INFO:root:gloss: person, video: 42226.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Person-JuPDRv_OWWQ.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=zHd4YEFzpwE already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=2DblIQ5n6xk
+INFO:root:gloss: police, video: 43526.
+INFO:root:Requesting https://www.handspeak.com/word/p/police-c.mp4
+ERROR:root:Unsuccessful downloading - video 43526
+INFO:root:gloss: police, video: 43527.
+INFO:root:Requesting https://www.handspeak.com/word/p/police.mp4
+ERROR:root:Unsuccessful downloading - video 43527
+INFO:root:gloss: police, video: 43528.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14010.mp4
+ERROR:root:Unsuccessful downloading - video 43528
+INFO:root:gloss: police, video: 43529.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14012.mp4
+ERROR:root:Unsuccessful downloading - video 43529
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=1DmLfk0JE84
+INFO:root:gloss: police, video: 66306.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POLICE-912.mp4
+ERROR:root:Unsuccessful downloading - video 66306
+INFO:root:gloss: police, video: 43522.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/49201.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=aPcjl3P94xc
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=TyxYhCL1RSA
+INFO:root:gloss: police, video: 43534.
+INFO:root:Requesting http://www.aslpro.com/main/p/police.swf
+ERROR:root:Unsuccessful downloading - video 37590
+INFO:root:gloss: police, video: 43535.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/cop.mp4
+ERROR:root:Unsuccessful downloading - video 42237
+INFO:root:gloss: police, video: 43523.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cop%202-Nba4p7eNbnY.mp4
+INFO:root:gloss: police, video: 43524.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Officer-_bWGe-DFJdw.mp4
+INFO:root:gloss: police, video: 43525.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468754360.5475.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=zHd4YEFzpwE already exists.
+INFO:root:gloss: problem, video: 44684.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468756235.8420.mp4
+INFO:root:gloss: problem, video: 44685.
+INFO:root:Requesting https://www.handspeak.com/word/p/problem.mp4
+ERROR:root:Unsuccessful downloading - video 44685
+INFO:root:gloss: problem, video: 44686.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6659.mp4
+ERROR:root:Unsuccessful downloading - video 44686
+INFO:root:gloss: problem, video: 44687.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6661.mp4
+ERROR:root:Unsuccessful downloading - video 44687
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=eNutcT89QIQ
+INFO:root:YouTube videos https://www.youtube.com/watch?v=eNutcT89QIQ already exists.
+INFO:root:gloss: problem, video: 66335.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PR/PROBLEM_1-2483.mp4
+ERROR:root:Unsuccessful downloading - video 66335
+INFO:root:gloss: problem, video: 44680.
+INFO:root:Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/problem.mov
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/2EVzT-lydyk
+ERROR:root:Unsuccessful downloading - video 42238
+INFO:root:gloss: problem, video: 44690.
+INFO:root:Requesting http://www.aslpro.com/main/p/problem.swf
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/5iOCz7V4-fA
+ERROR:root:Unsuccessful downloading - video 39635
+INFO:root:gloss: problem, video: 44691.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/problem.mp4
+INFO:root:gloss: problem, video: 44681.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/63567.mp4
+INFO:root:gloss: problem, video: 44682.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Problem%20copy-H6BM_-Y6GF8.mp4
+INFO:root:gloss: problem, video: 44683.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Problem-cDVI4LelnNc.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=9t2xz0gUYAk
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=rMeDO5IkVGw
+INFO:root:YouTube videos https://www.youtube.com/watch?v=Z25ng9maolE already exists.
+INFO:root:gloss: remember, video: 47178.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468759686.1526.mp4
+INFO:root:gloss: remember, video: 47180.
+INFO:root:Requesting https://www.handspeak.com/word/r/remember.mp4
+ERROR:root:Unsuccessful downloading - video 47180
+INFO:root:gloss: remember, video: 47183.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9114.mp4
+ERROR:root:Unsuccessful downloading - video 47183
+INFO:root:gloss: remember, video: 66387.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/REMEMBER-958.mp4
+ERROR:root:Unsuccessful downloading - video 66387
+ERROR:root:Unsuccessful downloading - youtube video url https://youtu.be/XptGbDzwynY
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=eexLzOQo9QE
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=kD8yAtetHio
+ERROR:root:Unsuccessful downloading - video 43534
+INFO:root:gloss: remember, video: 47186.
+INFO:root:Requesting http://www.aslpro.com/main/r/remember.swf
+INFO:root:gloss: remember, video: 47187.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/remember.mp4
+ERROR:root:Unsuccessful downloading - video 44690
+INFO:root:gloss: remember, video: 47175.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/49277.mp4
+INFO:root:gloss: remember, video: 47176.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Remember%202-NHgRSDhylOA.mp4
+ERROR:root:Unsuccessful downloading - video 42239
+INFO:root:gloss: remember, video: 47177.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Remember-gTlLekzIsEY.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+INFO:root:gloss: share, video: 50853.
+INFO:root:Requesting https://www.handspeak.com/word/s/share.mp4
+ERROR:root:Unsuccessful downloading - video 50853
+INFO:root:gloss: share, video: 50854.
+INFO:root:Requesting https://www.handspeak.com/word/s/share-you.mp4
+ERROR:root:Unsuccessful downloading - video 50854
+INFO:root:gloss: share, video: 50855.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6543.mp4
+INFO:root:gloss: share, video: 50856.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/8/8853.mp4
+ERROR:root:Unsuccessful downloading - video 50855
+ERROR:root:Unsuccessful downloading - video 50856
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=3E2_HVDL9T8
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=bl95h3JbMqI
+INFO:root:gloss: share, video: 66461.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SH/SHARE-251.mp4
+ERROR:root:Unsuccessful downloading - video 66461
+INFO:root:gloss: share, video: 50849.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Share-IaO4TjGuEYw.mp4
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mWLScxe2_P0
+INFO:root:YouTube videos https://www.youtube.com/watch?v=mWLScxe2_P0 already exists.
+INFO:root:gloss: share, video: 50861.
+INFO:root:Requesting http://www.aslpro.com/main/s/share.swf
+INFO:root:gloss: share, video: 50862.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/share.mp4
+ERROR:root:Unsuccessful downloading - video 47186
+INFO:root:gloss: share, video: 50850.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Share-vz2mlzywHbs.mp4
+INFO:root:gloss: share, video: 50851.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468765753.9375.mp4
+INFO:root:gloss: share, video: 50852.
+INFO:root:Requesting https://www.handspeak.com/word/s/share-all.mp4
+ERROR:root:Unsuccessful downloading - video 50852
+INFO:root:YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+INFO:root:gloss: soon, video: 53295.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Temporary-K7MTuhcMSfQ.mp4
+INFO:root:gloss: soon, video: 53296.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468776598.3772.mp4
+INFO:root:gloss: soon, video: 53297.
+INFO:root:Requesting https://www.handspeak.com/word/s/soon.mp4
+ERROR:root:Unsuccessful downloading - video 53297
+INFO:root:gloss: soon, video: 53298.
+INFO:root:Requesting https://www.handspeak.com/word/s/soon-short.mp4
+ERROR:root:Unsuccessful downloading - video 53298
+INFO:root:gloss: soon, video: 53300.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23534.mp4
+ERROR:root:Unsuccessful downloading - video 53300
+INFO:root:gloss: soon, video: 53301.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9723.mp4
+ERROR:root:Unsuccessful downloading - video 53301
+INFO:root:gloss: soon, video: 66533.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SOON-266.mp4
+ERROR:root:Unsuccessful downloading - video 66533
+INFO:root:gloss: soon, video: 66534.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SOON-268.mp4
+ERROR:root:Unsuccessful downloading - video 66534
+INFO:root:gloss: soon, video: 53292.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50817.mp4
+ERROR:root:Unsuccessful downloading - video 43535
+INFO:root:gloss: soon, video: 53303.
+INFO:root:Requesting http://www.aslpro.com/main/s/soon.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ty0cXz3tYlM
+INFO:root:gloss: soon, video: 53304.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/soon2.mp4
+ERROR:root:Unsuccessful downloading - video 44691
+INFO:root:gloss: soon, video: 53305.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/soon.mp4
+ERROR:root:Unsuccessful downloading - video 50861
+INFO:root:gloss: soon, video: 53293.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20soon-8tDdpDqZ1tY.mp4
+INFO:root:gloss: soon, video: 53294.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Soon-iGlkQGOMCEY.mp4
+INFO:root:YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=tfq5iBP8DTA
+INFO:root:gloss: stay, video: 54559.
+INFO:root:Requesting https://www.handspeak.com/word/s/stay2.mp4
+ERROR:root:Unsuccessful downloading - video 54559
+INFO:root:gloss: stay, video: 54560.
+INFO:root:Requesting https://www.handspeak.com/word/s/stay.mp4
+ERROR:root:Unsuccessful downloading - video 54560
+INFO:root:gloss: stay, video: 54561.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5811.mp4
+ERROR:root:Unsuccessful downloading - video 54561
+INFO:root:gloss: stay, video: 54562.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/5/5812.mp4
+ERROR:root:Unsuccessful downloading - video 54562
+INFO:root:gloss: stay, video: 54563.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/9/9726.mp4
+ERROR:root:Unsuccessful downloading - video 47187
+INFO:root:gloss: stay, video: 54554.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/50822.mp4
+ERROR:root:Unsuccessful downloading - video 54563
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=k2VFMUf9mo8
+INFO:root:gloss: stay, video: 54566.
+INFO:root:Requesting http://www.aslpro.com/main/s/stay.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=QmbOr-8K_Kw
+INFO:root:gloss: stay, video: 54567.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/stay.mp4
+ERROR:root:Unsuccessful downloading - video 53303
+INFO:root:gloss: stay, video: 54555.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stay%202-g3ho3QEAE-o.mp4
+ERROR:root:Unsuccessful downloading - video 53305
+INFO:root:gloss: stay, video: 54556.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stay%2C%20That-EwCyqwGVnhA.mp4
+ERROR:root:Unsuccessful downloading - video 54556
+INFO:root:gloss: stay, video: 54557.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stay-cR-jmxeRoUg.mp4
+ERROR:root:Unsuccessful downloading - video 54557
+INFO:root:gloss: stay, video: 54558.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468866523.9046.mp4
+ERROR:root:Unsuccessful downloading - video 54558
+INFO:root:YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+INFO:root:YouTube videos https://www.youtube.com/watch?v=sErq0TJMKEo already exists.
+INFO:root:gloss: sunday, video: 55773.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1468898005.2311.mp4
+ERROR:root:Unsuccessful downloading - video 55773
+INFO:root:gloss: sunday, video: 55774.
+INFO:root:Requesting https://www.handspeak.com/word/s/sunday.mp4
+ERROR:root:Unsuccessful downloading - video 55774
+INFO:root:gloss: sunday, video: 55775.
+INFO:root:Requesting https://www.handspeak.com/word/s/sundays.mp4
+ERROR:root:Unsuccessful downloading - video 55775
+INFO:root:gloss: sunday, video: 55776.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6328.mp4
+ERROR:root:Unsuccessful downloading - video 55776
+INFO:root:gloss: sunday, video: 55777.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/6/6329.mp4
+ERROR:root:Unsuccessful downloading - video 55777
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=bmy6YRYlW0Y
+ERROR:root:Unsuccessful downloading - video 50862
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=EUoby_wzGzY
+INFO:root:gloss: sunday, video: 55781.
+INFO:root:Requesting http://www.aslpro.com/main/s/sunday.swf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Gh5pD88Vgw0
+INFO:root:gloss: sunday, video: 55782.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/sunday.mp4
