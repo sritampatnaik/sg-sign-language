@@ -20,6 +20,7 @@ data/
 Datasets/MS-ASL/*.json
 
 # WLASL-specific
+Datasets/WLASL/start_kit/raw_videos/
 Datasets/WLASL/wlasl/start_kit/*.log
 Datasets/WLASL/wlasl/start_kit/log/
 Datasets/WLASL/wlasl/start_kit/missing.txt
