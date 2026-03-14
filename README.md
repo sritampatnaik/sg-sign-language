@@ -57,7 +57,7 @@ pip install torch torchvision numpy
 pip install yt-dlp
 ```
 
-*(A `requirements.txt` can be added as dependencies are finalized.)*
+_(A `requirements.txt` can be added as dependencies are finalized.)_
 
 ### 4. MS-ASL dataset
 
