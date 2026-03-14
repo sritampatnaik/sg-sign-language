@@ -17,6 +17,7 @@ data/
 *.pt
 *.pth
 *.zip
+*.mp4
 Datasets/MS-ASL/*.json
 
 # WLASL-specific

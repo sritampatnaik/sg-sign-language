@@ -17,11 +17,15 @@ This repository contains code and configurations for word-level American Sign La
 Sign-Lang-v2/
 ├── Datasets/
 │   ├── WLASL/                    # WLASL dataset & training code
-│   │   └── wlasl/
-│   │       ├── start_kit/         # Video download & preprocessing
-│   │       └── code/
-│   │           ├── I3D/           # I3D model training & testing
-│   │           └── TGCN/          # Pose-TGCN model
+│   │   ├── start_kit/             # Video download, preprocessing, data exploration
+│   │   │   ├── WLASL_v0.3.json    # Full dataset metadata
+│   │   │   ├── gloss_video_counts.json
+│   │   │   ├── gloss_categories.json
+│   │   │   └── WLASL_subset.json  # Custom subset (generated)
+│   │   ├── WLASL-data.ipynb       # Data exploration & subset creation
+│   │   └── code/
+│   │       ├── I3D/               # I3D model training & testing
+│   │       └── TGCN/              # Pose-TGCN model
 │   └── MS-ASL/                    # MS-ASL dataset metadata
 │       └── *.json                 # Download separately (see below)
 └── README.md
@@ -68,30 +72,34 @@ The MS-ASL JSON metadata files (`MSASL_train.json`, `MSASL_test.json`, `MSASL_va
 #### Download videos
 
 ```bash
-cd Datasets/WLASL/wlasl/start_kit
+cd Datasets/WLASL/start_kit
 python video_downloader.py
 python preprocess.py
 ```
 
-Videos will appear under `videos/`.
+Videos will appear under `videos/`. The downloader supports resume: stop and restart to continue without re-downloading existing files.
+
+#### Data exploration & subsets
+
+Use `Datasets/WLASL/WLASL-data.ipynb` to explore gloss counts, classify glosses into categories (via OpenAI API), and create custom subsets by selecting glosses. See `Datasets/WLASL/README.md` for details.
 
 #### I3D training
 
-1. Create `Datasets/WLASL/wlasl/data/` and place videos there.
-2. Download [I3D weights pre-trained on Kinetics](https://drive.google.com/file/d/1JgTRHGBRCHyHRT_rAF0fOjnfiFefXkEd/view?usp=sharing) and unzip to `I3D/weights/`.
+1. Create `Datasets/WLASL/data/` and place videos there.
+2. Download [I3D weights pre-trained on Kinetics](https://drive.google.com/file/d/1JgTRHGBRCHyHRT_rAF0fOjnfiFefXkEd/view?usp=sharing) and unzip to `code/I3D/weights/`.
 3. Run:
    ```bash
-   cd Datasets/WLASL/wlasl/code/I3D
+   cd Datasets/WLASL/code/I3D
    python train_i3d.py
    ```
 
 #### Pose-TGCN training
 
-1. Download [splits file](https://drive.google.com/file/d/16CWkbMLyEbdBkrxAPaxSXFP_aSxKzNN4/view?usp=sharing) and [body keypoints](https://drive.google.com/file/d/1k5mfrc2g4ZEzzNjW6CEVjLvNTZcmPanB/view?usp=sharing). Unzip into `Datasets/WLASL/wlasl/data/`.
+1. Download [splits file](https://drive.google.com/file/d/16CWkbMLyEbdBkrxAPaxSXFP_aSxKzNN4/view?usp=sharing) and [body keypoints](https://drive.google.com/file/d/1k5mfrc2g4ZEzzNjW6CEVjLvNTZcmPanB/view?usp=sharing). Unzip into `Datasets/WLASL/data/`.
 2. Adjust paths in `train_tgcn.py` main().
 3. Run:
    ```bash
-   cd Datasets/WLASL/wlasl/code/TGCN
+   cd Datasets/WLASL/code/TGCN
    python train_tgcn.py
    ```
 
