@@ -18,6 +18,8 @@ data/
 *.pth
 *.zip
 *.mp4
+*.webm
+*.mkv
 Datasets/MS-ASL/*.json
 
 # WLASL-specific
