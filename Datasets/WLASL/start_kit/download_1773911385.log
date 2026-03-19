@@ -1,0 +1,1012 @@
+2026-03-19 16:09:45,326 - Start downloading videos using multithreading.
+2026-03-19 16:09:45,326 - YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+2026-03-19 16:09:45,326 - gloss: school, video: 69455.
+2026-03-19 16:09:45,326 - 69455 exists at raw_videos_places_3/69455.mp4
+2026-03-19 16:09:45,326 - YouTube videos https://www.youtube.com/watch?v=ig7SKr3tvWc already exists.
+2026-03-19 16:09:45,326 - gloss: school, video: 49601.
+2026-03-19 16:09:45,326 - YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+2026-03-19 16:09:45,330 - YouTube videos https://www.youtube.com/watch?v=vuE3RN10AGA already exists.
+2026-03-19 16:09:45,330 - gloss: school, video: 49602.
+2026-03-19 16:09:45,333 - Requesting https://www.signingsavvy.com/signs/mp4/6/6564.mp4
+2026-03-19 16:09:45,333 - gloss: school, video: 49604.
+2026-03-19 16:09:45,333 - Requesting http://www.aslpro.com/main/s/school.swf
+2026-03-19 16:09:45,333 - Requesting https://www.handspeak.com/word/s/school.mp4
+2026-03-19 16:09:45,333 - gloss: school, video: 49595.
+2026-03-19 16:09:45,334 - 49595 exists at raw_videos_places_3/49595.mp4
+2026-03-19 16:09:46,081 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/s/school.mp4
+2026-03-19 16:09:46,081 - Requesting http://www.handspeak.com/word/s/school.mp4
+2026-03-19 16:09:46,175 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2EAilZspev4
+2026-03-19 16:09:46,185 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6564.mp4
+2026-03-19 16:09:46,185 - Requesting http://www.signingsavvy.com/signs/mp4/6/6564.mp4
+2026-03-19 16:09:46,222 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=g-w38Q0QrWE
+2026-03-19 16:09:46,899 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2EAilZspev4
+2026-03-19 16:09:46,899 - ERROR: [youtube] 2EAilZspev4: Video unavailable
+
+2026-03-19 16:09:46,962 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=g-w38Q0QrWE
+2026-03-19 16:09:46,962 - ERROR: [youtube] g-w38Q0QrWE: Video unavailable
+
+2026-03-19 16:09:47,285 - Unsuccessful downloading - video 49601
+2026-03-19 16:09:47,285 - gloss: school, video: 49605.
+2026-03-19 16:09:47,285 - Requesting http://www.aslpro.com/main/s/school_walking_to.swf
+2026-03-19 16:09:47,607 - HTTPS failed, retrying with HTTP: https://youtu.be/A_rNr7i1uAs
+2026-03-19 16:09:47,666 - Unsuccessful downloading - video 49602
+2026-03-19 16:09:47,666 - gloss: school, video: 49606.
+2026-03-19 16:09:47,667 - Requesting http://www.aslsearch.com/signs/videos/school.mp4
+2026-03-19 16:09:47,972 - gloss: school, video: 49596.
+2026-03-19 16:09:47,972 - 49596 exists at raw_videos_places_3/49596.mp4
+2026-03-19 16:09:47,972 - gloss: school, video: 49597.
+2026-03-19 16:09:47,972 - 49597 exists at raw_videos_places_3/49597.mp4
+2026-03-19 16:09:47,972 - gloss: school, video: 49598.
+2026-03-19 16:09:47,972 - 49598 exists at raw_videos_places_3/49598.mp4
+2026-03-19 16:09:47,972 - gloss: school, video: 49599.
+2026-03-19 16:09:47,972 - 49599 exists at raw_videos_places_3/49599.mp4
+2026-03-19 16:09:47,972 - gloss: school, video: 49600.
+2026-03-19 16:09:47,972 - 49600 exists at raw_videos_places_3/49600.mp4
+2026-03-19 16:09:48,191 - gloss: africa, video: 01383.
+2026-03-19 16:09:48,192 - 01383 exists at raw_videos_places_3/01383.mp4
+2026-03-19 16:09:48,192 - gloss: africa, video: 01384.
+2026-03-19 16:09:48,192 - 01384 exists at raw_videos_places_3/01384.mp4
+2026-03-19 16:09:48,192 - gloss: africa, video: 01385.
+2026-03-19 16:09:48,192 - 01385 exists at raw_videos_places_3/01385.mp4
+2026-03-19 16:09:48,192 - gloss: africa, video: 01386.
+2026-03-19 16:09:48,192 - 01386 exists at raw_videos_places_3/01386.mp4
+2026-03-19 16:09:48,192 - gloss: africa, video: 01387.
+2026-03-19 16:09:48,192 - 01387 exists at raw_videos_places_3/01387.mp4
+2026-03-19 16:09:48,192 - gloss: africa, video: 01388.
+2026-03-19 16:09:48,192 - 01388 exists at raw_videos_places_3/01388.mp4
+2026-03-19 16:09:48,192 - gloss: africa, video: 01390.
+2026-03-19 16:09:48,192 - Requesting https://www.handspeak.com/word/a/africa.mp4
+2026-03-19 16:09:48,351 - Unsuccessful downloading - youtube video url https://youtu.be/A_rNr7i1uAs
+2026-03-19 16:09:48,351 - ERROR: [youtube] A_rNr7i1uAs: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:09:48,931 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/a/africa.mp4
+2026-03-19 16:09:48,932 - Requesting http://www.handspeak.com/word/a/africa.mp4
+2026-03-19 16:09:49,789 - gloss: africa, video: 01391.
+2026-03-19 16:09:49,789 - Requesting https://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-19 16:09:50,230 - Unsuccessful downloading - video 01390
+2026-03-19 16:09:50,235 - gloss: africa, video: 65029.
+2026-03-19 16:09:50,235 - 65029 exists at raw_videos_places_3/65029.mp4
+2026-03-19 16:09:50,611 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-19 16:09:50,612 - Requesting http://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-19 16:09:50,970 - HTTPS failed, retrying with HTTP: https://youtu.be/niBJ6C9Rs_8
+2026-03-19 16:09:52,129 - Unsuccessful downloading - video 01391
+2026-03-19 16:09:53,468 - Unsuccessful downloading - youtube video url https://youtu.be/niBJ6C9Rs_8
+2026-03-19 16:09:53,468 - ERROR: [youtube] niBJ6C9Rs_8: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:09:58,204 - Finish downloading youtube video url https://www.youtube.com/watch?v=qtVdE7tBGsU
+2026-03-19 16:09:58,626 - Finish downloading youtube video url https://www.youtube.com/watch?v=jPn0FQxkdBc
+2026-03-19 16:10:00,877 - Finish downloading youtube video url https://www.youtube.com/watch?v=S__GZ7Vki30
+2026-03-19 16:10:01,933 - gloss: africa, video: 01396.
+2026-03-19 16:10:01,934 - Requesting http://www.aslpro.com/main/a/africa_1.swf
+2026-03-19 16:10:02,536 - Finish downloading youtube video url https://www.youtube.com/watch?v=YnK5IFMrc6Q
+2026-03-19 16:10:03,672 - gloss: africa, video: 01397.
+2026-03-19 16:10:03,672 - Requesting http://www.aslpro.com/main/a/africa_2.swf
+2026-03-19 16:10:03,859 - Finish downloading youtube video url https://www.youtube.com/watch?v=ZyH7kuEa18Q
+2026-03-19 16:10:04,964 - gloss: africa, video: 01398.
+2026-03-19 16:10:04,965 - Requesting http://www.aslsearch.com/signs/videos/africa.mp4
+2026-03-19 16:11:00,361 - Unsuccessful downloading - video 49604
+2026-03-19 16:11:02,289 - Unsuccessful downloading - video 49605
+2026-03-19 16:11:02,289 - gloss: city, video: 69269.
+2026-03-19 16:11:02,289 - Requesting http://aslbricks.org/New/ASL-Videos/city.mp4
+2026-03-19 16:11:11,710 - Finish downloading youtube video url https://www.youtube.com/watch?v=PPmQd2zWdP0
+2026-03-19 16:11:14,392 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=cEbPqZiaAqQ
+2026-03-19 16:11:15,273 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=cEbPqZiaAqQ
+2026-03-19 16:11:15,273 - ERROR: [youtube] cEbPqZiaAqQ: Video unavailable
+
+2026-03-19 16:11:16,475 - gloss: city, video: 10895.
+2026-03-19 16:11:16,475 - Requesting https://media.asldeafined.com/vocabulary/1466898554.85.mp4
+2026-03-19 16:11:16,937 - Unsuccessful downloading - video 01396
+2026-03-19 16:11:16,938 - gloss: city, video: 10896.
+2026-03-19 16:11:16,941 - Requesting https://www.handspeak.com/word/c/city.mp4
+2026-03-19 16:11:18,238 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/city.mp4
+2026-03-19 16:11:18,238 - Requesting http://www.handspeak.com/word/c/city.mp4
+2026-03-19 16:11:18,676 - Unsuccessful downloading - video 01397
+2026-03-19 16:11:18,676 - gloss: city, video: 10898.
+2026-03-19 16:11:18,676 - Requesting https://www.signingsavvy.com/signs/mp4/6/6001.mp4
+2026-03-19 16:11:19,554 - Unsuccessful downloading - video 10896
+2026-03-19 16:11:19,575 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6001.mp4
+2026-03-19 16:11:19,576 - Requesting http://www.signingsavvy.com/signs/mp4/6/6001.mp4
+2026-03-19 16:11:21,083 - Unsuccessful downloading - video 10898
+2026-03-19 16:11:21,083 - gloss: city, video: 65362.
+2026-03-19 16:11:21,083 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-551.mp4
+2026-03-19 16:11:21,557 - Finish downloading youtube video url https://www.youtube.com/watch?v=R6T2OTSZNck
+2026-03-19 16:11:21,653 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-551.mp4
+2026-03-19 16:11:21,653 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-551.mp4
+2026-03-19 16:11:22,752 - gloss: city, video: 65363.
+2026-03-19 16:11:22,753 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-689.mp4
+2026-03-19 16:11:23,285 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-689.mp4
+2026-03-19 16:11:23,286 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-689.mp4
+2026-03-19 16:11:23,289 - Finish downloading youtube video url https://www.youtube.com/watch?v=y3aZGBOFqtU
+2026-03-19 16:11:24,443 - gloss: city, video: 10892.
+2026-03-19 16:11:24,445 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/city.mov
+2026-03-19 16:11:25,863 - HTTPS failed, retrying with HTTP: https://youtu.be/DV17xsFO5Jg
+2026-03-19 16:11:26,170 - gloss: city, video: 10903.
+2026-03-19 16:11:26,170 - Requesting http://www.aslpro.com/main/c/city.swf
+2026-03-19 16:11:26,941 - Unsuccessful downloading - youtube video url https://youtu.be/DV17xsFO5Jg
+2026-03-19 16:11:26,941 - ERROR: [youtube] DV17xsFO5Jg: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:11:28,132 - gloss: city, video: 10904.
+2026-03-19 16:11:28,133 - Requesting http://www.aslsearch.com/signs/videos/city.mp4
+2026-03-19 16:11:28,692 - Finish downloading youtube video url https://www.youtube.com/watch?v=e7Tz3OSQBQQ
+2026-03-19 16:11:29,059 - Finish downloading youtube video url https://www.youtube.com/watch?v=Y8QX1lAPwOs
+2026-03-19 16:11:29,974 - gloss: city, video: 10893.
+2026-03-19 16:11:29,980 - Requesting https://media.spreadthesign.com/video/mp4/13/399304.mp4
+2026-03-19 16:11:30,389 - gloss: city, video: 10894.
+2026-03-19 16:11:30,389 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Community%2C%20City-ullwVrgZsPE.mp4
+2026-03-19 16:11:33,683 - gloss: room, video: 48509.
+2026-03-19 16:11:33,683 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/room.mp4
+2026-03-19 16:11:36,924 - Finish downloading youtube video url https://www.youtube.com/watch?v=Qc7Dc_qF5NI
+2026-03-19 16:11:36,959 - gloss: room, video: 48510.
+2026-03-19 16:11:36,959 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Room%2C%20Box-md_GwEQC3G8.mp4
+2026-03-19 16:11:37,971 - gloss: room, video: 48511.
+2026-03-19 16:11:37,971 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Room-c_wEkcZ2eqU.mp4
+2026-03-19 16:11:40,552 - gloss: room, video: 48512.
+2026-03-19 16:11:40,552 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20room-eFVfYZffYLo.mp4
+2026-03-19 16:11:41,616 - gloss: room, video: 48513.
+2026-03-19 16:11:41,617 - Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Room%202.mp4
+2026-03-19 16:11:43,333 - gloss: room, video: 48514.
+2026-03-19 16:11:43,334 - Requesting https://media.asldeafined.com/vocabulary/1468761369.8817.mp4
+2026-03-19 16:11:44,869 - gloss: room, video: 48515.
+2026-03-19 16:11:44,870 - Requesting https://www.handspeak.com/word/r/room.mp4
+2026-03-19 16:11:45,148 - gloss: room, video: 48516.
+2026-03-19 16:11:45,149 - Requesting https://www.signingsavvy.com/signs/mp4/9/9515.mp4
+2026-03-19 16:11:45,601 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/r/room.mp4
+2026-03-19 16:11:45,601 - Requesting http://www.handspeak.com/word/r/room.mp4
+2026-03-19 16:11:45,974 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/9/9515.mp4
+2026-03-19 16:11:45,974 - Requesting http://www.signingsavvy.com/signs/mp4/9/9515.mp4
+2026-03-19 16:11:46,936 - Unsuccessful downloading - video 48515
+2026-03-19 16:11:46,937 - gloss: room, video: 66415.
+2026-03-19 16:11:46,937 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-242.mp4
+2026-03-19 16:11:47,517 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-242.mp4
+2026-03-19 16:11:47,518 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-242.mp4
+2026-03-19 16:11:47,649 - Unsuccessful downloading - video 48516
+2026-03-19 16:11:47,649 - gloss: room, video: 66416.
+2026-03-19 16:11:47,650 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-984.mp4
+2026-03-19 16:11:48,181 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-984.mp4
+2026-03-19 16:11:48,181 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-984.mp4
+2026-03-19 16:11:50,212 - gloss: room, video: 48517.
+2026-03-19 16:11:50,212 - Requesting https://www.signingsavvy.com/signs/mp4/9/9516.mp4
+2026-03-19 16:11:50,822 - HTTPS failed, retrying with HTTP: https://youtu.be/hdDYNPC93DM
+2026-03-19 16:11:51,033 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/9/9516.mp4
+2026-03-19 16:11:51,033 - Requesting http://www.signingsavvy.com/signs/mp4/9/9516.mp4
+2026-03-19 16:11:51,584 - Unsuccessful downloading - youtube video url https://youtu.be/hdDYNPC93DM
+2026-03-19 16:11:51,584 - ERROR: [youtube] hdDYNPC93DM: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:11:52,500 - Unsuccessful downloading - video 48517
+2026-03-19 16:11:53,607 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=R60q-PBwY58
+2026-03-19 16:11:54,270 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=R60q-PBwY58
+2026-03-19 16:11:54,270 - ERROR: [youtube] R60q-PBwY58: Video unavailable
+
+2026-03-19 16:11:55,437 - gloss: room, video: 48520.
+2026-03-19 16:11:55,437 - Requesting http://www.aslpro.com/main/r/room.swf
+2026-03-19 16:11:55,531 - Finish downloading youtube video url https://www.youtube.com/watch?v=ByET2PW3OrQ
+2026-03-19 16:11:56,752 - gloss: room, video: 48521.
+2026-03-19 16:11:56,752 - Requesting http://www.aslsearch.com/signs/videos/box.mp4
+2026-03-19 16:12:17,666 - Unsuccessful downloading - video 49606
+2026-03-19 16:12:24,080 - Finish downloading youtube video url https://www.youtube.com/watch?v=pDqITge_TGs
+2026-03-19 16:12:25,398 - gloss: bathroom, video: 05299.
+2026-03-19 16:12:25,398 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bathroom-u7XrB6j-o3E.mp4
+2026-03-19 16:12:28,013 - gloss: bathroom, video: 05300.
+2026-03-19 16:12:28,013 - Requesting https://media.asldeafined.com/vocabulary/1466649768.1620.mp4
+2026-03-19 16:12:29,413 - gloss: bathroom, video: 05301.
+2026-03-19 16:12:29,413 - Requesting https://www.handspeak.com/word/b/bathroom2.mp4
+2026-03-19 16:12:30,143 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/bathroom2.mp4
+2026-03-19 16:12:30,143 - Requesting http://www.handspeak.com/word/b/bathroom2.mp4
+2026-03-19 16:12:31,341 - Unsuccessful downloading - video 05301
+2026-03-19 16:12:31,341 - gloss: bathroom, video: 05302.
+2026-03-19 16:12:31,342 - Requesting https://www.handspeak.com/word/b/bathroom.mp4
+2026-03-19 16:12:32,078 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/bathroom.mp4
+2026-03-19 16:12:32,079 - Requesting http://www.handspeak.com/word/b/bathroom.mp4
+2026-03-19 16:12:33,278 - Unsuccessful downloading - video 05302
+2026-03-19 16:12:33,278 - gloss: bathroom, video: 05303.
+2026-03-19 16:12:33,278 - Requesting https://www.signingsavvy.com/signs/mp4/23/23911.mp4
+2026-03-19 16:12:34,150 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23911.mp4
+2026-03-19 16:12:34,151 - Requesting http://www.signingsavvy.com/signs/mp4/23/23911.mp4
+2026-03-19 16:12:34,965 - Unsuccessful downloading - video 01398
+2026-03-19 16:12:35,704 - Unsuccessful downloading - video 05303
+2026-03-19 16:12:38,765 - Finish downloading youtube video url https://www.youtube.com/watch?v=2xdhyJEgXdI
+2026-03-19 16:12:39,821 - Finish downloading youtube video url https://www.youtube.com/watch?v=GSRwDBAFh70
+2026-03-19 16:12:39,949 - gloss: bathroom, video: 65148.
+2026-03-19 16:12:39,949 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATHROOM-32.mp4
+2026-03-19 16:12:40,457 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATHROOM-32.mp4
+2026-03-19 16:12:40,457 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATHROOM-32.mp4
+2026-03-19 16:12:41,170 - Unsuccessful downloading - video 10903
+2026-03-19 16:12:42,994 - gloss: bathroom, video: 05308.
+2026-03-19 16:12:42,994 - Requesting http://www.aslpro.com/main/b/bathroom_portable.swf
+2026-03-19 16:12:44,725 - Finish downloading youtube video url https://www.youtube.com/watch?v=tk5XZhfgfcc
+2026-03-19 16:12:44,758 - HTTPS failed, retrying with HTTP: https://youtu.be/cI3AyC9DfWQ
+2026-03-19 16:12:45,926 - gloss: bathroom, video: 05309.
+2026-03-19 16:12:45,926 - Requesting http://www.aslpro.com/main/b/bathroom.swf
+2026-03-19 16:12:46,276 - Unsuccessful downloading - youtube video url https://youtu.be/cI3AyC9DfWQ
+2026-03-19 16:12:46,276 - ERROR: [youtube] cI3AyC9DfWQ: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:12:47,332 - gloss: bathroom, video: 05310.
+2026-03-19 16:12:47,334 - Requesting http://www.aslsearch.com/signs/videos/bathroom.mp4
+2026-03-19 16:13:10,440 - Unsuccessful downloading - video 48520
+2026-03-19 16:13:10,440 - gloss: bathroom, video: 05297.
+2026-03-19 16:13:10,440 - Requesting https://media.spreadthesign.com/video/mp4/13/92604.mp4
+2026-03-19 16:13:12,542 - gloss: bathroom, video: 05298.
+2026-03-19 16:13:12,542 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bathroom.mp4
+2026-03-19 16:13:15,487 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:13:18,936 - Finish downloading youtube video url https://www.youtube.com/watch?v=cdK1IiBMu_M
+2026-03-19 16:13:20,053 - YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+2026-03-19 16:13:25,357 - Finish downloading youtube video url https://www.youtube.com/watch?v=dVU0UNF7DEw
+2026-03-19 16:13:28,601 - Finish downloading youtube video url https://www.youtube.com/watch?v=NK9T1HlF3H4
+2026-03-19 16:13:29,658 - YouTube videos https://www.youtube.com/watch?v=NK9T1HlF3H4 already exists.
+2026-03-19 16:13:29,659 - gloss: college, video: 11717.
+2026-03-19 16:13:29,659 - Requesting http://www.aslpro.com/main/c/college.swf
+2026-03-19 16:13:57,999 - Unsuccessful downloading - video 05308
+2026-03-19 16:13:57,999 - gloss: college, video: 65379.
+2026-03-19 16:13:57,999 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4
+2026-03-19 16:13:58,133 - Unsuccessful downloading - video 10904
+2026-03-19 16:13:58,134 - gloss: college, video: 11708.
+2026-03-19 16:13:58,134 - Requesting https://media.spreadthesign.com/video/mp4/13/58486.mp4
+2026-03-19 16:13:59,639 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4
+2026-03-19 16:13:59,640 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4
+2026-03-19 16:14:00,931 - Unsuccessful downloading - video 05309
+2026-03-19 16:14:00,931 - gloss: college, video: 11718.
+2026-03-19 16:14:00,931 - Requesting http://www.aslsearch.com/signs/videos/college.mp4
+2026-03-19 16:14:02,630 - gloss: college, video: 11709.
+2026-03-19 16:14:02,630 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/college.mp4
+2026-03-19 16:14:02,682 - HTTPS failed, retrying with HTTP: https://youtu.be/H1Axlp1fLIU
+2026-03-19 16:14:03,426 - Unsuccessful downloading - youtube video url https://youtu.be/H1Axlp1fLIU
+2026-03-19 16:14:03,426 - ERROR: [youtube] H1Axlp1fLIU: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:14:04,689 - gloss: college, video: 11710.
+2026-03-19 16:14:04,689 - Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20College.mp4
+2026-03-19 16:14:05,967 - gloss: college, video: 11711.
+2026-03-19 16:14:05,968 - Requesting https://media.asldeafined.com/vocabulary/1466899881.4501.mp4
+2026-03-19 16:14:07,911 - gloss: college, video: 11712.
+2026-03-19 16:14:07,912 - Requesting https://www.handspeak.com/word/c/college.mp4
+2026-03-19 16:14:08,482 - gloss: college, video: 11713.
+2026-03-19 16:14:08,482 - Requesting https://www.signingsavvy.com/signs/mp4/5/5794.mp4
+2026-03-19 16:14:08,729 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/college.mp4
+2026-03-19 16:14:08,729 - Requesting http://www.handspeak.com/word/c/college.mp4
+2026-03-19 16:14:09,527 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5794.mp4
+2026-03-19 16:14:09,527 - Requesting http://www.signingsavvy.com/signs/mp4/5/5794.mp4
+2026-03-19 16:14:10,056 - Unsuccessful downloading - video 11712
+2026-03-19 16:14:11,018 - Unsuccessful downloading - video 11713
+2026-03-19 16:14:11,020 - gloss: home, video: 69366.
+2026-03-19 16:14:11,021 - Requesting http://aslbricks.org/New/ASL-Videos/home.mp4
+2026-03-19 16:14:14,437 - Finish downloading youtube video url https://www.youtube.com/watch?v=SiBub8VD5wo
+2026-03-19 16:14:16,607 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=h5auyidvtSc
+2026-03-19 16:14:20,061 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=h5auyidvtSc
+2026-03-19 16:14:20,061 - ERROR: [youtube] h5auyidvtSc: Video unavailable
+
+2026-03-19 16:14:25,465 - Finish downloading youtube video url https://www.youtube.com/watch?v=n0Xb58PVX_A
+2026-03-19 16:14:26,760 - Unsuccessful downloading - video 48521
+2026-03-19 16:14:26,761 - gloss: home, video: 27774.
+2026-03-19 16:14:26,761 - Requesting http://www.aslpro.com/main/h/home.swf
+2026-03-19 16:14:29,653 - Finish downloading youtube video url https://www.youtube.com/watch?v=WSHD1XX7kWk
+2026-03-19 16:14:31,154 - gloss: home, video: 27765.
+2026-03-19 16:14:31,154 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/home.mov
+2026-03-19 16:14:36,574 - Finish downloading youtube video url https://www.youtube.com/watch?v=jDCw7stJaM4
+2026-03-19 16:14:36,988 - HTTPS failed, retrying with HTTP: https://youtu.be/kI8My8vQVXM
+2026-03-19 16:14:37,777 - gloss: home, video: 27775.
+2026-03-19 16:14:37,777 - Requesting http://www.aslsearch.com/signs/videos/residence.mp4
+2026-03-19 16:14:37,848 - Unsuccessful downloading - youtube video url https://youtu.be/kI8My8vQVXM
+2026-03-19 16:14:37,848 - ERROR: [youtube] kI8My8vQVXM: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:14:39,284 - gloss: home, video: 27766.
+2026-03-19 16:14:39,285 - Requesting https://media.spreadthesign.com/video/mp4/13/58526.mp4
+2026-03-19 16:14:41,515 - gloss: home, video: 27767.
+2026-03-19 16:14:41,518 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/home.mp4
+2026-03-19 16:14:44,221 - gloss: home, video: 27768.
+2026-03-19 16:14:44,221 - Requesting https://media.asldeafined.com/vocabulary/1468581607.3342.mp4
+2026-03-19 16:14:44,676 - Unsuccessful downloading - video 11717
+2026-03-19 16:14:44,677 - gloss: home, video: 27769.
+2026-03-19 16:14:44,677 - Requesting https://www.handspeak.com/word/h/home.mp4
+2026-03-19 16:14:45,490 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/h/home.mp4
+2026-03-19 16:14:45,490 - Requesting http://www.handspeak.com/word/h/home.mp4
+2026-03-19 16:14:46,839 - Unsuccessful downloading - video 27769
+2026-03-19 16:14:46,840 - gloss: home, video: 27770.
+2026-03-19 16:14:46,840 - Requesting https://www.signingsavvy.com/signs/mp4/7/7180.mp4
+2026-03-19 16:14:47,645 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7180.mp4
+2026-03-19 16:14:47,646 - Requesting http://www.signingsavvy.com/signs/mp4/7/7180.mp4
+2026-03-19 16:14:47,887 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=mq0ygGcmFKY
+2026-03-19 16:14:49,165 - Unsuccessful downloading - video 27770
+2026-03-19 16:14:49,165 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:14:49,165 - gloss: country, video: 13546.
+2026-03-19 16:14:49,165 - Requesting https://media.asldeafined.com/vocabulary/1466904058.6403.mp4
+2026-03-19 16:14:52,555 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=mq0ygGcmFKY
+2026-03-19 16:14:52,555 - ERROR: [youtube] mq0ygGcmFKY: Video unavailable
+
+2026-03-19 16:14:52,708 - gloss: country, video: 13547.
+2026-03-19 16:14:52,708 - Requesting https://www.handspeak.com/word/c/country2.mp4
+2026-03-19 16:14:53,472 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/country2.mp4
+2026-03-19 16:14:53,473 - Requesting http://www.handspeak.com/word/c/country2.mp4
+2026-03-19 16:14:53,650 - gloss: country, video: 13548.
+2026-03-19 16:14:53,650 - Requesting https://www.handspeak.com/word/c/country.mp4
+2026-03-19 16:14:54,380 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/country.mp4
+2026-03-19 16:14:54,380 - Requesting http://www.handspeak.com/word/c/country.mp4
+2026-03-19 16:14:54,671 - Unsuccessful downloading - video 13547
+2026-03-19 16:14:54,672 - gloss: country, video: 13549.
+2026-03-19 16:14:54,672 - Requesting https://www.signingsavvy.com/signs/mp4/23/23151.mp4
+2026-03-19 16:14:55,552 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23151.mp4
+2026-03-19 16:14:55,552 - Requesting http://www.signingsavvy.com/signs/mp4/23/23151.mp4
+2026-03-19 16:14:55,617 - Unsuccessful downloading - video 13548
+2026-03-19 16:14:55,618 - gloss: country, video: 13550.
+2026-03-19 16:14:55,618 - Requesting https://www.signingsavvy.com/signs/mp4/23/23277.mp4
+2026-03-19 16:14:56,411 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23277.mp4
+2026-03-19 16:14:56,412 - Requesting http://www.signingsavvy.com/signs/mp4/23/23277.mp4
+2026-03-19 16:14:57,098 - Unsuccessful downloading - video 13549
+2026-03-19 16:14:57,099 - gloss: country, video: 65414.
+2026-03-19 16:14:57,099 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNTRY-2558.mp4
+2026-03-19 16:14:57,610 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNTRY-2558.mp4
+2026-03-19 16:14:57,610 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNTRY-2558.mp4
+2026-03-19 16:14:57,916 - Unsuccessful downloading - video 13550
+2026-03-19 16:14:59,409 - HTTPS failed, retrying with HTTP: https://youtu.be/LDho1My2rLE
+2026-03-19 16:15:01,366 - Unsuccessful downloading - youtube video url https://youtu.be/LDho1My2rLE
+2026-03-19 16:15:01,366 - ERROR: [youtube] LDho1My2rLE: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:15:02,635 - gloss: country, video: 13553.
+2026-03-19 16:15:02,635 - Requesting http://www.aslpro.com/main/c/country.swf
+2026-03-19 16:15:03,553 - Finish downloading youtube video url https://www.youtube.com/watch?v=YgCmE5kljQw
+2026-03-19 16:15:04,793 - gloss: country, video: 13554.
+2026-03-19 16:15:04,793 - Requesting http://www.aslsearch.com/signs/videos/country2.mp4
+2026-03-19 16:15:07,521 - Unsuccessful downloading - video 13553
+2026-03-19 16:15:07,521 - gloss: country, video: 13555.
+2026-03-19 16:15:07,521 - Requesting http://www.aslsearch.com/signs/videos/country.mp4
+2026-03-19 16:15:17,341 - Unsuccessful downloading - video 05310
+2026-03-19 16:15:17,342 - gloss: country, video: 13543.
+2026-03-19 16:15:17,342 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/country.mov
+2026-03-19 16:15:19,041 - gloss: country, video: 13544.
+2026-03-19 16:15:19,041 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/country.mp4
+2026-03-19 16:15:21,732 - gloss: country, video: 13545.
+2026-03-19 16:15:21,732 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Country-Htom5pC0IUU.mp4
+2026-03-19 16:15:26,256 - YouTube videos https://www.youtube.com/watch?v=SiBub8VD5wo already exists.
+2026-03-19 16:15:26,256 - gloss: here, video: 69365.
+2026-03-19 16:15:26,256 - Requesting http://aslbricks.org/New/ASL-Videos/here.mp4
+2026-03-19 16:15:41,766 - Unsuccessful downloading - video 27774
+2026-03-19 16:15:42,199 - Finish downloading youtube video url https://www.youtube.com/watch?v=JBIstMmmHxI
+2026-03-19 16:15:42,836 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=jx9_Ip1EXhA
+2026-03-19 16:15:43,490 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=jx9_Ip1EXhA
+2026-03-19 16:15:43,490 - ERROR: [youtube] jx9_Ip1EXhA: Video unavailable
+
+2026-03-19 16:15:43,584 - gloss: here, video: 27268.
+2026-03-19 16:15:43,585 - Requesting https://www.signingsavvy.com/signs/mp4/5/5873.mp4
+2026-03-19 16:15:44,525 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5873.mp4
+2026-03-19 16:15:44,525 - Requesting http://www.signingsavvy.com/signs/mp4/5/5873.mp4
+2026-03-19 16:15:46,202 - Unsuccessful downloading - video 27268
+2026-03-19 16:15:48,166 - Finish downloading youtube video url https://www.youtube.com/watch?v=2dALbgMQWmk
+2026-03-19 16:15:49,259 - gloss: here, video: 27272.
+2026-03-19 16:15:49,260 - Requesting http://www.aslpro.com/main/h/here.swf
+2026-03-19 16:15:50,363 - Finish downloading youtube video url https://www.youtube.com/watch?v=qi1tgV5Fy5c
+2026-03-19 16:15:51,660 - gloss: here, video: 65892.
+2026-03-19 16:15:51,660 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HERE-484.mp4
+2026-03-19 16:15:52,199 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HERE-484.mp4
+2026-03-19 16:15:52,199 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HERE-484.mp4
+2026-03-19 16:15:55,358 - gloss: here, video: 27263.
+2026-03-19 16:15:55,358 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/here.mp4
+2026-03-19 16:15:59,856 - HTTPS failed, retrying with HTTP: https://youtu.be/e7ckmRr2la0
+2026-03-19 16:16:00,697 - Unsuccessful downloading - youtube video url https://youtu.be/e7ckmRr2la0
+2026-03-19 16:16:00,697 - ERROR: [youtube] e7ckmRr2la0: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:16:01,886 - gloss: here, video: 27273.
+2026-03-19 16:16:01,887 - Requesting http://www.aslsearch.com/signs/videos/here.mp4
+2026-03-19 16:16:30,939 - Unsuccessful downloading - video 11718
+2026-03-19 16:16:30,939 - gloss: here, video: 27264.
+2026-03-19 16:16:30,939 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Here-IxKduR6Lv4M.mp4
+2026-03-19 16:16:39,717 - gloss: here, video: 27265.
+2026-03-19 16:16:39,718 - Requesting https://media.asldeafined.com/vocabulary/1468580742.7710.mp4
+2026-03-19 16:16:42,804 - gloss: here, video: 27267.
+2026-03-19 16:16:42,804 - Requesting https://www.handspeak.com/word/h/here.mp4
+2026-03-19 16:16:43,567 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/h/here.mp4
+2026-03-19 16:16:43,567 - Requesting http://www.handspeak.com/word/h/here.mp4
+2026-03-19 16:16:44,773 - Unsuccessful downloading - video 27267
+2026-03-19 16:16:48,838 - Finish downloading youtube video url https://www.youtube.com/watch?v=K1VPkuTMpP0
+2026-03-19 16:16:50,906 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=QaDFIVUzgHA
+2026-03-19 16:16:51,653 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QaDFIVUzgHA
+2026-03-19 16:16:51,653 - ERROR: [youtube] QaDFIVUzgHA: Video unavailable
+
+2026-03-19 16:16:53,042 - gloss: office, video: 39460.
+2026-03-19 16:16:53,043 - Requesting https://media.asldeafined.com/vocabulary/1468721107.3632.mp4
+2026-03-19 16:16:55,890 - gloss: office, video: 39461.
+2026-03-19 16:16:55,891 - Requesting https://www.handspeak.com/word/o/office.mp4
+2026-03-19 16:16:56,633 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/o/office.mp4
+2026-03-19 16:16:56,633 - Requesting http://www.handspeak.com/word/o/office.mp4
+2026-03-19 16:16:57,893 - Unsuccessful downloading - video 39461
+2026-03-19 16:16:57,893 - gloss: office, video: 39462.
+2026-03-19 16:16:57,894 - Requesting https://www.signingsavvy.com/signs/mp4/24/24017.mp4
+2026-03-19 16:16:58,808 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/24/24017.mp4
+2026-03-19 16:16:58,809 - Requesting http://www.signingsavvy.com/signs/mp4/24/24017.mp4
+2026-03-19 16:17:00,525 - Unsuccessful downloading - video 39462
+2026-03-19 16:17:00,525 - gloss: office, video: 39463.
+2026-03-19 16:17:00,525 - Requesting https://www.signingsavvy.com/signs/mp4/24/24018.mp4
+2026-03-19 16:17:01,535 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/24/24018.mp4
+2026-03-19 16:17:01,535 - Requesting http://www.signingsavvy.com/signs/mp4/24/24018.mp4
+2026-03-19 16:17:03,092 - Unsuccessful downloading - video 39463
+2026-03-19 16:17:04,271 - Unsuccessful downloading - video 27272
+2026-03-19 16:17:04,272 - gloss: office, video: 66224.
+2026-03-19 16:17:04,272 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OF/OFFICE-1549.mp4
+2026-03-19 16:17:04,814 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OF/OFFICE-1549.mp4
+2026-03-19 16:17:04,815 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OF/OFFICE-1549.mp4
+2026-03-19 16:17:06,818 - Finish downloading youtube video url https://www.youtube.com/watch?v=U9VrfCdyVGw
+2026-03-19 16:17:07,479 - gloss: office, video: 39456.
+2026-03-19 16:17:07,480 - Requesting https://media.spreadthesign.com/video/mp4/13/63553.mp4
+2026-03-19 16:17:07,782 - Unsuccessful downloading - video 27775
+2026-03-19 16:17:08,192 - gloss: office, video: 39467.
+2026-03-19 16:17:08,193 - Requesting http://www.aslpro.com/main/o/office.swf
+2026-03-19 16:17:09,693 - gloss: office, video: 39468.
+2026-03-19 16:17:09,693 - Requesting http://www.aslsearch.com/signs/videos/office.mp4
+2026-03-19 16:17:11,966 - HTTPS failed, retrying with HTTP: https://youtu.be/MbOXIeK-SPo
+2026-03-19 16:17:12,722 - Unsuccessful downloading - youtube video url https://youtu.be/MbOXIeK-SPo
+2026-03-19 16:17:12,722 - ERROR: [youtube] MbOXIeK-SPo: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:17:14,144 - gloss: office, video: 39457.
+2026-03-19 16:17:14,144 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/office.mp4
+2026-03-19 16:17:17,097 - gloss: office, video: 39458.
+2026-03-19 16:17:17,097 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Office%20opposite-mKds_4EoIUI.mp4
+2026-03-19 16:17:19,847 - gloss: office, video: 39459.
+2026-03-19 16:17:19,848 - Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Office.mp4
+2026-03-19 16:17:30,483 - Finish downloading youtube video url https://www.youtube.com/watch?v=zHd4YEFzpwE
+2026-03-19 16:17:31,798 - gloss: party, video: 41315.
+2026-03-19 16:17:31,799 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Party-OZ1Ap6C6tVk.mp4
+2026-03-19 16:17:34,799 - Unsuccessful downloading - video 13554
+2026-03-19 16:17:34,800 - gloss: party, video: 41316.
+2026-03-19 16:17:34,800 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Play-TvZ8pfNOX2U.mp4
+2026-03-19 16:17:35,566 - gloss: party, video: 41317.
+2026-03-19 16:17:35,566 - Requesting https://media.asldeafined.com/vocabulary/1468724131.6734.mp4
+2026-03-19 16:17:37,526 - Unsuccessful downloading - video 13555
+2026-03-19 16:17:37,526 - gloss: party, video: 41318.
+2026-03-19 16:17:37,527 - Requesting https://www.handspeak.com/word/p/party2.mp4
+2026-03-19 16:17:37,599 - gloss: party, video: 41320.
+2026-03-19 16:17:37,600 - Requesting https://www.handspeak.com/word/p/party.mp4
+2026-03-19 16:17:37,712 - gloss: party, video: 66265.
+2026-03-19 16:17:37,712 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-874.mp4
+2026-03-19 16:17:38,225 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-874.mp4
+2026-03-19 16:17:38,225 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-874.mp4
+2026-03-19 16:17:38,252 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/p/party2.mp4
+2026-03-19 16:17:38,252 - Requesting http://www.handspeak.com/word/p/party2.mp4
+2026-03-19 16:17:38,324 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/p/party.mp4
+2026-03-19 16:17:38,324 - Requesting http://www.handspeak.com/word/p/party.mp4
+2026-03-19 16:17:39,458 - Unsuccessful downloading - video 41318
+2026-03-19 16:17:39,459 - gloss: party, video: 66266.
+2026-03-19 16:17:39,459 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-875.mp4
+2026-03-19 16:17:39,523 - Unsuccessful downloading - video 41320
+2026-03-19 16:17:39,524 - gloss: party, video: 41311.
+2026-03-19 16:17:39,524 - Requesting https://media.spreadthesign.com/video/mp4/13/457609.mp4
+2026-03-19 16:17:40,000 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-875.mp4
+2026-03-19 16:17:40,000 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-875.mp4
+2026-03-19 16:17:40,704 - gloss: party, video: 41321.
+2026-03-19 16:17:40,704 - Requesting https://www.signingsavvy.com/signs/mp4/6/6693.mp4
+2026-03-19 16:17:41,560 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6693.mp4
+2026-03-19 16:17:41,560 - Requesting http://www.signingsavvy.com/signs/mp4/6/6693.mp4
+2026-03-19 16:17:41,807 - gloss: party, video: 41322.
+2026-03-19 16:17:41,807 - Requesting https://www.signingsavvy.com/signs/mp4/6/6694.mp4
+2026-03-19 16:17:42,633 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6694.mp4
+2026-03-19 16:17:42,633 - Requesting http://www.signingsavvy.com/signs/mp4/6/6694.mp4
+2026-03-19 16:17:43,018 - Unsuccessful downloading - video 41321
+2026-03-19 16:17:43,188 - gloss: party, video: 41324.
+2026-03-19 16:17:43,189 - Requesting http://www.aslpro.com/main/p/party.swf
+2026-03-19 16:17:44,144 - Unsuccessful downloading - video 41322
+2026-03-19 16:17:44,145 - gloss: party, video: 41325.
+2026-03-19 16:17:44,145 - Requesting http://www.aslsearch.com/signs/videos/party.mp4
+2026-03-19 16:17:46,751 - Finish downloading youtube video url https://www.youtube.com/watch?v=FGiQuEgK2s0
+2026-03-19 16:17:48,106 - gloss: party, video: 41312.
+2026-03-19 16:17:48,106 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/party.mp4
+2026-03-19 16:17:50,783 - YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+2026-03-19 16:17:57,457 - Finish downloading youtube video url https://www.youtube.com/watch?v=F5Wef1_PtLk
+2026-03-19 16:18:00,040 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=WjAntLANPAE
+2026-03-19 16:18:01,020 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=WjAntLANPAE
+2026-03-19 16:18:01,020 - ERROR: [youtube] WjAntLANPAE: Video unavailable
+
+2026-03-19 16:18:02,159 - gloss: restaurant, video: 47661.
+2026-03-19 16:18:02,160 - Requesting https://www.signingsavvy.com/signs/mp4/22/22673.mp4
+2026-03-19 16:18:03,037 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/22/22673.mp4
+2026-03-19 16:18:03,037 - Requesting http://www.signingsavvy.com/signs/mp4/22/22673.mp4
+2026-03-19 16:18:04,557 - Unsuccessful downloading - video 47661
+2026-03-19 16:18:09,098 - Finish downloading youtube video url https://www.youtube.com/watch?v=4Mr8Op72wR4
+2026-03-19 16:18:12,983 - Finish downloading youtube video url https://www.youtube.com/watch?v=oH72yDS3Lok
+2026-03-19 16:18:14,070 - gloss: restaurant, video: 66398.
+2026-03-19 16:18:14,070 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESTAURANT-969.mp4
+2026-03-19 16:18:14,601 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESTAURANT-969.mp4
+2026-03-19 16:18:14,601 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESTAURANT-969.mp4
+2026-03-19 16:18:18,016 - HTTPS failed, retrying with HTTP: https://youtu.be/ga1SpOcX4_4
+2026-03-19 16:18:22,392 - Unsuccessful downloading - youtube video url https://youtu.be/ga1SpOcX4_4
+2026-03-19 16:18:22,393 - ERROR: [youtube] ga1SpOcX4_4: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:18:23,201 - Unsuccessful downloading - video 39467
+2026-03-19 16:18:23,201 - gloss: restaurant, video: 47665.
+2026-03-19 16:18:23,201 - Requesting http://www.aslpro.com/main/r/restaurant.swf
+2026-03-19 16:18:23,699 - gloss: restaurant, video: 47666.
+2026-03-19 16:18:23,699 - Requesting http://www.aslsearch.com/signs/videos/restaurant.mp4
+2026-03-19 16:18:31,891 - Unsuccessful downloading - video 27273
+2026-03-19 16:18:31,892 - gloss: restaurant, video: 47656.
+2026-03-19 16:18:31,892 - Requesting https://media.spreadthesign.com/video/mp4/13/50756.mp4
+2026-03-19 16:18:34,346 - gloss: restaurant, video: 47657.
+2026-03-19 16:18:34,346 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/restaurant.mp4
+2026-03-19 16:18:36,425 - gloss: restaurant, video: 47658.
+2026-03-19 16:18:36,426 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Restaurant%202-uv8d_492XI0.mp4
+2026-03-19 16:18:39,665 - gloss: restaurant, video: 47659.
+2026-03-19 16:18:39,665 - Requesting https://media.asldeafined.com/vocabulary/1468760497.4726.mp4
+2026-03-19 16:18:42,896 - gloss: restaurant, video: 47660.
+2026-03-19 16:18:42,896 - Requesting https://www.handspeak.com/word/r/restaurant.mp4
+2026-03-19 16:18:43,640 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/r/restaurant.mp4
+2026-03-19 16:18:43,640 - Requesting http://www.handspeak.com/word/r/restaurant.mp4
+2026-03-19 16:18:44,855 - Unsuccessful downloading - video 47660
+2026-03-19 16:18:44,856 - YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+2026-03-19 16:18:44,856 - gloss: russia, video: 48901.
+2026-03-19 16:18:44,856 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%202-74OAafnvKs0.mp4
+2026-03-19 16:18:47,097 - Unsuccessful downloading - video 47665
+2026-03-19 16:18:47,097 - gloss: russia, video: 48902.
+2026-03-19 16:18:47,097 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%203-6S4H3Nl14Dw.mp4
+2026-03-19 16:18:48,125 - gloss: russia, video: 48903.
+2026-03-19 16:18:48,125 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia-xJKc-LqcgFA.mp4
+2026-03-19 16:18:49,999 - gloss: russia, video: 48904.
+2026-03-19 16:18:50,000 - Requesting https://media.asldeafined.com/vocabulary/1512918340.9089.mp4
+2026-03-19 16:18:52,397 - gloss: russia, video: 48905.
+2026-03-19 16:18:52,398 - Requesting https://www.handspeak.com/word/r/russia.mp4
+2026-03-19 16:18:53,144 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/r/russia.mp4
+2026-03-19 16:18:53,144 - Requesting http://www.handspeak.com/word/r/russia.mp4
+2026-03-19 16:18:54,501 - Unsuccessful downloading - video 48905
+2026-03-19 16:18:54,501 - gloss: russia, video: 48907.
+2026-03-19 16:18:54,501 - Requesting https://www.signingsavvy.com/signs/mp4/7/7790.mp4
+2026-03-19 16:18:55,309 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7790.mp4
+2026-03-19 16:18:55,310 - Requesting http://www.signingsavvy.com/signs/mp4/7/7790.mp4
+2026-03-19 16:18:56,901 - Unsuccessful downloading - video 48907
+2026-03-19 16:18:56,902 - gloss: russia, video: 48908.
+2026-03-19 16:18:56,902 - Requesting https://www.signingsavvy.com/signs/mp4/7/7791.mp4
+2026-03-19 16:18:57,987 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7791.mp4
+2026-03-19 16:18:57,987 - Requesting http://www.signingsavvy.com/signs/mp4/7/7791.mp4
+2026-03-19 16:18:58,193 - Unsuccessful downloading - video 41324
+2026-03-19 16:18:58,374 - HTTPS failed, retrying with HTTP: https://youtu.be/Qk47GZjGbZY
+2026-03-19 16:18:59,581 - Unsuccessful downloading - video 48908
+2026-03-19 16:19:01,010 - Finish downloading youtube video url https://www.youtube.com/watch?v=-4OKviVsO7s
+2026-03-19 16:19:03,438 - Unsuccessful downloading - youtube video url https://youtu.be/Qk47GZjGbZY
+2026-03-19 16:19:03,438 - ERROR: [youtube] Qk47GZjGbZY: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:19:04,534 - gloss: russia, video: 48912.
+2026-03-19 16:19:04,535 - Requesting http://www.aslpro.com/main/r/russia.swf
+2026-03-19 16:19:08,712 - Finish downloading youtube video url https://www.youtube.com/watch?v=YSAX7AP-JW4
+2026-03-19 16:19:09,782 - Finish downloading youtube video url https://www.youtube.com/watch?v=GCAlZ4gijEc
+2026-03-19 16:19:09,828 - gloss: russia, video: 48913.
+2026-03-19 16:19:09,828 - Requesting http://www.aslsearch.com/signs/videos/russia.mp4
+2026-03-19 16:19:11,237 - gloss: russia, video: 48899.
+2026-03-19 16:19:11,238 - Requesting https://media.spreadthesign.com/video/mp4/13/455370.mp4
+2026-03-19 16:19:12,930 - YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+2026-03-19 16:19:19,608 - Finish downloading youtube video url https://www.youtube.com/watch?v=2DblIQ5n6xk
+2026-03-19 16:19:20,937 - gloss: south, video: 53488.
+2026-03-19 16:19:20,938 - Requesting https://www.signingsavvy.com/signs/mp4/6/6861.mp4
+2026-03-19 16:19:21,789 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6861.mp4
+2026-03-19 16:19:21,789 - Requesting http://www.signingsavvy.com/signs/mp4/6/6861.mp4
+2026-03-19 16:19:23,261 - Unsuccessful downloading - video 53488
+2026-03-19 16:19:27,516 - Finish downloading youtube video url https://www.youtube.com/watch?v=Of670lCy0dI
+2026-03-19 16:19:31,393 - Finish downloading youtube video url https://www.youtube.com/watch?v=SaBd7wv9_0k
+2026-03-19 16:19:36,150 - Finish downloading youtube video url https://www.youtube.com/watch?v=Y9sgSdYk--A
+2026-03-19 16:19:37,300 - gloss: south, video: 53482.
+2026-03-19 16:19:37,301 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/south.mov
+2026-03-19 16:19:39,700 - Unsuccessful downloading - video 39468
+2026-03-19 16:19:39,701 - gloss: south, video: 53492.
+2026-03-19 16:19:39,701 - Requesting http://www.aslpro.com/main/s/south.swf
+2026-03-19 16:19:40,182 - HTTPS failed, retrying with HTTP: https://youtu.be/0Q2GygbNlro
+2026-03-19 16:19:41,105 - Unsuccessful downloading - youtube video url https://youtu.be/0Q2GygbNlro
+2026-03-19 16:19:41,105 - ERROR: [youtube] 0Q2GygbNlro: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:19:42,151 - gloss: south, video: 53493.
+2026-03-19 16:19:42,152 - Requesting http://www.aslsearch.com/signs/videos/south.mp4
+2026-03-19 16:20:14,151 - Unsuccessful downloading - video 41325
+2026-03-19 16:20:14,151 - gloss: south, video: 53483.
+2026-03-19 16:20:14,151 - Requesting https://media.spreadthesign.com/video/mp4/13/63581.mp4
+2026-03-19 16:20:16,686 - gloss: south, video: 53484.
+2026-03-19 16:20:16,686 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/south.mp4
+2026-03-19 16:20:19,539 - Unsuccessful downloading - video 48912
+2026-03-19 16:20:19,539 - gloss: south, video: 53485.
+2026-03-19 16:20:19,539 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20South-_HBJaYxZG2Q.mp4
+2026-03-19 16:20:21,625 - gloss: south, video: 53486.
+2026-03-19 16:20:21,625 - Requesting https://media.asldeafined.com/vocabulary/1468842043.2402.mp4
+2026-03-19 16:20:22,752 - gloss: south, video: 53487.
+2026-03-19 16:20:22,752 - Requesting https://www.handspeak.com/word/s/south.mp4
+2026-03-19 16:20:23,499 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/s/south.mp4
+2026-03-19 16:20:23,499 - Requesting http://www.handspeak.com/word/s/south.mp4
+2026-03-19 16:20:24,768 - Unsuccessful downloading - video 53487
+2026-03-19 16:20:27,642 - Finish downloading youtube video url https://www.youtube.com/watch?v=1IJ6oVm6x-w
+2026-03-19 16:20:30,647 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=WlHOl9zIUpE
+2026-03-19 16:20:30,985 - Finish downloading youtube video url https://www.youtube.com/watch?v=A5dihMAjeTE
+2026-03-19 16:20:31,659 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=WlHOl9zIUpE
+2026-03-19 16:20:31,659 - ERROR: [youtube] WlHOl9zIUpE: Video unavailable
+
+2026-03-19 16:20:32,273 - gloss: where, video: 63087.
+2026-03-19 16:20:32,273 - Requesting https://www.signingsavvy.com/signs/mp4/14/14587.mp4
+2026-03-19 16:20:33,377 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/14/14587.mp4
+2026-03-19 16:20:33,377 - Requesting http://www.signingsavvy.com/signs/mp4/14/14587.mp4
+2026-03-19 16:20:34,962 - Unsuccessful downloading - video 63087
+2026-03-19 16:20:35,718 - Finish downloading youtube video url https://www.youtube.com/watch?v=p476xgjJAZE
+2026-03-19 16:20:36,901 - gloss: where, video: 63090.
+2026-03-19 16:20:36,902 - Requesting http://www.aslpro.com/main/w/where.swf
+2026-03-19 16:20:37,903 - Finish downloading youtube video url https://www.youtube.com/watch?v=p476xgjJAZE
+2026-03-19 16:20:39,061 - gloss: where, video: 66774.
+2026-03-19 16:20:39,061 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHERE-1427.mp4
+2026-03-19 16:20:40,198 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHERE-1427.mp4
+2026-03-19 16:20:40,198 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHERE-1427.mp4
+2026-03-19 16:20:42,929 - gloss: where, video: 63081.
+2026-03-19 16:20:42,929 - Requesting https://media.spreadthesign.com/video/mp4/13/51067.mp4
+2026-03-19 16:20:45,570 - HTTPS failed, retrying with HTTP: https://youtu.be/Mrb2M9RV_KM
+2026-03-19 16:20:46,664 - Unsuccessful downloading - youtube video url https://youtu.be/Mrb2M9RV_KM
+2026-03-19 16:20:46,664 - ERROR: [youtube] Mrb2M9RV_KM: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:20:47,861 - gloss: where, video: 63091.
+2026-03-19 16:20:47,862 - Requesting http://www.aslsearch.com/signs/videos/where.mp4
+2026-03-19 16:20:52,559 - Unsuccessful downloading - video 63090
+2026-03-19 16:20:52,560 - gloss: where, video: 63082.
+2026-03-19 16:20:52,560 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/where.mp4
+2026-03-19 16:20:53,705 - Unsuccessful downloading - video 47666
+2026-03-19 16:20:53,706 - gloss: where, video: 63083.
+2026-03-19 16:20:53,706 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20where-LSM0sp4VCz4.mp4
+2026-03-19 16:20:54,707 - Unsuccessful downloading - video 53492
+2026-03-19 16:20:54,707 - gloss: where, video: 63084.
+2026-03-19 16:20:54,707 - Requesting https://media.asldeafined.com/vocabulary/1468928023.2600.mp4
+2026-03-19 16:20:55,494 - gloss: where, video: 63085.
+2026-03-19 16:20:55,495 - Requesting https://www.handspeak.com/word/w/where2.mp4
+2026-03-19 16:20:56,340 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/w/where2.mp4
+2026-03-19 16:20:56,340 - Requesting http://www.handspeak.com/word/w/where2.mp4
+2026-03-19 16:20:56,635 - YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+2026-03-19 16:20:56,635 - gloss: behind, video: 05805.
+2026-03-19 16:20:56,635 - Requesting https://www.handspeak.com/word/b/behind-delay.mp4
+2026-03-19 16:20:57,059 - gloss: behind, video: 05806.
+2026-03-19 16:20:57,059 - Requesting https://www.handspeak.com/word/b/behind.mp4
+2026-03-19 16:20:57,427 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/behind-delay.mp4
+2026-03-19 16:20:57,427 - Requesting http://www.handspeak.com/word/b/behind-delay.mp4
+2026-03-19 16:20:57,703 - Unsuccessful downloading - video 63085
+2026-03-19 16:20:57,703 - gloss: behind, video: 05808.
+2026-03-19 16:20:57,703 - Requesting https://www.signingsavvy.com/signs/mp4/8/8585.mp4
+2026-03-19 16:20:57,843 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/behind.mp4
+2026-03-19 16:20:57,843 - Requesting http://www.handspeak.com/word/b/behind.mp4
+2026-03-19 16:20:58,560 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/8/8585.mp4
+2026-03-19 16:20:58,560 - Requesting http://www.signingsavvy.com/signs/mp4/8/8585.mp4
+2026-03-19 16:20:58,752 - Unsuccessful downloading - video 05805
+2026-03-19 16:20:59,087 - Unsuccessful downloading - video 05806
+2026-03-19 16:21:00,058 - Unsuccessful downloading - video 05808
+2026-03-19 16:21:00,059 - gloss: behind, video: 65169.
+2026-03-19 16:21:00,059 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEHIND-38.mp4
+2026-03-19 16:21:01,331 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEHIND-38.mp4
+2026-03-19 16:21:01,332 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEHIND-38.mp4
+2026-03-19 16:21:02,571 - Finish downloading youtube video url https://www.youtube.com/watch?v=l2fU_9FofrE
+2026-03-19 16:21:03,792 - gloss: behind, video: 05803.
+2026-03-19 16:21:03,792 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Behind-UEemVJCWpq0.mp4
+2026-03-19 16:21:04,129 - Finish downloading youtube video url https://www.youtube.com/watch?v=r4ENXb64bwY
+2026-03-19 16:21:06,867 - HTTPS failed, retrying with HTTP: https://youtu.be/Qw59mUm6ioU
+2026-03-19 16:21:10,768 - Finish downloading youtube video url https://www.youtube.com/watch?v=v13foapJy8M
+2026-03-19 16:21:11,075 - Unsuccessful downloading - youtube video url https://youtu.be/Qw59mUm6ioU
+2026-03-19 16:21:11,075 - ERROR: [youtube] Qw59mUm6ioU: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:21:12,077 - gloss: behind, video: 05815.
+2026-03-19 16:21:12,077 - Requesting http://www.aslpro.com/main/b/behind.swf
+2026-03-19 16:21:12,127 - gloss: behind, video: 05816.
+2026-03-19 16:21:12,127 - Requesting http://www.aslsearch.com/signs/videos/behind3.mp4
+2026-03-19 16:21:14,093 - Finish downloading youtube video url https://www.youtube.com/watch?v=v13foapJy8M
+2026-03-19 16:21:15,305 - gloss: behind, video: 05804.
+2026-03-19 16:21:15,305 - Requesting https://media.asldeafined.com/vocabulary/1466681482.5953.mp4
+2026-03-19 16:21:22,505 - Finish downloading youtube video url https://www.youtube.com/watch?v=2oaCeSdHG-A
+2026-03-19 16:21:23,865 - gloss: east, video: 18294.
+2026-03-19 16:21:23,865 - Requesting https://www.signingsavvy.com/signs/mp4/6/6863.mp4
+2026-03-19 16:21:24,736 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6863.mp4
+2026-03-19 16:21:24,736 - Requesting http://www.signingsavvy.com/signs/mp4/6/6863.mp4
+2026-03-19 16:21:26,235 - Unsuccessful downloading - video 18294
+2026-03-19 16:21:28,664 - Finish downloading youtube video url https://www.youtube.com/watch?v=__LSIH5Z5t0
+2026-03-19 16:21:32,596 - Finish downloading youtube video url https://www.youtube.com/watch?v=N23tnuw_C_s
+2026-03-19 16:21:33,976 - gloss: east, video: 18297.
+2026-03-19 16:21:33,979 - Requesting http://www.aslpro.com/main/e/east.swf
+2026-03-19 16:21:39,833 - Unsuccessful downloading - video 48913
+2026-03-19 16:21:39,833 - gloss: east, video: 65597.
+2026-03-19 16:21:39,833 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAST-1290.mp4
+2026-03-19 16:21:40,344 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAST-1290.mp4
+2026-03-19 16:21:40,344 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAST-1290.mp4
+2026-03-19 16:21:43,155 - gloss: east, video: 18288.
+2026-03-19 16:21:43,156 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/east.mov
+2026-03-19 16:21:45,574 - HTTPS failed, retrying with HTTP: https://youtu.be/9k9ZtumEPLs
+2026-03-19 16:21:49,031 - Unsuccessful downloading - youtube video url https://youtu.be/9k9ZtumEPLs
+2026-03-19 16:21:49,031 - ERROR: [youtube] 9k9ZtumEPLs: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:21:50,517 - gloss: east, video: 18298.
+2026-03-19 16:21:50,517 - Requesting http://www.aslsearch.com/signs/videos/east.mp4
+2026-03-19 16:22:12,162 - Unsuccessful downloading - video 53493
+2026-03-19 16:22:12,162 - gloss: east, video: 18289.
+2026-03-19 16:22:12,162 - Requesting https://media.spreadthesign.com/video/mp4/13/481196.mp4
+2026-03-19 16:22:13,947 - gloss: east, video: 18290.
+2026-03-19 16:22:13,947 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/east.mp4
+2026-03-19 16:22:16,740 - gloss: east, video: 18291.
+2026-03-19 16:22:16,740 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20East-pB8laIXIVQc.mp4
+2026-03-19 16:22:20,614 - gloss: east, video: 18292.
+2026-03-19 16:22:20,614 - Requesting https://media.asldeafined.com/vocabulary/1468347751.9471.mp4
+2026-03-19 16:22:23,963 - gloss: east, video: 18293.
+2026-03-19 16:22:23,963 - Requesting https://www.handspeak.com/word/e/east.mp4
+2026-03-19 16:22:24,687 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/e/east.mp4
+2026-03-19 16:22:24,687 - Requesting http://www.handspeak.com/word/e/east.mp4
+2026-03-19 16:22:25,909 - Unsuccessful downloading - video 18293
+2026-03-19 16:22:27,083 - Unsuccessful downloading - video 05815
+2026-03-19 16:22:27,088 - YouTube videos https://www.youtube.com/watch?v=2DblIQ5n6xk already exists.
+2026-03-19 16:22:30,315 - Finish downloading youtube video url https://www.youtube.com/watch?v=mLWGFVIVUXY
+2026-03-19 16:22:33,999 - Finish downloading youtube video url https://www.youtube.com/watch?v=1_jXxjd0lKE
+2026-03-19 16:22:35,361 - Finish downloading youtube video url https://www.youtube.com/watch?v=TyNK9nBCNeg
+2026-03-19 16:22:35,500 - gloss: north, video: 38690.
+2026-03-19 16:22:35,501 - Requesting http://www.aslpro.com/main/n/north.swf
+2026-03-19 16:22:36,735 - gloss: north, video: 38681.
+2026-03-19 16:22:36,735 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/north.mov
+2026-03-19 16:22:44,349 - HTTPS failed, retrying with HTTP: https://youtu.be/wrgzFvTqqPw
+2026-03-19 16:22:45,052 - Unsuccessful downloading - youtube video url https://youtu.be/wrgzFvTqqPw
+2026-03-19 16:22:45,052 - ERROR: [youtube] wrgzFvTqqPw: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:22:46,206 - gloss: north, video: 38691.
+2026-03-19 16:22:46,208 - Requesting http://www.aslsearch.com/signs/videos/north.mp4
+2026-03-19 16:22:48,983 - Unsuccessful downloading - video 18297
+2026-03-19 16:22:48,984 - gloss: north, video: 38682.
+2026-03-19 16:22:48,984 - Requesting https://media.spreadthesign.com/video/mp4/13/49001.mp4
+2026-03-19 16:22:51,333 - gloss: north, video: 38683.
+2026-03-19 16:22:51,333 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/north.mp4
+2026-03-19 16:22:55,312 - gloss: north, video: 38684.
+2026-03-19 16:22:55,313 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20North-J_4pPcg2bAk.mp4
+2026-03-19 16:22:58,651 - gloss: north, video: 38685.
+2026-03-19 16:22:58,652 - Requesting https://media.asldeafined.com/vocabulary/1468719562.50.mp4
+2026-03-19 16:23:01,321 - gloss: north, video: 38686.
+2026-03-19 16:23:01,322 - Requesting https://www.handspeak.com/word/n/north.mp4
+2026-03-19 16:23:02,155 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/n/north.mp4
+2026-03-19 16:23:02,155 - Requesting http://www.handspeak.com/word/n/north.mp4
+2026-03-19 16:23:03,367 - Unsuccessful downloading - video 38686
+2026-03-19 16:23:03,367 - gloss: north, video: 38687.
+2026-03-19 16:23:03,367 - Requesting https://www.signingsavvy.com/signs/mp4/8/8805.mp4
+2026-03-19 16:23:04,213 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/8/8805.mp4
+2026-03-19 16:23:04,213 - Requesting http://www.signingsavvy.com/signs/mp4/8/8805.mp4
+2026-03-19 16:23:05,826 - Unsuccessful downloading - video 38687
+2026-03-19 16:23:05,826 - YouTube videos https://www.youtube.com/watch?v=A5dihMAjeTE already exists.
+2026-03-19 16:23:05,826 - YouTube videos https://www.youtube.com/watch?v=2DblIQ5n6xk already exists.
+2026-03-19 16:23:10,091 - Finish downloading youtube video url https://www.youtube.com/watch?v=i5hZZy5Sl_A
+2026-03-19 16:23:11,287 - gloss: west, video: 62914.
+2026-03-19 16:23:11,287 - Requesting http://www.aslpro.com/main/w/west.swf
+2026-03-19 16:23:17,873 - Unsuccessful downloading - video 63091
+2026-03-19 16:23:17,873 - gloss: west, video: 62915.
+2026-03-19 16:23:17,873 - Requesting http://www.aslsearch.com/signs/videos/west.mp4
+2026-03-19 16:23:42,147 - Unsuccessful downloading - video 05816
+2026-03-19 16:23:42,147 - gloss: west, video: 66765.
+2026-03-19 16:23:42,147 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEST-1422.mp4
+2026-03-19 16:23:42,658 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEST-1422.mp4
+2026-03-19 16:23:42,658 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEST-1422.mp4
+2026-03-19 16:23:44,858 - gloss: west, video: 62906.
+2026-03-19 16:23:44,859 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/west.mov
+2026-03-19 16:23:47,590 - HTTPS failed, retrying with HTTP: https://youtu.be/4M_eGGD6eEs
+2026-03-19 16:23:48,273 - Unsuccessful downloading - youtube video url https://youtu.be/4M_eGGD6eEs
+2026-03-19 16:23:48,274 - ERROR: [youtube] 4M_eGGD6eEs: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:23:49,651 - gloss: west, video: 62907.
+2026-03-19 16:23:49,652 - Requesting https://media.spreadthesign.com/video/mp4/13/92785.mp4
+2026-03-19 16:23:50,508 - Unsuccessful downloading - video 38690
+2026-03-19 16:23:50,508 - gloss: west, video: 62908.
+2026-03-19 16:23:50,508 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/west.mp4
+2026-03-19 16:23:51,632 - gloss: west, video: 62909.
+2026-03-19 16:23:51,633 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20West-yTYwtQ6OTsI.mp4
+2026-03-19 16:23:53,956 - gloss: west, video: 62910.
+2026-03-19 16:23:53,957 - Requesting https://media.asldeafined.com/vocabulary/1468927753.3770.mp4
+2026-03-19 16:23:57,368 - gloss: west, video: 62911.
+2026-03-19 16:23:57,369 - Requesting https://www.handspeak.com/word/w/west.mp4
+2026-03-19 16:23:58,152 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/w/west.mp4
+2026-03-19 16:23:58,152 - Requesting http://www.handspeak.com/word/w/west.mp4
+2026-03-19 16:23:59,552 - Unsuccessful downloading - video 62911
+2026-03-19 16:23:59,553 - gloss: west, video: 62912.
+2026-03-19 16:23:59,553 - Requesting https://www.signingsavvy.com/signs/mp4/6/6864.mp4
+2026-03-19 16:24:00,467 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6864.mp4
+2026-03-19 16:24:00,467 - Requesting http://www.signingsavvy.com/signs/mp4/6/6864.mp4
+2026-03-19 16:24:00,925 - YouTube videos https://www.youtube.com/watch?v=jPn0FQxkdBc already exists.
+2026-03-19 16:24:00,925 - gloss: australia, video: 04186.
+2026-03-19 16:24:00,925 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/australia.mp4
+2026-03-19 16:24:02,112 - Unsuccessful downloading - video 62912
+2026-03-19 16:24:02,112 - gloss: australia, video: 04187.
+2026-03-19 16:24:02,112 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia%202-TPHeMqSGgCM.mp4
+2026-03-19 16:24:04,109 - gloss: australia, video: 04188.
+2026-03-19 16:24:04,109 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-jrfLziRGVAU.mp4
+2026-03-19 16:24:05,818 - gloss: australia, video: 04189.
+2026-03-19 16:24:05,818 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-WhRLSPxDkJw.mp4
+2026-03-19 16:24:07,165 - gloss: australia, video: 04190.
+2026-03-19 16:24:07,166 - Requesting https://media.asldeafined.com/vocabulary/1466646970.4368.mp4
+2026-03-19 16:24:09,102 - gloss: australia, video: 04191.
+2026-03-19 16:24:09,102 - Requesting https://www.handspeak.com/word/a/australia2.mp4
+2026-03-19 16:24:09,835 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/a/australia2.mp4
+2026-03-19 16:24:09,835 - Requesting http://www.handspeak.com/word/a/australia2.mp4
+2026-03-19 16:24:10,649 - gloss: australia, video: 65111.
+2026-03-19 16:24:10,649 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUSTRALIA-824.mp4
+2026-03-19 16:24:11,038 - Unsuccessful downloading - video 04191
+2026-03-19 16:24:11,040 - gloss: australia, video: 04193.
+2026-03-19 16:24:11,040 - Requesting https://www.signingsavvy.com/signs/mp4/5/5754.mp4
+2026-03-19 16:24:11,174 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUSTRALIA-824.mp4
+2026-03-19 16:24:11,174 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUSTRALIA-824.mp4
+2026-03-19 16:24:11,872 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5754.mp4
+2026-03-19 16:24:11,872 - Requesting http://www.signingsavvy.com/signs/mp4/5/5754.mp4
+2026-03-19 16:24:13,413 - Unsuccessful downloading - video 04193
+2026-03-19 16:24:14,192 - gloss: australia, video: 04196.
+2026-03-19 16:24:14,192 - Requesting http://www.aslpro.com/main/a/australia_1.swf
+2026-03-19 16:24:18,187 - Finish downloading youtube video url https://www.youtube.com/watch?v=Qkec7A7_o8c
+2026-03-19 16:24:19,210 - gloss: australia, video: 04198.
+2026-03-19 16:24:19,210 - Requesting http://www.aslsearch.com/signs/videos/australia.mp4
+2026-03-19 16:24:20,521 - Unsuccessful downloading - video 18298
+2026-03-19 16:24:20,522 - gloss: australia, video: 04184.
+2026-03-19 16:24:20,522 - Requesting https://media.spreadthesign.com/video/mp4/13/455286.mp4
+2026-03-19 16:24:22,818 - YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+2026-03-19 16:24:26,292 - Unsuccessful downloading - video 62914
+2026-03-19 16:24:30,649 - Finish downloading youtube video url https://www.youtube.com/watch?v=C_TxYVsGywI
+2026-03-19 16:24:35,883 - Finish downloading youtube video url https://www.youtube.com/watch?v=sErq0TJMKEo
+2026-03-19 16:24:36,306 - Finish downloading youtube video url https://www.youtube.com/watch?v=gwSTnZlTWnQ
+2026-03-19 16:24:37,312 - gloss: basement, video: 65142.
+2026-03-19 16:24:37,312 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEMENT-572.mp4
+2026-03-19 16:24:37,704 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=vxHqc1L9tso
+2026-03-19 16:24:37,869 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEMENT-572.mp4
+2026-03-19 16:24:37,869 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEMENT-572.mp4
+2026-03-19 16:24:38,603 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=vxHqc1L9tso
+2026-03-19 16:24:38,603 - ERROR: [youtube] vxHqc1L9tso: Video unavailable
+
+2026-03-19 16:24:40,562 - HTTPS failed, retrying with HTTP: https://youtu.be/w1yOviGTgpw
+2026-03-19 16:24:40,952 - gloss: basement, video: 05204.
+2026-03-19 16:24:40,953 - Requesting http://www.aslsearch.com/signs/videos/basement.mp4
+2026-03-19 16:24:41,431 - Unsuccessful downloading - youtube video url https://youtu.be/w1yOviGTgpw
+2026-03-19 16:24:41,431 - ERROR: [youtube] w1yOviGTgpw: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:24:42,832 - gloss: basement, video: 05194.
+2026-03-19 16:24:42,834 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/basement.mp4
+2026-03-19 16:24:45,725 - gloss: basement, video: 05195.
+2026-03-19 16:24:45,725 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Basement-Tso9F3Z9f2Q.mp4
+2026-03-19 16:24:49,529 - gloss: basement, video: 05196.
+2026-03-19 16:24:49,530 - Requesting https://media.asldeafined.com/vocabulary/1466649389.7379.mp4
+2026-03-19 16:24:53,209 - gloss: basement, video: 05197.
+2026-03-19 16:24:53,210 - Requesting https://www.handspeak.com/word/b/basement.mp4
+2026-03-19 16:24:53,942 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/basement.mp4
+2026-03-19 16:24:53,943 - Requesting http://www.handspeak.com/word/b/basement.mp4
+2026-03-19 16:24:55,193 - Unsuccessful downloading - video 05197
+2026-03-19 16:24:55,193 - gloss: basement, video: 05198.
+2026-03-19 16:24:55,194 - Requesting https://www.signingsavvy.com/signs/mp4/23/23995.mp4
+2026-03-19 16:24:56,047 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23995.mp4
+2026-03-19 16:24:56,048 - Requesting http://www.signingsavvy.com/signs/mp4/23/23995.mp4
+2026-03-19 16:24:57,947 - Unsuccessful downloading - video 05198
+2026-03-19 16:24:57,947 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:25:03,824 - Finish downloading youtube video url https://www.youtube.com/watch?v=4Nh1iFv2BMc
+2026-03-19 16:25:05,963 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=-ynqS9XaFwY
+2026-03-19 16:25:06,957 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=-ynqS9XaFwY
+2026-03-19 16:25:06,957 - ERROR: [youtube] -ynqS9XaFwY: Video unavailable
+
+2026-03-19 16:25:08,173 - gloss: cafeteria, video: 08595.
+2026-03-19 16:25:08,173 - Requesting http://www.aslsearch.com/signs/videos/cafeteria.mp4
+2026-03-19 16:25:16,216 - Unsuccessful downloading - video 38691
+2026-03-19 16:25:16,216 - gloss: cafeteria, video: 65284.
+2026-03-19 16:25:16,216 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAFETERIA-2145.mp4
+2026-03-19 16:25:16,731 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAFETERIA-2145.mp4
+2026-03-19 16:25:16,731 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAFETERIA-2145.mp4
+2026-03-19 16:25:23,975 - HTTPS failed, retrying with HTTP: https://youtu.be/KmDKguy0lTg
+2026-03-19 16:25:27,586 - Unsuccessful downloading - youtube video url https://youtu.be/KmDKguy0lTg
+2026-03-19 16:25:27,587 - ERROR: [youtube] KmDKguy0lTg: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:25:28,979 - gloss: cafeteria, video: 08587.
+2026-03-19 16:25:28,981 - Requesting https://media.spreadthesign.com/video/mp4/13/74898.mp4
+2026-03-19 16:25:29,195 - Unsuccessful downloading - video 04196
+2026-03-19 16:25:29,195 - gloss: cafeteria, video: 08588.
+2026-03-19 16:25:29,195 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cafeteria.mp4
+2026-03-19 16:25:31,123 - gloss: cafeteria, video: 08589.
+2026-03-19 16:25:31,123 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cafeteria-Wh1kREgi9tE.mp4
+2026-03-19 16:25:32,606 - gloss: cafeteria, video: 08590.
+2026-03-19 16:25:32,606 - Requesting https://media.asldeafined.com/vocabulary/1466725761.86.mp4
+2026-03-19 16:25:34,006 - gloss: cafeteria, video: 08591.
+2026-03-19 16:25:34,006 - Requesting https://www.handspeak.com/word/c/cafeteria.mp4
+2026-03-19 16:25:34,788 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/cafeteria.mp4
+2026-03-19 16:25:34,788 - Requesting http://www.handspeak.com/word/c/cafeteria.mp4
+2026-03-19 16:25:35,960 - gloss: cafeteria, video: 08592.
+2026-03-19 16:25:35,960 - Requesting https://www.signingsavvy.com/signs/mp4/22/22163.mp4
+2026-03-19 16:25:36,053 - Unsuccessful downloading - video 08591
+2026-03-19 16:25:36,053 - gloss: cafeteria, video: 08593.
+2026-03-19 16:25:36,053 - Requesting https://www.signingsavvy.com/signs/mp4/23/23896.mp4
+2026-03-19 16:25:36,934 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23896.mp4
+2026-03-19 16:25:36,934 - Requesting http://www.signingsavvy.com/signs/mp4/23/23896.mp4
+2026-03-19 16:25:36,941 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/22/22163.mp4
+2026-03-19 16:25:36,941 - Requesting http://www.signingsavvy.com/signs/mp4/22/22163.mp4
+2026-03-19 16:25:38,532 - Unsuccessful downloading - video 08593
+2026-03-19 16:25:38,532 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:25:38,600 - Unsuccessful downloading - video 08592
+2026-03-19 16:25:38,600 - gloss: church, video: 10776.
+2026-03-19 16:25:38,600 - Requesting http://www.aslpro.com/main/c/church.swf
+2026-03-19 16:25:39,428 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=lHTdrUkUVcM
+2026-03-19 16:25:41,664 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lHTdrUkUVcM
+2026-03-19 16:25:41,664 - ERROR: [youtube] lHTdrUkUVcM: Video unavailable
+
+2026-03-19 16:25:42,907 - gloss: church, video: 10777.
+2026-03-19 16:25:42,908 - Requesting http://www.aslsearch.com/signs/videos/church.mp4
+2026-03-19 16:25:47,880 - Unsuccessful downloading - video 62915
+2026-03-19 16:25:47,880 - gloss: church, video: 65358.
+2026-03-19 16:25:47,880 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/CH/CHURCH-2296.mp4
+2026-03-19 16:25:48,404 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/CH/CHURCH-2296.mp4
+2026-03-19 16:25:48,405 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/CH/CHURCH-2296.mp4
+2026-03-19 16:25:49,528 - Unsuccessful downloading - video 65358
+2026-03-19 16:25:50,231 - HTTPS failed, retrying with HTTP: https://youtu.be/5l1FtsYkTDI
+2026-03-19 16:25:51,015 - Unsuccessful downloading - youtube video url https://youtu.be/5l1FtsYkTDI
+2026-03-19 16:25:51,015 - ERROR: [youtube] 5l1FtsYkTDI: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:25:52,410 - gloss: church, video: 10769.
+2026-03-19 16:25:52,411 - Requesting https://media.spreadthesign.com/video/mp4/13/400994.mp4
+2026-03-19 16:25:54,731 - gloss: church, video: 10770.
+2026-03-19 16:25:54,731 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/church.mp4
+2026-03-19 16:25:57,240 - gloss: church, video: 10771.
+2026-03-19 16:25:57,240 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Church-nPM03TJ2njU.mp4
+2026-03-19 16:26:00,191 - gloss: church, video: 10772.
+2026-03-19 16:26:00,191 - Requesting https://media.asldeafined.com/vocabulary/1466733626.4965.mp4
+2026-03-19 16:26:03,656 - gloss: church, video: 10773.
+2026-03-19 16:26:03,656 - Requesting https://www.handspeak.com/word/c/church.mp4
+2026-03-19 16:26:04,444 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/church.mp4
+2026-03-19 16:26:04,444 - Requesting http://www.handspeak.com/word/c/church.mp4
+2026-03-19 16:26:05,806 - Unsuccessful downloading - video 10773
+2026-03-19 16:26:05,807 - gloss: church, video: 10774.
+2026-03-19 16:26:05,807 - Requesting https://www.signingsavvy.com/signs/mp4/7/7174.mp4
+2026-03-19 16:26:06,804 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7174.mp4
+2026-03-19 16:26:06,804 - Requesting http://www.signingsavvy.com/signs/mp4/7/7174.mp4
+2026-03-19 16:26:08,362 - Unsuccessful downloading - video 10774
+2026-03-19 16:26:12,230 - Finish downloading youtube video url https://www.youtube.com/watch?v=MrQpEWyELqo
+2026-03-19 16:26:14,407 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=dAzz4ooEN0U
+2026-03-19 16:26:15,157 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dAzz4ooEN0U
+2026-03-19 16:26:15,157 - ERROR: [youtube] dAzz4ooEN0U: Video unavailable
+
+2026-03-19 16:26:22,100 - Finish downloading youtube video url https://www.youtube.com/watch?v=VwejDy96MzM
+2026-03-19 16:26:23,391 - gloss: hospital, video: 28040.
+2026-03-19 16:26:23,391 - Requesting https://www.handspeak.com/word/h/hospital.mp4
+2026-03-19 16:26:24,450 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/h/hospital.mp4
+2026-03-19 16:26:24,450 - Requesting http://www.handspeak.com/word/h/hospital.mp4
+2026-03-19 16:26:25,705 - Unsuccessful downloading - video 28040
+2026-03-19 16:26:25,705 - gloss: hospital, video: 28041.
+2026-03-19 16:26:25,706 - Requesting https://www.signingsavvy.com/signs/mp4/8/8688.mp4
+2026-03-19 16:26:26,523 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/8/8688.mp4
+2026-03-19 16:26:26,523 - Requesting http://www.signingsavvy.com/signs/mp4/8/8688.mp4
+2026-03-19 16:26:27,983 - Unsuccessful downloading - video 28041
+2026-03-19 16:26:29,982 - Finish downloading youtube video url https://www.youtube.com/watch?v=syueldx2RHQ
+2026-03-19 16:26:31,168 - gloss: hospital, video: 28033.
+2026-03-19 16:26:31,168 - Requesting https://media.spreadthesign.com/video/mp4/13/456595.mp4
+2026-03-19 16:26:40,185 - HTTPS failed, retrying with HTTP: https://youtu.be/n0ghkagUd8g
+2026-03-19 16:26:40,846 - Unsuccessful downloading - youtube video url https://youtu.be/n0ghkagUd8g
+2026-03-19 16:26:40,847 - ERROR: [youtube] n0ghkagUd8g: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:26:41,883 - gloss: hospital, video: 28043.
+2026-03-19 16:26:41,884 - Requesting http://www.aslpro.com/main/h/hospital.swf
+2026-03-19 16:26:49,216 - Unsuccessful downloading - video 04198
+2026-03-19 16:26:49,216 - gloss: hospital, video: 28044.
+2026-03-19 16:26:49,216 - Requesting http://www.aslsearch.com/signs/videos/hospital.mp4
+2026-03-19 16:26:53,604 - Unsuccessful downloading - video 10776
+2026-03-19 16:26:53,604 - gloss: hospital, video: 28034.
+2026-03-19 16:26:53,604 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hospital.mp4
+2026-03-19 16:26:56,694 - gloss: hospital, video: 28035.
+2026-03-19 16:26:56,694 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital%202-RBjXHnCW5O4.mp4
+2026-03-19 16:27:04,245 - gloss: hospital, video: 28036.
+2026-03-19 16:27:04,246 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital-nVGW6FnfoZk.mp4
+2026-03-19 16:27:07,517 - gloss: hospital, video: 28038.
+2026-03-19 16:27:07,517 - Requesting https://media.asldeafined.com/vocabulary/1468638550.6788.mp4
+2026-03-19 16:27:10,957 - Unsuccessful downloading - video 05204
+2026-03-19 16:27:10,958 - gloss: japan, video: 30937.
+2026-03-19 16:27:10,958 - Requesting https://media.asldeafined.com/vocabulary/1468668937.5269.mp4
+2026-03-19 16:27:13,622 - gloss: japan, video: 30938.
+2026-03-19 16:27:13,622 - Requesting https://www.handspeak.com/word/j/japan.mp4
+2026-03-19 16:27:13,963 - Finish downloading youtube video url https://www.youtube.com/watch?v=8kWVajLqBL4
+2026-03-19 16:27:14,498 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/j/japan.mp4
+2026-03-19 16:27:14,499 - Requesting http://www.handspeak.com/word/j/japan.mp4
+2026-03-19 16:27:14,994 - gloss: japan, video: 30941.
+2026-03-19 16:27:14,994 - Requesting https://www.signingsavvy.com/signs/mp4/5/5731.mp4
+2026-03-19 16:27:15,788 - Unsuccessful downloading - video 30938
+2026-03-19 16:27:16,047 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5731.mp4
+2026-03-19 16:27:16,048 - Requesting http://www.signingsavvy.com/signs/mp4/5/5731.mp4
+2026-03-19 16:27:17,567 - Unsuccessful downloading - video 30941
+2026-03-19 16:27:17,568 - gloss: japan, video: 30933.
+2026-03-19 16:27:17,568 - Requesting https://media.spreadthesign.com/video/mp4/13/455336.mp4
+2026-03-19 16:27:19,215 - Finish downloading youtube video url https://www.youtube.com/watch?v=3RWypBF6cKY
+2026-03-19 16:27:20,344 - gloss: japan, video: 30944.
+2026-03-19 16:27:20,345 - Requesting http://www.aslpro.com/main/j/japan_a.swf
+2026-03-19 16:27:21,319 - HTTPS failed, retrying with HTTP: https://youtu.be/ZYUWTx3Xtdo
+2026-03-19 16:27:23,193 - Unsuccessful downloading - youtube video url https://youtu.be/ZYUWTx3Xtdo
+2026-03-19 16:27:23,193 - ERROR: [youtube] ZYUWTx3Xtdo: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-19 16:27:24,279 - gloss: japan, video: 30945.
+2026-03-19 16:27:24,280 - Requesting http://www.aslpro.com/main/j/japan_b.swf
+2026-03-19 16:27:29,406 - Unsuccessful downloading - video 30944
+2026-03-19 16:27:29,406 - gloss: japan, video: 30946.
+2026-03-19 16:27:29,407 - Requesting http://www.aslsearch.com/signs/videos/japan.mp4
+2026-03-19 16:27:31,541 - Unsuccessful downloading - video 30946
+2026-03-19 16:27:31,541 - gloss: japan, video: 30934.
+2026-03-19 16:27:31,541 - Requesting https://media.spreadthesign.com/video/mp4/13/455337.mp4
+2026-03-19 16:27:34,270 - gloss: japan, video: 30935.
+2026-03-19 16:27:34,270 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan%202-8u5dM9Tyf1k.mp4
+2026-03-19 16:27:37,619 - gloss: japan, video: 30936.
+2026-03-19 16:27:37,620 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan-iA8S4bnsIIg.mp4
+2026-03-19 16:27:38,181 - Unsuccessful downloading - video 08595
+2026-03-19 16:27:56,889 - Unsuccessful downloading - video 28043
+2026-03-19 16:28:12,914 - Unsuccessful downloading - video 10777
+2026-03-19 16:28:39,283 - Unsuccessful downloading - video 30945
+2026-03-19 16:29:19,224 - Unsuccessful downloading - video 28044
+2026-03-19 16:29:19,226 - All downloads completed.

@@ -4,7 +4,7 @@ import json
 
 filenames = set(os.listdir('videos'))
 
-content = json.load(open('WLASL_v0.3.json'))
+content = json.load(open('categories/WLASL_places_subset.json'))
 
 missing_ids = []
 

@@ -1,0 +1,1850 @@
+2026-03-19 15:57:35,812 - Start downloading videos using multithreading.
+2026-03-19 15:57:35,812 - gloss: school, video: 69455.
+2026-03-19 15:57:35,812 - Requesting http://aslbricks.org/New/ASL-Videos/school.mp4
+2026-03-19 15:57:37,416 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2EAilZspev4
+2026-03-19 15:57:39,302 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2EAilZspev4
+2026-03-19 15:57:39,302 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] 2EAilZspev4: Video unavailable
+
+2026-03-19 15:57:39,436 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=g-w38Q0QrWE
+2026-03-19 15:57:40,230 - Finish downloading youtube video url https://www.youtube.com/watch?v=ig7SKr3tvWc
+2026-03-19 15:57:40,764 - gloss: school, video: 49601.
+2026-03-19 15:57:40,764 - Requesting https://www.handspeak.com/word/s/school.mp4
+2026-03-19 15:57:41,611 - gloss: school, video: 49602.
+2026-03-19 15:57:41,611 - Requesting https://www.signingsavvy.com/signs/mp4/6/6564.mp4
+2026-03-19 15:57:42,188 - Finish downloading youtube video url https://www.youtube.com/watch?v=hjS0dQDgbjo
+2026-03-19 15:57:43,194 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/s/school.mp4
+2026-03-19 15:57:43,194 - Requesting http://www.handspeak.com/word/s/school.mp4
+2026-03-19 15:57:43,229 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6564.mp4
+2026-03-19 15:57:43,229 - Requesting http://www.signingsavvy.com/signs/mp4/6/6564.mp4
+2026-03-19 15:57:44,754 - Unsuccessful downloading - video 49602
+2026-03-19 15:57:44,755 - gloss: school, video: 49604.
+2026-03-19 15:57:44,755 - Requesting http://www.aslpro.com/main/s/school.swf
+2026-03-19 15:57:45,117 - Finish downloading youtube video url https://www.youtube.com/watch?v=XB3Q6IX6CBo
+2026-03-19 15:57:46,268 - gloss: school, video: 49595.
+2026-03-19 15:57:46,268 - Requesting https://media.spreadthesign.com/video/mp4/13/50778.mp4
+2026-03-19 15:57:46,560 - Unsuccessful downloading - video 49601
+2026-03-19 15:57:47,309 - Finish downloading youtube video url https://www.youtube.com/watch?v=vuE3RN10AGA
+2026-03-19 15:57:48,432 - gloss: school, video: 49605.
+2026-03-19 15:57:48,432 - Requesting http://www.aslpro.com/main/s/school_walking_to.swf
+2026-03-19 15:57:49,437 - HTTPS failed, retrying with HTTP: https://youtu.be/A_rNr7i1uAs
+2026-03-19 15:57:49,602 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=g-w38Q0QrWE
+2026-03-19 15:57:49,603 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] g-w38Q0QrWE: This video is unavailable
+
+2026-03-19 15:57:50,209 - gloss: school, video: 49606.
+2026-03-19 15:57:50,209 - Requesting http://www.aslsearch.com/signs/videos/school.mp4
+2026-03-19 15:57:50,853 - gloss: school, video: 49596.
+2026-03-19 15:57:50,853 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/school.mp4
+2026-03-19 15:57:51,368 - Unsuccessful downloading - youtube video url https://youtu.be/A_rNr7i1uAs
+2026-03-19 15:57:51,368 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] A_rNr7i1uAs: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/w
+2026-03-19 15:57:52,501 - gloss: school, video: 49597.
+2026-03-19 15:57:52,501 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Academic%2C%20School-ZsoedvSYMpA.mp4
+2026-03-19 15:57:53,084 - gloss: school, video: 49598.
+2026-03-19 15:57:53,085 - Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20School.mp4
+2026-03-19 15:57:54,472 - Unsuccessful downloading - video 49606
+2026-03-19 15:57:54,472 - gloss: school, video: 49599.
+2026-03-19 15:57:54,472 - Requesting https://media.asldeafined.com/vocabulary/1468763371.5844.mp4
+2026-03-19 15:57:55,088 - gloss: school, video: 49600.
+2026-03-19 15:57:55,089 - Requesting https://media.asldeafined.com/vocabulary/1522768179.9250.mp4
+2026-03-19 15:57:57,079 - gloss: africa, video: 01383.
+2026-03-19 15:57:57,079 - Requesting https://media.spreadthesign.com/video/mp4/13/50049.mp4
+2026-03-19 15:57:57,400 - gloss: africa, video: 01384.
+2026-03-19 15:57:57,401 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/africa.mp4
+2026-03-19 15:57:58,195 - gloss: africa, video: 01385.
+2026-03-19 15:57:58,196 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Africa%202-TrChLRg2itY.mp4
+2026-03-19 15:57:58,899 - gloss: africa, video: 01386.
+2026-03-19 15:57:58,900 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Africa%203-Jn6HQbdJE48.mp4
+2026-03-19 15:57:59,557 - gloss: africa, video: 01387.
+2026-03-19 15:57:59,558 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Africa-il-R1NptEEw.mp4
+2026-03-19 15:57:59,853 - Finish downloading youtube video url https://www.youtube.com/watch?v=jPn0FQxkdBc
+2026-03-19 15:58:01,065 - gloss: africa, video: 01388.
+2026-03-19 15:58:01,065 - Requesting https://media.asldeafined.com/vocabulary/1466171159.7047.mp4
+2026-03-19 15:58:03,594 - gloss: africa, video: 01390.
+2026-03-19 15:58:03,595 - Requesting https://www.handspeak.com/word/a/africa.mp4
+2026-03-19 15:58:04,362 - gloss: africa, video: 01391.
+2026-03-19 15:58:04,362 - Requesting https://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-19 15:58:04,412 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/a/africa.mp4
+2026-03-19 15:58:04,412 - Requesting http://www.handspeak.com/word/a/africa.mp4
+2026-03-19 15:58:04,672 - gloss: africa, video: 65029.
+2026-03-19 15:58:04,672 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AF/AFRICA-846.mp4
+2026-03-19 15:58:06,277 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-19 15:58:06,278 - Requesting http://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-19 15:58:06,518 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AF/AFRICA-846.mp4
+2026-03-19 15:58:06,518 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AF/AFRICA-846.mp4
+2026-03-19 15:58:06,752 - Unsuccessful downloading - video 01390
+2026-03-19 15:58:07,716 - Unsuccessful downloading - video 01391
+2026-03-19 15:58:07,914 - HTTPS failed, retrying with HTTP: https://youtu.be/niBJ6C9Rs_8
+2026-03-19 15:58:09,311 - Finish downloading youtube video url https://www.youtube.com/watch?v=qtVdE7tBGsU
+2026-03-19 15:58:09,420 - Unsuccessful downloading - youtube video url https://youtu.be/niBJ6C9Rs_8
+2026-03-19 15:58:09,420 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] niBJ6C9Rs_8: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/w
+2026-03-19 15:58:10,265 - Finish downloading youtube video url https://www.youtube.com/watch?v=S__GZ7Vki30
+2026-03-19 15:58:10,641 - gloss: africa, video: 01396.
+2026-03-19 15:58:10,642 - Requesting http://www.aslpro.com/main/a/africa_1.swf
+2026-03-19 15:58:11,311 - Finish downloading youtube video url https://www.youtube.com/watch?v=YnK5IFMrc6Q
+2026-03-19 15:58:11,688 - gloss: africa, video: 01397.
+2026-03-19 15:58:11,689 - Requesting http://www.aslpro.com/main/a/africa_2.swf
+2026-03-19 15:58:12,487 - gloss: africa, video: 01398.
+2026-03-19 15:58:12,488 - Requesting http://www.aslsearch.com/signs/videos/africa.mp4
+2026-03-19 15:58:15,925 - Finish downloading youtube video url https://www.youtube.com/watch?v=ZyH7kuEa18Q
+2026-03-19 15:58:22,616 - Finish downloading youtube video url https://www.youtube.com/watch?v=PPmQd2zWdP0
+2026-03-19 15:58:23,836 - gloss: city, video: 69269.
+2026-03-19 15:58:23,837 - Requesting http://aslbricks.org/New/ASL-Videos/city.mp4
+2026-03-19 15:58:35,204 - Unsuccessful downloading - video 01397
+2026-03-19 15:58:36,666 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=cEbPqZiaAqQ
+2026-03-19 15:58:39,162 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=cEbPqZiaAqQ
+2026-03-19 15:58:39,163 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] cEbPqZiaAqQ: Video unavailable
+
+2026-03-19 15:58:40,599 - gloss: city, video: 10895.
+2026-03-19 15:58:40,600 - Requesting https://media.asldeafined.com/vocabulary/1466898554.85.mp4
+2026-03-19 15:58:43,314 - gloss: city, video: 10896.
+2026-03-19 15:58:43,314 - Requesting https://www.handspeak.com/word/c/city.mp4
+2026-03-19 15:58:43,645 - gloss: city, video: 10898.
+2026-03-19 15:58:43,646 - Requesting https://www.signingsavvy.com/signs/mp4/6/6001.mp4
+2026-03-19 15:58:44,048 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/city.mp4
+2026-03-19 15:58:44,049 - Requesting http://www.handspeak.com/word/c/city.mp4
+2026-03-19 15:58:44,533 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6001.mp4
+2026-03-19 15:58:44,533 - Requesting http://www.signingsavvy.com/signs/mp4/6/6001.mp4
+2026-03-19 15:58:45,302 - Unsuccessful downloading - video 10896
+2026-03-19 15:58:45,971 - Unsuccessful downloading - video 10898
+2026-03-19 15:58:48,730 - Finish downloading youtube video url https://www.youtube.com/watch?v=e7Tz3OSQBQQ
+2026-03-19 15:58:48,856 - Finish downloading youtube video url https://www.youtube.com/watch?v=R6T2OTSZNck
+2026-03-19 15:58:50,143 - gloss: city, video: 65362.
+2026-03-19 15:58:50,143 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-551.mp4
+2026-03-19 15:58:50,650 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-551.mp4
+2026-03-19 15:58:50,650 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-551.mp4
+2026-03-19 15:58:53,052 - gloss: city, video: 65363.
+2026-03-19 15:58:53,052 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-689.mp4
+2026-03-19 15:58:53,318 - Finish downloading youtube video url https://www.youtube.com/watch?v=y3aZGBOFqtU
+2026-03-19 15:58:53,708 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-689.mp4
+2026-03-19 15:58:53,708 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CITY-689.mp4
+2026-03-19 15:58:54,572 - gloss: city, video: 10892.
+2026-03-19 15:58:54,573 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/city.mov
+2026-03-19 15:58:57,713 - HTTPS failed, retrying with HTTP: https://youtu.be/DV17xsFO5Jg
+2026-03-19 15:59:01,388 - Finish downloading youtube video url https://www.youtube.com/watch?v=Y8QX1lAPwOs
+2026-03-19 15:59:01,565 - Unsuccessful downloading - video 49604
+2026-03-19 15:59:01,565 - gloss: city, video: 10903.
+2026-03-19 15:59:01,565 - Requesting http://www.aslpro.com/main/c/city.swf
+2026-03-19 15:59:02,648 - gloss: city, video: 10904.
+2026-03-19 15:59:02,649 - Requesting http://www.aslsearch.com/signs/videos/city.mp4
+2026-03-19 15:59:03,437 - Unsuccessful downloading - video 49605
+2026-03-19 15:59:03,437 - gloss: city, video: 10893.
+2026-03-19 15:59:03,437 - Requesting https://media.spreadthesign.com/video/mp4/13/399304.mp4
+2026-03-19 15:59:18,842 - Unsuccessful downloading - youtube video url https://youtu.be/DV17xsFO5Jg
+2026-03-19 15:59:18,842 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] DV17xsFO5Jg: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/w
+2026-03-19 15:59:19,925 - gloss: city, video: 10894.
+2026-03-19 15:59:19,926 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Community%2C%20City-ullwVrgZsPE.mp4
+2026-03-19 15:59:23,982 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/399304.mp4
+2026-03-19 15:59:23,982 - Requesting http://media.spreadthesign.com/video/mp4/13/399304.mp4
+2026-03-19 15:59:25,646 - Unsuccessful downloading - video 01396
+2026-03-19 15:59:32,001 - gloss: room, video: 48509.
+2026-03-19 15:59:32,002 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/room.mp4
+2026-03-19 15:59:33,517 - gloss: room, video: 48510.
+2026-03-19 15:59:33,517 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Room%2C%20Box-md_GwEQC3G8.mp4
+2026-03-19 15:59:38,511 - gloss: room, video: 48511.
+2026-03-19 15:59:38,511 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Room-c_wEkcZ2eqU.mp4
+2026-03-19 15:59:40,279 - gloss: room, video: 48512.
+2026-03-19 15:59:40,279 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20room-eFVfYZffYLo.mp4
+2026-03-19 15:59:44,164 - gloss: room, video: 48513.
+2026-03-19 15:59:44,164 - Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Room%202.mp4
+2026-03-19 15:59:47,459 - gloss: room, video: 48514.
+2026-03-19 15:59:47,459 - Requesting https://media.asldeafined.com/vocabulary/1468761369.8817.mp4
+2026-03-19 15:59:48,489 - gloss: room, video: 48515.
+2026-03-19 15:59:48,490 - Requesting https://www.handspeak.com/word/r/room.mp4
+2026-03-19 15:59:51,547 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/r/room.mp4
+2026-03-19 15:59:51,547 - Requesting http://www.handspeak.com/word/r/room.mp4
+2026-03-19 15:59:53,675 - gloss: room, video: 48516.
+2026-03-19 15:59:53,675 - Requesting https://www.signingsavvy.com/signs/mp4/9/9515.mp4
+2026-03-19 15:59:55,637 - Finish downloading youtube video url https://www.youtube.com/watch?v=Qc7Dc_qF5NI
+2026-03-19 15:59:55,787 - Unsuccessful downloading - video 48515
+2026-03-19 15:59:55,787 - gloss: room, video: 66415.
+2026-03-19 15:59:55,787 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-242.mp4
+2026-03-19 15:59:56,337 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-242.mp4
+2026-03-19 15:59:56,337 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-242.mp4
+2026-03-19 15:59:56,948 - gloss: room, video: 66416.
+2026-03-19 15:59:56,949 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-984.mp4
+2026-03-19 15:59:57,927 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/9/9515.mp4
+2026-03-19 15:59:57,927 - Requesting http://www.signingsavvy.com/signs/mp4/9/9515.mp4
+2026-03-19 15:59:58,215 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-984.mp4
+2026-03-19 15:59:58,215 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOM-984.mp4
+2026-03-19 16:00:00,927 - Unsuccessful downloading - video 48516
+2026-03-19 16:00:00,927 - gloss: room, video: 48517.
+2026-03-19 16:00:00,927 - Requesting https://www.signingsavvy.com/signs/mp4/9/9516.mp4
+2026-03-19 16:00:02,064 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/9/9516.mp4
+2026-03-19 16:00:02,064 - Requesting http://www.signingsavvy.com/signs/mp4/9/9516.mp4
+2026-03-19 16:00:10,770 - Unsuccessful downloading - video 48517
+2026-03-19 16:00:12,728 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=R60q-PBwY58
+2026-03-19 16:00:15,991 - Finish downloading youtube video url https://www.youtube.com/watch?v=ByET2PW3OrQ
+2026-03-19 16:00:16,568 - Unsuccessful downloading - video 10903
+2026-03-19 16:00:16,569 - gloss: room, video: 48520.
+2026-03-19 16:00:16,569 - Requesting http://www.aslpro.com/main/r/room.swf
+2026-03-19 16:00:16,880 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=R60q-PBwY58
+2026-03-19 16:00:16,881 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] R60q-PBwY58: Video unavailable
+
+2026-03-19 16:00:16,937 - HTTPS failed, retrying with HTTP: https://youtu.be/hdDYNPC93DM
+2026-03-19 16:00:17,294 - gloss: room, video: 48521.
+2026-03-19 16:00:17,294 - Requesting http://www.aslsearch.com/signs/videos/box.mp4
+2026-03-19 16:00:26,964 - Unsuccessful downloading - youtube video url https://youtu.be/hdDYNPC93DM
+2026-03-19 16:00:26,964 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+ERROR: [youtube] hdDYNPC93DM: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/w
+2026-03-19 16:00:28,213 - gloss: bathroom, video: 05299.
+2026-03-19 16:00:28,213 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bathroom-u7XrB6j-o3E.mp4
+2026-03-19 16:00:32,031 - gloss: bathroom, video: 05300.
+2026-03-19 16:00:32,032 - Requesting https://media.asldeafined.com/vocabulary/1466649768.1620.mp4
+2026-03-19 16:00:32,967 - Finish downloading youtube video url https://www.youtube.com/watch?v=pDqITge_TGs
+2026-03-19 16:00:34,284 - gloss: bathroom, video: 05301.
+2026-03-19 16:00:34,284 - Requesting https://www.handspeak.com/word/b/bathroom2.mp4
+2026-03-19 16:00:34,711 - gloss: bathroom, video: 05302.
+2026-03-19 16:00:34,711 - Requesting https://www.handspeak.com/word/b/bathroom.mp4
+2026-03-19 16:00:42,493 - Unsuccessful downloading - video 01398
+2026-03-19 16:00:42,494 - gloss: bathroom, video: 05303.
+2026-03-19 16:00:42,494 - Requesting https://www.signingsavvy.com/signs/mp4/23/23911.mp4
+2026-03-19 16:00:42,496 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23911.mp4
+2026-03-19 16:00:42,496 - Requesting http://www.signingsavvy.com/signs/mp4/23/23911.mp4
+2026-03-19 16:00:42,497 - Unsuccessful downloading - video 05303
+2026-03-19 16:00:43,111 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2xdhyJEgXdI
+2026-03-19 16:00:43,704 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2xdhyJEgXdI
+2026-03-19 16:00:43,704 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:00:45,755 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=GSRwDBAFh70
+2026-03-19 16:00:46,347 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=GSRwDBAFh70
+2026-03-19 16:00:46,348 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:00:47,379 - gloss: bathroom, video: 65148.
+2026-03-19 16:00:47,379 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATHROOM-32.mp4
+2026-03-19 16:00:47,384 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATHROOM-32.mp4
+2026-03-19 16:00:47,384 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATHROOM-32.mp4
+2026-03-19 16:00:47,385 - Unsuccessful downloading - video 65148
+2026-03-19 16:00:47,994 - HTTPS failed, retrying with HTTP: https://youtu.be/cI3AyC9DfWQ
+2026-03-19 16:00:48,591 - Unsuccessful downloading - youtube video url https://youtu.be/cI3AyC9DfWQ
+2026-03-19 16:00:48,591 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:00:50,319 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=tk5XZhfgfcc
+2026-03-19 16:00:50,909 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=tk5XZhfgfcc
+2026-03-19 16:00:50,910 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:00:51,952 - gloss: bathroom, video: 05308.
+2026-03-19 16:00:51,953 - Requesting http://www.aslpro.com/main/b/bathroom_portable.swf
+2026-03-19 16:00:51,955 - Unsuccessful downloading - video 05308
+2026-03-19 16:00:51,955 - gloss: bathroom, video: 05309.
+2026-03-19 16:00:51,955 - Requesting http://www.aslpro.com/main/b/bathroom.swf
+2026-03-19 16:00:51,959 - Unsuccessful downloading - video 05309
+2026-03-19 16:00:51,959 - gloss: bathroom, video: 05310.
+2026-03-19 16:00:51,959 - Requesting http://www.aslsearch.com/signs/videos/bathroom.mp4
+2026-03-19 16:00:51,960 - Unsuccessful downloading - video 05310
+2026-03-19 16:00:51,960 - gloss: bathroom, video: 05297.
+2026-03-19 16:00:51,961 - Requesting https://media.spreadthesign.com/video/mp4/13/92604.mp4
+2026-03-19 16:00:51,963 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/92604.mp4
+2026-03-19 16:00:51,963 - Requesting http://media.spreadthesign.com/video/mp4/13/92604.mp4
+2026-03-19 16:00:51,965 - Unsuccessful downloading - video 05297
+2026-03-19 16:00:51,965 - gloss: bathroom, video: 05298.
+2026-03-19 16:00:51,965 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bathroom.mp4
+2026-03-19 16:00:51,966 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bathroom.mp4
+2026-03-19 16:00:51,966 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bathroom.mp4
+2026-03-19 16:00:51,967 - Unsuccessful downloading - video 05298
+2026-03-19 16:00:51,967 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:00:52,560 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=cdK1IiBMu_M
+2026-03-19 16:00:53,163 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=cdK1IiBMu_M
+2026-03-19 16:00:53,164 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:00:54,623 - YouTube videos https://www.youtube.com/watch?v=hjS0dQDgbjo already exists.
+2026-03-19 16:00:55,328 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=dVU0UNF7DEw
+2026-03-19 16:00:55,911 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dVU0UNF7DEw
+2026-03-19 16:00:55,911 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:00:57,731 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=NK9T1HlF3H4
+2026-03-19 16:00:58,315 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=NK9T1HlF3H4
+2026-03-19 16:00:58,315 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:00,378 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=NK9T1HlF3H4
+2026-03-19 16:01:00,980 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=NK9T1HlF3H4
+2026-03-19 16:01:00,981 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:02,238 - gloss: college, video: 11717.
+2026-03-19 16:01:02,238 - Requesting http://www.aslpro.com/main/c/college.swf
+2026-03-19 16:01:02,241 - Unsuccessful downloading - video 11717
+2026-03-19 16:01:02,241 - gloss: college, video: 65379.
+2026-03-19 16:01:02,241 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4
+2026-03-19 16:01:02,244 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4
+2026-03-19 16:01:02,244 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4
+2026-03-19 16:01:02,245 - Unsuccessful downloading - video 65379
+2026-03-19 16:01:02,245 - gloss: college, video: 11708.
+2026-03-19 16:01:02,245 - Requesting https://media.spreadthesign.com/video/mp4/13/58486.mp4
+2026-03-19 16:01:02,247 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/58486.mp4
+2026-03-19 16:01:02,247 - Requesting http://media.spreadthesign.com/video/mp4/13/58486.mp4
+2026-03-19 16:01:02,249 - Unsuccessful downloading - video 11708
+2026-03-19 16:01:02,848 - HTTPS failed, retrying with HTTP: https://youtu.be/H1Axlp1fLIU
+2026-03-19 16:01:03,434 - Unsuccessful downloading - youtube video url https://youtu.be/H1Axlp1fLIU
+2026-03-19 16:01:03,434 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:04,708 - gloss: college, video: 11718.
+2026-03-19 16:01:04,708 - Requesting http://www.aslsearch.com/signs/videos/college.mp4
+2026-03-19 16:01:04,712 - Unsuccessful downloading - video 11718
+2026-03-19 16:01:04,712 - gloss: college, video: 11709.
+2026-03-19 16:01:04,712 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/college.mp4
+2026-03-19 16:01:04,715 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/college.mp4
+2026-03-19 16:01:04,715 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/college.mp4
+2026-03-19 16:01:04,716 - Unsuccessful downloading - video 11709
+2026-03-19 16:01:04,716 - gloss: college, video: 11710.
+2026-03-19 16:01:04,716 - Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20College.mp4
+2026-03-19 16:01:04,718 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/SignSchool%20College.mp4
+2026-03-19 16:01:04,718 - Requesting http://signstock.blob.core.windows.net/signschool/videos/SignSchool%20College.mp4
+2026-03-19 16:01:04,719 - Unsuccessful downloading - video 11710
+2026-03-19 16:01:04,720 - gloss: college, video: 11711.
+2026-03-19 16:01:04,720 - Requesting https://media.asldeafined.com/vocabulary/1466899881.4501.mp4
+2026-03-19 16:01:04,721 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1466899881.4501.mp4
+2026-03-19 16:01:04,722 - Requesting http://media.asldeafined.com/vocabulary/1466899881.4501.mp4
+2026-03-19 16:01:04,723 - Unsuccessful downloading - video 11711
+2026-03-19 16:01:04,723 - gloss: college, video: 11712.
+2026-03-19 16:01:04,723 - Requesting https://www.handspeak.com/word/c/college.mp4
+2026-03-19 16:01:04,724 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/college.mp4
+2026-03-19 16:01:04,724 - Requesting http://www.handspeak.com/word/c/college.mp4
+2026-03-19 16:01:04,726 - Unsuccessful downloading - video 11712
+2026-03-19 16:01:04,726 - gloss: college, video: 11713.
+2026-03-19 16:01:04,727 - Requesting https://www.signingsavvy.com/signs/mp4/5/5794.mp4
+2026-03-19 16:01:04,728 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5794.mp4
+2026-03-19 16:01:04,728 - Requesting http://www.signingsavvy.com/signs/mp4/5/5794.mp4
+2026-03-19 16:01:04,730 - Unsuccessful downloading - video 11713
+2026-03-19 16:01:05,325 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=SiBub8VD5wo
+2026-03-19 16:01:05,913 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=SiBub8VD5wo
+2026-03-19 16:01:05,913 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:07,324 - gloss: home, video: 69366.
+2026-03-19 16:01:07,325 - Requesting http://aslbricks.org/New/ASL-Videos/home.mp4
+2026-03-19 16:01:07,328 - Unsuccessful downloading - video 69366
+2026-03-19 16:01:07,927 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=h5auyidvtSc
+2026-03-19 16:01:08,515 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=h5auyidvtSc
+2026-03-19 16:01:08,515 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:10,437 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=jDCw7stJaM4
+2026-03-19 16:01:11,027 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=jDCw7stJaM4
+2026-03-19 16:01:11,027 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:12,937 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=n0Xb58PVX_A
+2026-03-19 16:01:13,522 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=n0Xb58PVX_A
+2026-03-19 16:01:13,522 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:15,390 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=WSHD1XX7kWk
+2026-03-19 16:01:15,974 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=WSHD1XX7kWk
+2026-03-19 16:01:15,974 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:17,198 - gloss: home, video: 27774.
+2026-03-19 16:01:17,199 - Requesting http://www.aslpro.com/main/h/home.swf
+2026-03-19 16:01:17,202 - Unsuccessful downloading - video 27774
+2026-03-19 16:01:17,202 - gloss: home, video: 27765.
+2026-03-19 16:01:17,202 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/home.mov
+2026-03-19 16:01:17,204 - HTTPS failed, retrying with HTTP: http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/home.mov
+2026-03-19 16:01:17,204 - Requesting http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/home.mov
+2026-03-19 16:01:17,209 - Unsuccessful downloading - video 27765
+2026-03-19 16:01:17,812 - HTTPS failed, retrying with HTTP: https://youtu.be/kI8My8vQVXM
+2026-03-19 16:01:18,394 - Unsuccessful downloading - youtube video url https://youtu.be/kI8My8vQVXM
+2026-03-19 16:01:18,394 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:19,482 - gloss: home, video: 27775.
+2026-03-19 16:01:19,482 - Requesting http://www.aslsearch.com/signs/videos/residence.mp4
+2026-03-19 16:01:19,484 - Unsuccessful downloading - video 27775
+2026-03-19 16:01:19,484 - gloss: home, video: 27766.
+2026-03-19 16:01:19,485 - Requesting https://media.spreadthesign.com/video/mp4/13/58526.mp4
+2026-03-19 16:01:19,487 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/58526.mp4
+2026-03-19 16:01:19,487 - Requesting http://media.spreadthesign.com/video/mp4/13/58526.mp4
+2026-03-19 16:01:19,488 - Unsuccessful downloading - video 27766
+2026-03-19 16:01:19,488 - gloss: home, video: 27767.
+2026-03-19 16:01:19,488 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/home.mp4
+2026-03-19 16:01:19,492 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/home.mp4
+2026-03-19 16:01:19,492 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/home.mp4
+2026-03-19 16:01:19,494 - Unsuccessful downloading - video 27767
+2026-03-19 16:01:19,494 - gloss: home, video: 27768.
+2026-03-19 16:01:19,494 - Requesting https://media.asldeafined.com/vocabulary/1468581607.3342.mp4
+2026-03-19 16:01:19,496 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468581607.3342.mp4
+2026-03-19 16:01:19,496 - Requesting http://media.asldeafined.com/vocabulary/1468581607.3342.mp4
+2026-03-19 16:01:19,497 - Unsuccessful downloading - video 27768
+2026-03-19 16:01:19,497 - gloss: home, video: 27769.
+2026-03-19 16:01:19,497 - Requesting https://www.handspeak.com/word/h/home.mp4
+2026-03-19 16:01:19,499 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/h/home.mp4
+2026-03-19 16:01:19,499 - Requesting http://www.handspeak.com/word/h/home.mp4
+2026-03-19 16:01:19,500 - Unsuccessful downloading - video 27769
+2026-03-19 16:01:19,500 - gloss: home, video: 27770.
+2026-03-19 16:01:19,500 - Requesting https://www.signingsavvy.com/signs/mp4/7/7180.mp4
+2026-03-19 16:01:19,502 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7180.mp4
+2026-03-19 16:01:19,502 - Requesting http://www.signingsavvy.com/signs/mp4/7/7180.mp4
+2026-03-19 16:01:19,503 - Unsuccessful downloading - video 27770
+2026-03-19 16:01:20,159 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=mq0ygGcmFKY
+2026-03-19 16:01:20,749 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=mq0ygGcmFKY
+2026-03-19 16:01:20,749 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:21,936 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:01:21,936 - gloss: country, video: 13546.
+2026-03-19 16:01:21,936 - Requesting https://media.asldeafined.com/vocabulary/1466904058.6403.mp4
+2026-03-19 16:01:21,939 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1466904058.6403.mp4
+2026-03-19 16:01:21,940 - Requesting http://media.asldeafined.com/vocabulary/1466904058.6403.mp4
+2026-03-19 16:01:21,941 - Unsuccessful downloading - video 13546
+2026-03-19 16:01:21,941 - gloss: country, video: 13547.
+2026-03-19 16:01:21,941 - Requesting https://www.handspeak.com/word/c/country2.mp4
+2026-03-19 16:01:21,942 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/country2.mp4
+2026-03-19 16:01:21,942 - Requesting http://www.handspeak.com/word/c/country2.mp4
+2026-03-19 16:01:21,943 - Unsuccessful downloading - video 13547
+2026-03-19 16:01:21,943 - gloss: country, video: 13548.
+2026-03-19 16:01:21,943 - Requesting https://www.handspeak.com/word/c/country.mp4
+2026-03-19 16:01:21,948 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/country.mp4
+2026-03-19 16:01:21,948 - Requesting http://www.handspeak.com/word/c/country.mp4
+2026-03-19 16:01:21,949 - Unsuccessful downloading - video 13548
+2026-03-19 16:01:21,949 - gloss: country, video: 13549.
+2026-03-19 16:01:21,949 - Requesting https://www.signingsavvy.com/signs/mp4/23/23151.mp4
+2026-03-19 16:01:21,951 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23151.mp4
+2026-03-19 16:01:21,951 - Requesting http://www.signingsavvy.com/signs/mp4/23/23151.mp4
+2026-03-19 16:01:21,952 - Unsuccessful downloading - video 13549
+2026-03-19 16:01:21,952 - gloss: country, video: 13550.
+2026-03-19 16:01:21,952 - Requesting https://www.signingsavvy.com/signs/mp4/23/23277.mp4
+2026-03-19 16:01:21,953 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23277.mp4
+2026-03-19 16:01:21,953 - Requesting http://www.signingsavvy.com/signs/mp4/23/23277.mp4
+2026-03-19 16:01:21,954 - Unsuccessful downloading - video 13550
+2026-03-19 16:01:21,955 - gloss: country, video: 65414.
+2026-03-19 16:01:21,955 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNTRY-2558.mp4
+2026-03-19 16:01:21,956 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNTRY-2558.mp4
+2026-03-19 16:01:21,956 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNTRY-2558.mp4
+2026-03-19 16:01:21,957 - Unsuccessful downloading - video 65414
+2026-03-19 16:01:22,558 - HTTPS failed, retrying with HTTP: https://youtu.be/LDho1My2rLE
+2026-03-19 16:01:23,170 - Unsuccessful downloading - youtube video url https://youtu.be/LDho1My2rLE
+2026-03-19 16:01:23,170 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:24,931 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=YgCmE5kljQw
+2026-03-19 16:01:25,515 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=YgCmE5kljQw
+2026-03-19 16:01:25,515 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:26,658 - gloss: country, video: 13553.
+2026-03-19 16:01:26,659 - Requesting http://www.aslpro.com/main/c/country.swf
+2026-03-19 16:01:26,662 - Unsuccessful downloading - video 13553
+2026-03-19 16:01:26,663 - gloss: country, video: 13554.
+2026-03-19 16:01:26,663 - Requesting http://www.aslsearch.com/signs/videos/country2.mp4
+2026-03-19 16:01:26,665 - Unsuccessful downloading - video 13554
+2026-03-19 16:01:26,665 - gloss: country, video: 13555.
+2026-03-19 16:01:26,665 - Requesting http://www.aslsearch.com/signs/videos/country.mp4
+2026-03-19 16:01:26,668 - Unsuccessful downloading - video 13555
+2026-03-19 16:01:26,669 - gloss: country, video: 13543.
+2026-03-19 16:01:26,669 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/country.mov
+2026-03-19 16:01:26,671 - HTTPS failed, retrying with HTTP: http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/country.mov
+2026-03-19 16:01:26,671 - Requesting http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/country.mov
+2026-03-19 16:01:26,673 - Unsuccessful downloading - video 13543
+2026-03-19 16:01:26,673 - gloss: country, video: 13544.
+2026-03-19 16:01:26,673 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/country.mp4
+2026-03-19 16:01:26,675 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/country.mp4
+2026-03-19 16:01:26,675 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/country.mp4
+2026-03-19 16:01:26,676 - Unsuccessful downloading - video 13544
+2026-03-19 16:01:26,676 - gloss: country, video: 13545.
+2026-03-19 16:01:26,676 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Country-Htom5pC0IUU.mp4
+2026-03-19 16:01:26,678 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Country-Htom5pC0IUU.mp4
+2026-03-19 16:01:26,678 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Country-Htom5pC0IUU.mp4
+2026-03-19 16:01:26,679 - Unsuccessful downloading - video 13545
+2026-03-19 16:01:27,290 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=SiBub8VD5wo
+2026-03-19 16:01:27,872 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=SiBub8VD5wo
+2026-03-19 16:01:27,872 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:29,038 - gloss: here, video: 69365.
+2026-03-19 16:01:29,038 - Requesting http://aslbricks.org/New/ASL-Videos/here.mp4
+2026-03-19 16:01:29,040 - Unsuccessful downloading - video 69365
+2026-03-19 16:01:29,688 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=JBIstMmmHxI
+2026-03-19 16:01:30,272 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=JBIstMmmHxI
+2026-03-19 16:01:30,272 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:31,577 - Unsuccessful downloading - video 48520
+2026-03-19 16:01:31,754 - gloss: here, video: 27268.
+2026-03-19 16:01:31,754 - Requesting https://www.signingsavvy.com/signs/mp4/5/5873.mp4
+2026-03-19 16:01:31,756 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5873.mp4
+2026-03-19 16:01:31,756 - Requesting http://www.signingsavvy.com/signs/mp4/5/5873.mp4
+2026-03-19 16:01:31,757 - Unsuccessful downloading - video 27268
+2026-03-19 16:01:32,175 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=jx9_Ip1EXhA
+2026-03-19 16:01:32,349 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2dALbgMQWmk
+2026-03-19 16:01:32,652 - Unsuccessful downloading - video 10904
+2026-03-19 16:01:32,762 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=jx9_Ip1EXhA
+2026-03-19 16:01:32,762 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:32,940 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2dALbgMQWmk
+2026-03-19 16:01:32,940 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:33,245 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=qi1tgV5Fy5c
+2026-03-19 16:01:33,826 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=qi1tgV5Fy5c
+2026-03-19 16:01:33,826 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:34,182 - gloss: here, video: 27272.
+2026-03-19 16:01:34,182 - Requesting http://www.aslpro.com/main/h/here.swf
+2026-03-19 16:01:34,189 - Unsuccessful downloading - video 27272
+2026-03-19 16:01:34,190 - gloss: here, video: 65892.
+2026-03-19 16:01:34,190 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HERE-484.mp4
+2026-03-19 16:01:34,192 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HERE-484.mp4
+2026-03-19 16:01:34,192 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HERE-484.mp4
+2026-03-19 16:01:34,194 - Unsuccessful downloading - video 65892
+2026-03-19 16:01:34,194 - gloss: here, video: 27263.
+2026-03-19 16:01:34,194 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/here.mp4
+2026-03-19 16:01:34,196 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/here.mp4
+2026-03-19 16:01:34,196 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/here.mp4
+2026-03-19 16:01:34,197 - Unsuccessful downloading - video 27263
+2026-03-19 16:01:34,205 - gloss: here, video: 27273.
+2026-03-19 16:01:34,205 - Requesting http://www.aslsearch.com/signs/videos/here.mp4
+2026-03-19 16:01:34,209 - Unsuccessful downloading - video 27273
+2026-03-19 16:01:34,209 - gloss: here, video: 27264.
+2026-03-19 16:01:34,209 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Here-IxKduR6Lv4M.mp4
+2026-03-19 16:01:34,210 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Here-IxKduR6Lv4M.mp4
+2026-03-19 16:01:34,210 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Here-IxKduR6Lv4M.mp4
+2026-03-19 16:01:34,211 - Unsuccessful downloading - video 27264
+2026-03-19 16:01:34,211 - gloss: here, video: 27265.
+2026-03-19 16:01:34,212 - Requesting https://media.asldeafined.com/vocabulary/1468580742.7710.mp4
+2026-03-19 16:01:34,212 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468580742.7710.mp4
+2026-03-19 16:01:34,212 - Requesting http://media.asldeafined.com/vocabulary/1468580742.7710.mp4
+2026-03-19 16:01:34,214 - Unsuccessful downloading - video 27265
+2026-03-19 16:01:34,214 - gloss: here, video: 27267.
+2026-03-19 16:01:34,214 - Requesting https://www.handspeak.com/word/h/here.mp4
+2026-03-19 16:01:34,215 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/h/here.mp4
+2026-03-19 16:01:34,215 - Requesting http://www.handspeak.com/word/h/here.mp4
+2026-03-19 16:01:34,216 - Unsuccessful downloading - video 27267
+2026-03-19 16:01:34,807 - HTTPS failed, retrying with HTTP: https://youtu.be/e7ckmRr2la0
+2026-03-19 16:01:34,818 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=K1VPkuTMpP0
+2026-03-19 16:01:35,402 - Unsuccessful downloading - youtube video url https://youtu.be/e7ckmRr2la0
+2026-03-19 16:01:35,402 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:35,414 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=K1VPkuTMpP0
+2026-03-19 16:01:35,414 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:35,490 - Unsuccessful downloading - video 48521
+2026-03-19 16:01:35,491 - gloss: office, video: 39460.
+2026-03-19 16:01:35,491 - Requesting https://media.asldeafined.com/vocabulary/1468721107.3632.mp4
+2026-03-19 16:01:35,495 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468721107.3632.mp4
+2026-03-19 16:01:35,496 - Requesting http://media.asldeafined.com/vocabulary/1468721107.3632.mp4
+2026-03-19 16:01:35,497 - Unsuccessful downloading - video 39460
+2026-03-19 16:01:35,497 - gloss: office, video: 39461.
+2026-03-19 16:01:35,497 - Requesting https://www.handspeak.com/word/o/office.mp4
+2026-03-19 16:01:35,498 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/o/office.mp4
+2026-03-19 16:01:35,498 - Requesting http://www.handspeak.com/word/o/office.mp4
+2026-03-19 16:01:35,499 - Unsuccessful downloading - video 39461
+2026-03-19 16:01:35,499 - gloss: office, video: 39462.
+2026-03-19 16:01:35,499 - Requesting https://www.signingsavvy.com/signs/mp4/24/24017.mp4
+2026-03-19 16:01:35,500 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/24/24017.mp4
+2026-03-19 16:01:35,500 - Requesting http://www.signingsavvy.com/signs/mp4/24/24017.mp4
+2026-03-19 16:01:35,501 - Unsuccessful downloading - video 39462
+2026-03-19 16:01:35,501 - gloss: office, video: 39463.
+2026-03-19 16:01:35,501 - Requesting https://www.signingsavvy.com/signs/mp4/24/24018.mp4
+2026-03-19 16:01:35,502 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/24/24018.mp4
+2026-03-19 16:01:35,502 - Requesting http://www.signingsavvy.com/signs/mp4/24/24018.mp4
+2026-03-19 16:01:35,503 - Unsuccessful downloading - video 39463
+2026-03-19 16:01:35,602 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=QaDFIVUzgHA
+2026-03-19 16:01:36,094 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=U9VrfCdyVGw
+2026-03-19 16:01:36,189 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QaDFIVUzgHA
+2026-03-19 16:01:36,189 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:36,452 - gloss: office, video: 66224.
+2026-03-19 16:01:36,452 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OF/OFFICE-1549.mp4
+2026-03-19 16:01:36,454 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OF/OFFICE-1549.mp4
+2026-03-19 16:01:36,454 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OF/OFFICE-1549.mp4
+2026-03-19 16:01:36,456 - Unsuccessful downloading - video 66224
+2026-03-19 16:01:36,456 - gloss: office, video: 39456.
+2026-03-19 16:01:36,456 - Requesting https://media.spreadthesign.com/video/mp4/13/63553.mp4
+2026-03-19 16:01:36,457 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/63553.mp4
+2026-03-19 16:01:36,457 - Requesting http://media.spreadthesign.com/video/mp4/13/63553.mp4
+2026-03-19 16:01:36,458 - Unsuccessful downloading - video 39456
+2026-03-19 16:01:36,506 - gloss: office, video: 39467.
+2026-03-19 16:01:36,507 - Requesting http://www.aslpro.com/main/o/office.swf
+2026-03-19 16:01:36,509 - Unsuccessful downloading - video 39467
+2026-03-19 16:01:36,509 - gloss: office, video: 39468.
+2026-03-19 16:01:36,509 - Requesting http://www.aslsearch.com/signs/videos/office.mp4
+2026-03-19 16:01:36,514 - Unsuccessful downloading - video 39468
+2026-03-19 16:01:36,514 - gloss: office, video: 39457.
+2026-03-19 16:01:36,514 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/office.mp4
+2026-03-19 16:01:36,515 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/office.mp4
+2026-03-19 16:01:36,515 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/office.mp4
+2026-03-19 16:01:36,516 - Unsuccessful downloading - video 39457
+2026-03-19 16:01:36,516 - gloss: office, video: 39458.
+2026-03-19 16:01:36,516 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Office%20opposite-mKds_4EoIUI.mp4
+2026-03-19 16:01:36,517 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Office%20opposite-mKds_4EoIUI.mp4
+2026-03-19 16:01:36,517 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Office%20opposite-mKds_4EoIUI.mp4
+2026-03-19 16:01:36,518 - Unsuccessful downloading - video 39458
+2026-03-19 16:01:36,518 - gloss: office, video: 39459.
+2026-03-19 16:01:36,518 - Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Office.mp4
+2026-03-19 16:01:36,519 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Office.mp4
+2026-03-19 16:01:36,519 - Requesting http://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Office.mp4
+2026-03-19 16:01:36,520 - Unsuccessful downloading - video 39459
+2026-03-19 16:01:36,687 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=U9VrfCdyVGw
+2026-03-19 16:01:36,687 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:37,051 - HTTPS failed, retrying with HTTP: https://youtu.be/MbOXIeK-SPo
+2026-03-19 16:01:37,116 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=zHd4YEFzpwE
+2026-03-19 16:01:37,258 - gloss: party, video: 41315.
+2026-03-19 16:01:37,258 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Party-OZ1Ap6C6tVk.mp4
+2026-03-19 16:01:37,260 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Party-OZ1Ap6C6tVk.mp4
+2026-03-19 16:01:37,260 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Party-OZ1Ap6C6tVk.mp4
+2026-03-19 16:01:37,261 - Unsuccessful downloading - video 41315
+2026-03-19 16:01:37,261 - gloss: party, video: 41316.
+2026-03-19 16:01:37,262 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Play-TvZ8pfNOX2U.mp4
+2026-03-19 16:01:37,262 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Play-TvZ8pfNOX2U.mp4
+2026-03-19 16:01:37,262 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Play-TvZ8pfNOX2U.mp4
+2026-03-19 16:01:37,263 - Unsuccessful downloading - video 41316
+2026-03-19 16:01:37,263 - gloss: party, video: 41317.
+2026-03-19 16:01:37,263 - Requesting https://media.asldeafined.com/vocabulary/1468724131.6734.mp4
+2026-03-19 16:01:37,264 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468724131.6734.mp4
+2026-03-19 16:01:37,264 - Requesting http://media.asldeafined.com/vocabulary/1468724131.6734.mp4
+2026-03-19 16:01:37,265 - Unsuccessful downloading - video 41317
+2026-03-19 16:01:37,265 - gloss: party, video: 41318.
+2026-03-19 16:01:37,265 - Requesting https://www.handspeak.com/word/p/party2.mp4
+2026-03-19 16:01:37,266 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/p/party2.mp4
+2026-03-19 16:01:37,266 - Requesting http://www.handspeak.com/word/p/party2.mp4
+2026-03-19 16:01:37,267 - Unsuccessful downloading - video 41318
+2026-03-19 16:01:37,267 - gloss: party, video: 41320.
+2026-03-19 16:01:37,267 - Requesting https://www.handspeak.com/word/p/party.mp4
+2026-03-19 16:01:37,268 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/p/party.mp4
+2026-03-19 16:01:37,268 - Requesting http://www.handspeak.com/word/p/party.mp4
+2026-03-19 16:01:37,269 - Unsuccessful downloading - video 41320
+2026-03-19 16:01:37,269 - gloss: party, video: 66265.
+2026-03-19 16:01:37,269 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-874.mp4
+2026-03-19 16:01:37,270 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-874.mp4
+2026-03-19 16:01:37,270 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-874.mp4
+2026-03-19 16:01:37,270 - Unsuccessful downloading - video 66265
+2026-03-19 16:01:37,270 - gloss: party, video: 66266.
+2026-03-19 16:01:37,270 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-875.mp4
+2026-03-19 16:01:37,271 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-875.mp4
+2026-03-19 16:01:37,271 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-875.mp4
+2026-03-19 16:01:37,272 - Unsuccessful downloading - video 66266
+2026-03-19 16:01:37,272 - gloss: party, video: 41311.
+2026-03-19 16:01:37,272 - Requesting https://media.spreadthesign.com/video/mp4/13/457609.mp4
+2026-03-19 16:01:37,273 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/457609.mp4
+2026-03-19 16:01:37,273 - Requesting http://media.spreadthesign.com/video/mp4/13/457609.mp4
+2026-03-19 16:01:37,273 - Unsuccessful downloading - video 41311
+2026-03-19 16:01:37,273 - gloss: party, video: 41321.
+2026-03-19 16:01:37,273 - Requesting https://www.signingsavvy.com/signs/mp4/6/6693.mp4
+2026-03-19 16:01:37,274 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6693.mp4
+2026-03-19 16:01:37,274 - Requesting http://www.signingsavvy.com/signs/mp4/6/6693.mp4
+2026-03-19 16:01:37,275 - Unsuccessful downloading - video 41321
+2026-03-19 16:01:37,275 - gloss: party, video: 41322.
+2026-03-19 16:01:37,275 - Requesting https://www.signingsavvy.com/signs/mp4/6/6694.mp4
+2026-03-19 16:01:37,276 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6694.mp4
+2026-03-19 16:01:37,276 - Requesting http://www.signingsavvy.com/signs/mp4/6/6694.mp4
+2026-03-19 16:01:37,277 - Unsuccessful downloading - video 41322
+2026-03-19 16:01:37,642 - Unsuccessful downloading - youtube video url https://youtu.be/MbOXIeK-SPo
+2026-03-19 16:01:37,642 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:37,709 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=zHd4YEFzpwE
+2026-03-19 16:01:37,709 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:37,865 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=FGiQuEgK2s0
+2026-03-19 16:01:38,047 - gloss: party, video: 41324.
+2026-03-19 16:01:38,047 - Requesting http://www.aslpro.com/main/p/party.swf
+2026-03-19 16:01:38,049 - Unsuccessful downloading - video 41324
+2026-03-19 16:01:38,049 - gloss: party, video: 41325.
+2026-03-19 16:01:38,049 - Requesting http://www.aslsearch.com/signs/videos/party.mp4
+2026-03-19 16:01:38,050 - Unsuccessful downloading - video 41325
+2026-03-19 16:01:38,050 - gloss: party, video: 41312.
+2026-03-19 16:01:38,050 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/party.mp4
+2026-03-19 16:01:38,052 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/party.mp4
+2026-03-19 16:01:38,052 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/party.mp4
+2026-03-19 16:01:38,053 - Unsuccessful downloading - video 41312
+2026-03-19 16:01:38,053 - YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+2026-03-19 16:01:38,451 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=FGiQuEgK2s0
+2026-03-19 16:01:38,451 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:38,644 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=F5Wef1_PtLk
+2026-03-19 16:01:39,002 - gloss: restaurant, video: 47661.
+2026-03-19 16:01:39,002 - Requesting https://www.signingsavvy.com/signs/mp4/22/22673.mp4
+2026-03-19 16:01:39,004 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/22/22673.mp4
+2026-03-19 16:01:39,005 - Requesting http://www.signingsavvy.com/signs/mp4/22/22673.mp4
+2026-03-19 16:01:39,006 - Unsuccessful downloading - video 47661
+2026-03-19 16:01:39,234 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=F5Wef1_PtLk
+2026-03-19 16:01:39,235 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:39,483 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=WjAntLANPAE
+2026-03-19 16:01:39,598 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=4Mr8Op72wR4
+2026-03-19 16:01:40,079 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=WjAntLANPAE
+2026-03-19 16:01:40,079 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:40,187 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=4Mr8Op72wR4
+2026-03-19 16:01:40,187 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:40,310 - gloss: restaurant, video: 66398.
+2026-03-19 16:01:40,311 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESTAURANT-969.mp4
+2026-03-19 16:01:40,313 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESTAURANT-969.mp4
+2026-03-19 16:01:40,313 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESTAURANT-969.mp4
+2026-03-19 16:01:40,315 - Unsuccessful downloading - video 66398
+2026-03-19 16:01:40,376 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=oH72yDS3Lok
+2026-03-19 16:01:40,924 - HTTPS failed, retrying with HTTP: https://youtu.be/ga1SpOcX4_4
+2026-03-19 16:01:40,994 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=oH72yDS3Lok
+2026-03-19 16:01:40,994 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:41,424 - gloss: restaurant, video: 47665.
+2026-03-19 16:01:41,424 - Requesting http://www.aslpro.com/main/r/restaurant.swf
+2026-03-19 16:01:41,427 - Unsuccessful downloading - video 47665
+2026-03-19 16:01:41,427 - gloss: restaurant, video: 47666.
+2026-03-19 16:01:41,427 - Requesting http://www.aslsearch.com/signs/videos/restaurant.mp4
+2026-03-19 16:01:41,428 - Unsuccessful downloading - video 47666
+2026-03-19 16:01:41,428 - gloss: restaurant, video: 47656.
+2026-03-19 16:01:41,428 - Requesting https://media.spreadthesign.com/video/mp4/13/50756.mp4
+2026-03-19 16:01:41,429 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/50756.mp4
+2026-03-19 16:01:41,429 - Requesting http://media.spreadthesign.com/video/mp4/13/50756.mp4
+2026-03-19 16:01:41,430 - Unsuccessful downloading - video 47656
+2026-03-19 16:01:41,430 - gloss: restaurant, video: 47657.
+2026-03-19 16:01:41,430 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/restaurant.mp4
+2026-03-19 16:01:41,431 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/restaurant.mp4
+2026-03-19 16:01:41,431 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/restaurant.mp4
+2026-03-19 16:01:41,432 - Unsuccessful downloading - video 47657
+2026-03-19 16:01:41,432 - gloss: restaurant, video: 47658.
+2026-03-19 16:01:41,432 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Restaurant%202-uv8d_492XI0.mp4
+2026-03-19 16:01:41,433 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Restaurant%202-uv8d_492XI0.mp4
+2026-03-19 16:01:41,433 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Restaurant%202-uv8d_492XI0.mp4
+2026-03-19 16:01:41,434 - Unsuccessful downloading - video 47658
+2026-03-19 16:01:41,434 - gloss: restaurant, video: 47659.
+2026-03-19 16:01:41,434 - Requesting https://media.asldeafined.com/vocabulary/1468760497.4726.mp4
+2026-03-19 16:01:41,436 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468760497.4726.mp4
+2026-03-19 16:01:41,436 - Requesting http://media.asldeafined.com/vocabulary/1468760497.4726.mp4
+2026-03-19 16:01:41,436 - Unsuccessful downloading - video 47659
+2026-03-19 16:01:41,436 - gloss: restaurant, video: 47660.
+2026-03-19 16:01:41,437 - Requesting https://www.handspeak.com/word/r/restaurant.mp4
+2026-03-19 16:01:41,437 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/r/restaurant.mp4
+2026-03-19 16:01:41,437 - Requesting http://www.handspeak.com/word/r/restaurant.mp4
+2026-03-19 16:01:41,438 - Unsuccessful downloading - video 47660
+2026-03-19 16:01:41,438 - YouTube videos https://www.youtube.com/watch?v=Qc7Dc_qF5NI already exists.
+2026-03-19 16:01:41,438 - gloss: russia, video: 48901.
+2026-03-19 16:01:41,438 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%202-74OAafnvKs0.mp4
+2026-03-19 16:01:41,439 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%202-74OAafnvKs0.mp4
+2026-03-19 16:01:41,439 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%202-74OAafnvKs0.mp4
+2026-03-19 16:01:41,440 - Unsuccessful downloading - video 48901
+2026-03-19 16:01:41,440 - gloss: russia, video: 48902.
+2026-03-19 16:01:41,440 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%203-6S4H3Nl14Dw.mp4
+2026-03-19 16:01:41,441 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%203-6S4H3Nl14Dw.mp4
+2026-03-19 16:01:41,441 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%203-6S4H3Nl14Dw.mp4
+2026-03-19 16:01:41,442 - Unsuccessful downloading - video 48902
+2026-03-19 16:01:41,442 - gloss: russia, video: 48903.
+2026-03-19 16:01:41,442 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia-xJKc-LqcgFA.mp4
+2026-03-19 16:01:41,443 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia-xJKc-LqcgFA.mp4
+2026-03-19 16:01:41,443 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia-xJKc-LqcgFA.mp4
+2026-03-19 16:01:41,443 - Unsuccessful downloading - video 48903
+2026-03-19 16:01:41,443 - gloss: russia, video: 48904.
+2026-03-19 16:01:41,443 - Requesting https://media.asldeafined.com/vocabulary/1512918340.9089.mp4
+2026-03-19 16:01:41,444 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1512918340.9089.mp4
+2026-03-19 16:01:41,444 - Requesting http://media.asldeafined.com/vocabulary/1512918340.9089.mp4
+2026-03-19 16:01:41,445 - Unsuccessful downloading - video 48904
+2026-03-19 16:01:41,445 - gloss: russia, video: 48905.
+2026-03-19 16:01:41,445 - Requesting https://www.handspeak.com/word/r/russia.mp4
+2026-03-19 16:01:41,447 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/r/russia.mp4
+2026-03-19 16:01:41,447 - Requesting http://www.handspeak.com/word/r/russia.mp4
+2026-03-19 16:01:41,448 - Unsuccessful downloading - video 48905
+2026-03-19 16:01:41,448 - gloss: russia, video: 48907.
+2026-03-19 16:01:41,449 - Requesting https://www.signingsavvy.com/signs/mp4/7/7790.mp4
+2026-03-19 16:01:41,450 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7790.mp4
+2026-03-19 16:01:41,450 - Requesting http://www.signingsavvy.com/signs/mp4/7/7790.mp4
+2026-03-19 16:01:41,450 - Unsuccessful downloading - video 48907
+2026-03-19 16:01:41,517 - Unsuccessful downloading - youtube video url https://youtu.be/ga1SpOcX4_4
+2026-03-19 16:01:41,517 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:41,567 - gloss: russia, video: 48908.
+2026-03-19 16:01:41,567 - Requesting https://www.signingsavvy.com/signs/mp4/7/7791.mp4
+2026-03-19 16:01:41,572 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7791.mp4
+2026-03-19 16:01:41,572 - Requesting http://www.signingsavvy.com/signs/mp4/7/7791.mp4
+2026-03-19 16:01:41,573 - Unsuccessful downloading - video 48908
+2026-03-19 16:01:42,044 - HTTPS failed, retrying with HTTP: https://youtu.be/Qk47GZjGbZY
+2026-03-19 16:01:42,168 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=-4OKviVsO7s
+2026-03-19 16:01:42,637 - Unsuccessful downloading - youtube video url https://youtu.be/Qk47GZjGbZY
+2026-03-19 16:01:42,637 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:42,778 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=-4OKviVsO7s
+2026-03-19 16:01:42,779 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:43,140 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=GCAlZ4gijEc
+2026-03-19 16:01:43,312 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=YSAX7AP-JW4
+2026-03-19 16:01:43,730 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=GCAlZ4gijEc
+2026-03-19 16:01:43,730 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:43,908 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=YSAX7AP-JW4
+2026-03-19 16:01:43,908 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:44,001 - gloss: russia, video: 48912.
+2026-03-19 16:01:44,002 - Requesting http://www.aslpro.com/main/r/russia.swf
+2026-03-19 16:01:44,004 - Unsuccessful downloading - video 48912
+2026-03-19 16:01:44,004 - gloss: russia, video: 48913.
+2026-03-19 16:01:44,004 - Requesting http://www.aslsearch.com/signs/videos/russia.mp4
+2026-03-19 16:01:44,005 - Unsuccessful downloading - video 48913
+2026-03-19 16:01:44,005 - gloss: russia, video: 48899.
+2026-03-19 16:01:44,005 - Requesting https://media.spreadthesign.com/video/mp4/13/455370.mp4
+2026-03-19 16:01:44,007 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/455370.mp4
+2026-03-19 16:01:44,007 - Requesting http://media.spreadthesign.com/video/mp4/13/455370.mp4
+2026-03-19 16:01:44,008 - Unsuccessful downloading - video 48899
+2026-03-19 16:01:44,009 - YouTube videos https://www.youtube.com/watch?v=XB3Q6IX6CBo already exists.
+2026-03-19 16:01:44,127 - gloss: south, video: 53488.
+2026-03-19 16:01:44,127 - Requesting https://www.signingsavvy.com/signs/mp4/6/6861.mp4
+2026-03-19 16:01:44,129 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6861.mp4
+2026-03-19 16:01:44,129 - Requesting http://www.signingsavvy.com/signs/mp4/6/6861.mp4
+2026-03-19 16:01:44,130 - Unsuccessful downloading - video 53488
+2026-03-19 16:01:44,594 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2DblIQ5n6xk
+2026-03-19 16:01:44,717 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=Of670lCy0dI
+2026-03-19 16:01:45,193 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2DblIQ5n6xk
+2026-03-19 16:01:45,193 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:45,313 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Of670lCy0dI
+2026-03-19 16:01:45,313 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:45,390 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=SaBd7wv9_0k
+2026-03-19 16:01:45,627 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=Y9sgSdYk--A
+2026-03-19 16:01:45,981 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=SaBd7wv9_0k
+2026-03-19 16:01:45,981 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:46,202 - gloss: south, video: 53482.
+2026-03-19 16:01:46,202 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/south.mov
+2026-03-19 16:01:46,204 - HTTPS failed, retrying with HTTP: http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/south.mov
+2026-03-19 16:01:46,204 - Requesting http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/south.mov
+2026-03-19 16:01:46,207 - Unsuccessful downloading - video 53482
+2026-03-19 16:01:46,218 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Y9sgSdYk--A
+2026-03-19 16:01:46,219 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:46,585 - gloss: south, video: 53492.
+2026-03-19 16:01:46,586 - Requesting http://www.aslpro.com/main/s/south.swf
+2026-03-19 16:01:46,587 - Unsuccessful downloading - video 53492
+2026-03-19 16:01:46,587 - gloss: south, video: 53493.
+2026-03-19 16:01:46,587 - Requesting http://www.aslsearch.com/signs/videos/south.mp4
+2026-03-19 16:01:46,588 - Unsuccessful downloading - video 53493
+2026-03-19 16:01:46,588 - gloss: south, video: 53483.
+2026-03-19 16:01:46,588 - Requesting https://media.spreadthesign.com/video/mp4/13/63581.mp4
+2026-03-19 16:01:46,589 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/63581.mp4
+2026-03-19 16:01:46,589 - Requesting http://media.spreadthesign.com/video/mp4/13/63581.mp4
+2026-03-19 16:01:46,590 - Unsuccessful downloading - video 53483
+2026-03-19 16:01:46,590 - gloss: south, video: 53484.
+2026-03-19 16:01:46,590 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/south.mp4
+2026-03-19 16:01:46,591 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/south.mp4
+2026-03-19 16:01:46,591 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/south.mp4
+2026-03-19 16:01:46,591 - Unsuccessful downloading - video 53484
+2026-03-19 16:01:46,591 - gloss: south, video: 53485.
+2026-03-19 16:01:46,592 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20South-_HBJaYxZG2Q.mp4
+2026-03-19 16:01:46,592 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20South-_HBJaYxZG2Q.mp4
+2026-03-19 16:01:46,592 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20South-_HBJaYxZG2Q.mp4
+2026-03-19 16:01:46,593 - Unsuccessful downloading - video 53485
+2026-03-19 16:01:46,594 - gloss: south, video: 53486.
+2026-03-19 16:01:46,594 - Requesting https://media.asldeafined.com/vocabulary/1468842043.2402.mp4
+2026-03-19 16:01:46,595 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468842043.2402.mp4
+2026-03-19 16:01:46,595 - Requesting http://media.asldeafined.com/vocabulary/1468842043.2402.mp4
+2026-03-19 16:01:46,596 - Unsuccessful downloading - video 53486
+2026-03-19 16:01:46,596 - gloss: south, video: 53487.
+2026-03-19 16:01:46,596 - Requesting https://www.handspeak.com/word/s/south.mp4
+2026-03-19 16:01:46,596 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/s/south.mp4
+2026-03-19 16:01:46,596 - Requesting http://www.handspeak.com/word/s/south.mp4
+2026-03-19 16:01:46,597 - Unsuccessful downloading - video 53487
+2026-03-19 16:01:46,800 - HTTPS failed, retrying with HTTP: https://youtu.be/0Q2GygbNlro
+2026-03-19 16:01:47,185 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=A5dihMAjeTE
+2026-03-19 16:01:47,389 - Unsuccessful downloading - youtube video url https://youtu.be/0Q2GygbNlro
+2026-03-19 16:01:47,390 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:47,776 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=A5dihMAjeTE
+2026-03-19 16:01:47,776 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:48,068 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=1IJ6oVm6x-w
+2026-03-19 16:01:48,147 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=WlHOl9zIUpE
+2026-03-19 16:01:48,619 - gloss: where, video: 63087.
+2026-03-19 16:01:48,619 - Requesting https://www.signingsavvy.com/signs/mp4/14/14587.mp4
+2026-03-19 16:01:48,622 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/14/14587.mp4
+2026-03-19 16:01:48,622 - Requesting http://www.signingsavvy.com/signs/mp4/14/14587.mp4
+2026-03-19 16:01:48,623 - Unsuccessful downloading - video 63087
+2026-03-19 16:01:48,664 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=1IJ6oVm6x-w
+2026-03-19 16:01:48,664 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:48,736 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=WlHOl9zIUpE
+2026-03-19 16:01:48,736 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:49,219 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=p476xgjJAZE
+2026-03-19 16:01:49,675 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=p476xgjJAZE
+2026-03-19 16:01:49,715 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/bathroom.mp4
+2026-03-19 16:01:49,715 - Requesting http://www.handspeak.com/word/b/bathroom.mp4
+2026-03-19 16:01:49,717 - Unsuccessful downloading - video 05302
+2026-03-19 16:01:49,717 - gloss: where, video: 63090.
+2026-03-19 16:01:49,717 - Requesting http://www.aslpro.com/main/w/where.swf
+2026-03-19 16:01:49,718 - Unsuccessful downloading - video 63090
+2026-03-19 16:01:49,719 - gloss: where, video: 66774.
+2026-03-19 16:01:49,719 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHERE-1427.mp4
+2026-03-19 16:01:49,720 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHERE-1427.mp4
+2026-03-19 16:01:49,720 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHERE-1427.mp4
+2026-03-19 16:01:49,721 - Unsuccessful downloading - video 66774
+2026-03-19 16:01:49,721 - gloss: where, video: 63081.
+2026-03-19 16:01:49,721 - Requesting https://media.spreadthesign.com/video/mp4/13/51067.mp4
+2026-03-19 16:01:49,722 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/51067.mp4
+2026-03-19 16:01:49,722 - Requesting http://media.spreadthesign.com/video/mp4/13/51067.mp4
+2026-03-19 16:01:49,723 - Unsuccessful downloading - video 63081
+2026-03-19 16:01:49,813 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=p476xgjJAZE
+2026-03-19 16:01:49,813 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:49,975 - gloss: where, video: 63091.
+2026-03-19 16:01:49,975 - Requesting http://www.aslsearch.com/signs/videos/where.mp4
+2026-03-19 16:01:49,980 - Unsuccessful downloading - video 63091
+2026-03-19 16:01:49,980 - gloss: where, video: 63082.
+2026-03-19 16:01:49,980 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/where.mp4
+2026-03-19 16:01:49,982 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/where.mp4
+2026-03-19 16:01:49,982 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/where.mp4
+2026-03-19 16:01:49,983 - Unsuccessful downloading - video 63082
+2026-03-19 16:01:49,983 - gloss: where, video: 63083.
+2026-03-19 16:01:49,983 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20where-LSM0sp4VCz4.mp4
+2026-03-19 16:01:49,984 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20where-LSM0sp4VCz4.mp4
+2026-03-19 16:01:49,984 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20where-LSM0sp4VCz4.mp4
+2026-03-19 16:01:49,985 - Unsuccessful downloading - video 63083
+2026-03-19 16:01:49,985 - gloss: where, video: 63084.
+2026-03-19 16:01:49,985 - Requesting https://media.asldeafined.com/vocabulary/1468928023.2600.mp4
+2026-03-19 16:01:49,986 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468928023.2600.mp4
+2026-03-19 16:01:49,986 - Requesting http://media.asldeafined.com/vocabulary/1468928023.2600.mp4
+2026-03-19 16:01:49,987 - Unsuccessful downloading - video 63084
+2026-03-19 16:01:49,987 - gloss: where, video: 63085.
+2026-03-19 16:01:49,987 - Requesting https://www.handspeak.com/word/w/where2.mp4
+2026-03-19 16:01:49,988 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/w/where2.mp4
+2026-03-19 16:01:49,988 - Requesting http://www.handspeak.com/word/w/where2.mp4
+2026-03-19 16:01:49,989 - Unsuccessful downloading - video 63085
+2026-03-19 16:01:49,989 - YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+2026-03-19 16:01:49,989 - gloss: behind, video: 05805.
+2026-03-19 16:01:49,989 - Requesting https://www.handspeak.com/word/b/behind-delay.mp4
+2026-03-19 16:01:49,990 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/behind-delay.mp4
+2026-03-19 16:01:49,990 - Requesting http://www.handspeak.com/word/b/behind-delay.mp4
+2026-03-19 16:01:49,991 - Unsuccessful downloading - video 05805
+2026-03-19 16:01:49,991 - gloss: behind, video: 05806.
+2026-03-19 16:01:49,991 - Requesting https://www.handspeak.com/word/b/behind.mp4
+2026-03-19 16:01:49,992 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/behind.mp4
+2026-03-19 16:01:49,992 - Requesting http://www.handspeak.com/word/b/behind.mp4
+2026-03-19 16:01:49,995 - Unsuccessful downloading - video 05806
+2026-03-19 16:01:49,995 - gloss: behind, video: 05808.
+2026-03-19 16:01:49,995 - Requesting https://www.signingsavvy.com/signs/mp4/8/8585.mp4
+2026-03-19 16:01:49,997 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/8/8585.mp4
+2026-03-19 16:01:49,997 - Requesting http://www.signingsavvy.com/signs/mp4/8/8585.mp4
+2026-03-19 16:01:49,998 - Unsuccessful downloading - video 05808
+2026-03-19 16:01:50,276 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=p476xgjJAZE
+2026-03-19 16:01:50,276 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:50,326 - HTTPS failed, retrying with HTTP: https://youtu.be/Mrb2M9RV_KM
+2026-03-19 16:01:50,602 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=l2fU_9FofrE
+2026-03-19 16:01:50,641 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=r4ENXb64bwY
+2026-03-19 16:01:50,915 - Unsuccessful downloading - youtube video url https://youtu.be/Mrb2M9RV_KM
+2026-03-19 16:01:50,915 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:51,126 - gloss: behind, video: 65169.
+2026-03-19 16:01:51,127 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEHIND-38.mp4
+2026-03-19 16:01:51,129 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEHIND-38.mp4
+2026-03-19 16:01:51,129 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEHIND-38.mp4
+2026-03-19 16:01:51,130 - Unsuccessful downloading - video 65169
+2026-03-19 16:01:51,130 - gloss: behind, video: 05803.
+2026-03-19 16:01:51,130 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Behind-UEemVJCWpq0.mp4
+2026-03-19 16:01:51,131 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Behind-UEemVJCWpq0.mp4
+2026-03-19 16:01:51,131 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Behind-UEemVJCWpq0.mp4
+2026-03-19 16:01:51,132 - Unsuccessful downloading - video 05803
+2026-03-19 16:01:51,196 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=l2fU_9FofrE
+2026-03-19 16:01:51,196 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:51,232 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=r4ENXb64bwY
+2026-03-19 16:01:51,232 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:51,730 - HTTPS failed, retrying with HTTP: https://youtu.be/Qw59mUm6ioU
+2026-03-19 16:01:51,940 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=v13foapJy8M
+2026-03-19 16:01:52,317 - Unsuccessful downloading - youtube video url https://youtu.be/Qw59mUm6ioU
+2026-03-19 16:01:52,317 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:52,399 - gloss: behind, video: 05815.
+2026-03-19 16:01:52,400 - Requesting http://www.aslpro.com/main/b/behind.swf
+2026-03-19 16:01:52,401 - Unsuccessful downloading - video 05815
+2026-03-19 16:01:52,402 - gloss: behind, video: 05816.
+2026-03-19 16:01:52,402 - Requesting http://www.aslsearch.com/signs/videos/behind3.mp4
+2026-03-19 16:01:52,403 - Unsuccessful downloading - video 05816
+2026-03-19 16:01:52,403 - gloss: behind, video: 05804.
+2026-03-19 16:01:52,403 - Requesting https://media.asldeafined.com/vocabulary/1466681482.5953.mp4
+2026-03-19 16:01:52,404 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1466681482.5953.mp4
+2026-03-19 16:01:52,404 - Requesting http://media.asldeafined.com/vocabulary/1466681482.5953.mp4
+2026-03-19 16:01:52,404 - Unsuccessful downloading - video 05804
+2026-03-19 16:01:52,524 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=v13foapJy8M
+2026-03-19 16:01:52,524 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:52,576 - gloss: east, video: 18294.
+2026-03-19 16:01:52,577 - Requesting https://www.signingsavvy.com/signs/mp4/6/6863.mp4
+2026-03-19 16:01:52,580 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6863.mp4
+2026-03-19 16:01:52,580 - Requesting http://www.signingsavvy.com/signs/mp4/6/6863.mp4
+2026-03-19 16:01:52,581 - Unsuccessful downloading - video 18294
+2026-03-19 16:01:52,987 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=v13foapJy8M
+2026-03-19 16:01:53,000 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2oaCeSdHG-A
+2026-03-19 16:01:53,177 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=__LSIH5Z5t0
+2026-03-19 16:01:53,601 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=v13foapJy8M
+2026-03-19 16:01:53,602 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:53,602 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2oaCeSdHG-A
+2026-03-19 16:01:53,602 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:53,775 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=__LSIH5Z5t0
+2026-03-19 16:01:53,775 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:53,970 - gloss: east, video: 18297.
+2026-03-19 16:01:53,970 - Requesting http://www.aslpro.com/main/e/east.swf
+2026-03-19 16:01:53,972 - Unsuccessful downloading - video 18297
+2026-03-19 16:01:53,972 - gloss: east, video: 65597.
+2026-03-19 16:01:53,972 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAST-1290.mp4
+2026-03-19 16:01:53,974 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAST-1290.mp4
+2026-03-19 16:01:53,974 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAST-1290.mp4
+2026-03-19 16:01:53,975 - Unsuccessful downloading - video 65597
+2026-03-19 16:01:53,975 - gloss: east, video: 18288.
+2026-03-19 16:01:53,975 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/east.mov
+2026-03-19 16:01:53,976 - HTTPS failed, retrying with HTTP: http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/east.mov
+2026-03-19 16:01:53,976 - Requesting http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/east.mov
+2026-03-19 16:01:53,977 - Unsuccessful downloading - video 18288
+2026-03-19 16:01:54,241 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=N23tnuw_C_s
+2026-03-19 16:01:54,572 - HTTPS failed, retrying with HTTP: https://youtu.be/9k9ZtumEPLs
+2026-03-19 16:01:54,828 - gloss: east, video: 18298.
+2026-03-19 16:01:54,829 - Requesting http://www.aslsearch.com/signs/videos/east.mp4
+2026-03-19 16:01:54,831 - Unsuccessful downloading - video 18298
+2026-03-19 16:01:54,831 - gloss: east, video: 18289.
+2026-03-19 16:01:54,831 - Requesting https://media.spreadthesign.com/video/mp4/13/481196.mp4
+2026-03-19 16:01:54,832 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/481196.mp4
+2026-03-19 16:01:54,832 - Requesting http://media.spreadthesign.com/video/mp4/13/481196.mp4
+2026-03-19 16:01:54,833 - Unsuccessful downloading - video 18289
+2026-03-19 16:01:54,833 - gloss: east, video: 18290.
+2026-03-19 16:01:54,833 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/east.mp4
+2026-03-19 16:01:54,834 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/east.mp4
+2026-03-19 16:01:54,834 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/east.mp4
+2026-03-19 16:01:54,835 - Unsuccessful downloading - video 18290
+2026-03-19 16:01:54,835 - gloss: east, video: 18291.
+2026-03-19 16:01:54,835 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20East-pB8laIXIVQc.mp4
+2026-03-19 16:01:54,836 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20East-pB8laIXIVQc.mp4
+2026-03-19 16:01:54,836 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20East-pB8laIXIVQc.mp4
+2026-03-19 16:01:54,837 - Unsuccessful downloading - video 18291
+2026-03-19 16:01:54,837 - gloss: east, video: 18292.
+2026-03-19 16:01:54,837 - Requesting https://media.asldeafined.com/vocabulary/1468347751.9471.mp4
+2026-03-19 16:01:54,837 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468347751.9471.mp4
+2026-03-19 16:01:54,838 - Requesting http://media.asldeafined.com/vocabulary/1468347751.9471.mp4
+2026-03-19 16:01:54,839 - Unsuccessful downloading - video 18292
+2026-03-19 16:01:54,839 - gloss: east, video: 18293.
+2026-03-19 16:01:54,839 - Requesting https://www.handspeak.com/word/e/east.mp4
+2026-03-19 16:01:54,840 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/e/east.mp4
+2026-03-19 16:01:54,840 - Requesting http://www.handspeak.com/word/e/east.mp4
+2026-03-19 16:01:54,841 - Unsuccessful downloading - video 18293
+2026-03-19 16:01:54,844 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=N23tnuw_C_s
+2026-03-19 16:01:54,844 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:55,175 - Unsuccessful downloading - youtube video url https://youtu.be/9k9ZtumEPLs
+2026-03-19 16:01:55,175 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:55,444 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=1_jXxjd0lKE
+2026-03-19 16:01:55,486 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2DblIQ5n6xk
+2026-03-19 16:01:55,784 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=mLWGFVIVUXY
+2026-03-19 16:01:56,046 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=1_jXxjd0lKE
+2026-03-19 16:01:56,046 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:56,094 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2DblIQ5n6xk
+2026-03-19 16:01:56,094 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:56,375 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=mLWGFVIVUXY
+2026-03-19 16:01:56,375 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:56,482 - gloss: north, video: 38690.
+2026-03-19 16:01:56,482 - Requesting http://www.aslpro.com/main/n/north.swf
+2026-03-19 16:01:56,484 - Unsuccessful downloading - video 38690
+2026-03-19 16:01:56,485 - gloss: north, video: 38681.
+2026-03-19 16:01:56,485 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/north.mov
+2026-03-19 16:01:56,486 - HTTPS failed, retrying with HTTP: http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/north.mov
+2026-03-19 16:01:56,486 - Requesting http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/north.mov
+2026-03-19 16:01:56,487 - Unsuccessful downloading - video 38681
+2026-03-19 16:01:56,528 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=TyNK9nBCNeg
+2026-03-19 16:01:57,079 - HTTPS failed, retrying with HTTP: https://youtu.be/wrgzFvTqqPw
+2026-03-19 16:01:57,121 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=TyNK9nBCNeg
+2026-03-19 16:01:57,122 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:57,144 - gloss: north, video: 38691.
+2026-03-19 16:01:57,145 - Requesting http://www.aslsearch.com/signs/videos/north.mp4
+2026-03-19 16:01:57,148 - Unsuccessful downloading - video 38691
+2026-03-19 16:01:57,148 - gloss: north, video: 38682.
+2026-03-19 16:01:57,148 - Requesting https://media.spreadthesign.com/video/mp4/13/49001.mp4
+2026-03-19 16:01:57,150 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/49001.mp4
+2026-03-19 16:01:57,150 - Requesting http://media.spreadthesign.com/video/mp4/13/49001.mp4
+2026-03-19 16:01:57,152 - Unsuccessful downloading - video 38682
+2026-03-19 16:01:57,152 - gloss: north, video: 38683.
+2026-03-19 16:01:57,152 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/north.mp4
+2026-03-19 16:01:57,153 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/north.mp4
+2026-03-19 16:01:57,153 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/north.mp4
+2026-03-19 16:01:57,154 - Unsuccessful downloading - video 38683
+2026-03-19 16:01:57,154 - gloss: north, video: 38684.
+2026-03-19 16:01:57,154 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20North-J_4pPcg2bAk.mp4
+2026-03-19 16:01:57,156 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20North-J_4pPcg2bAk.mp4
+2026-03-19 16:01:57,156 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20North-J_4pPcg2bAk.mp4
+2026-03-19 16:01:57,157 - Unsuccessful downloading - video 38684
+2026-03-19 16:01:57,157 - gloss: north, video: 38685.
+2026-03-19 16:01:57,157 - Requesting https://media.asldeafined.com/vocabulary/1468719562.50.mp4
+2026-03-19 16:01:57,158 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468719562.50.mp4
+2026-03-19 16:01:57,158 - Requesting http://media.asldeafined.com/vocabulary/1468719562.50.mp4
+2026-03-19 16:01:57,159 - Unsuccessful downloading - video 38685
+2026-03-19 16:01:57,159 - gloss: north, video: 38686.
+2026-03-19 16:01:57,160 - Requesting https://www.handspeak.com/word/n/north.mp4
+2026-03-19 16:01:57,164 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/n/north.mp4
+2026-03-19 16:01:57,164 - Requesting http://www.handspeak.com/word/n/north.mp4
+2026-03-19 16:01:57,165 - Unsuccessful downloading - video 38686
+2026-03-19 16:01:57,165 - gloss: north, video: 38687.
+2026-03-19 16:01:57,165 - Requesting https://www.signingsavvy.com/signs/mp4/8/8805.mp4
+2026-03-19 16:01:57,166 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/8/8805.mp4
+2026-03-19 16:01:57,166 - Requesting http://www.signingsavvy.com/signs/mp4/8/8805.mp4
+2026-03-19 16:01:57,168 - Unsuccessful downloading - video 38687
+2026-03-19 16:01:57,681 - Unsuccessful downloading - youtube video url https://youtu.be/wrgzFvTqqPw
+2026-03-19 16:01:57,682 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:57,763 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=A5dihMAjeTE
+2026-03-19 16:01:57,973 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=2DblIQ5n6xk
+2026-03-19 16:01:58,198 - gloss: west, video: 62914.
+2026-03-19 16:01:58,199 - Requesting http://www.aslpro.com/main/w/west.swf
+2026-03-19 16:01:58,201 - Unsuccessful downloading - video 62914
+2026-03-19 16:01:58,201 - gloss: west, video: 62915.
+2026-03-19 16:01:58,201 - Requesting http://www.aslsearch.com/signs/videos/west.mp4
+2026-03-19 16:01:58,204 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=i5hZZy5Sl_A
+2026-03-19 16:01:58,206 - Unsuccessful downloading - video 62915
+2026-03-19 16:01:58,207 - gloss: west, video: 66765.
+2026-03-19 16:01:58,207 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEST-1422.mp4
+2026-03-19 16:01:58,209 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEST-1422.mp4
+2026-03-19 16:01:58,209 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEST-1422.mp4
+2026-03-19 16:01:58,211 - Unsuccessful downloading - video 66765
+2026-03-19 16:01:58,211 - gloss: west, video: 62906.
+2026-03-19 16:01:58,211 - Requesting https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/west.mov
+2026-03-19 16:01:58,212 - HTTPS failed, retrying with HTTP: http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/west.mov
+2026-03-19 16:01:58,212 - Requesting http://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/west.mov
+2026-03-19 16:01:58,213 - Unsuccessful downloading - video 62906
+2026-03-19 16:01:58,369 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=A5dihMAjeTE
+2026-03-19 16:01:58,370 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:58,635 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2DblIQ5n6xk
+2026-03-19 16:01:58,635 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:58,830 - gloss: west, video: 62907.
+2026-03-19 16:01:58,830 - Requesting https://media.spreadthesign.com/video/mp4/13/92785.mp4
+2026-03-19 16:01:58,832 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/92785.mp4
+2026-03-19 16:01:58,832 - Requesting http://media.spreadthesign.com/video/mp4/13/92785.mp4
+2026-03-19 16:01:58,832 - Unsuccessful downloading - video 62907
+2026-03-19 16:01:58,833 - gloss: west, video: 62908.
+2026-03-19 16:01:58,833 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/west.mp4
+2026-03-19 16:01:58,833 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/west.mp4
+2026-03-19 16:01:58,833 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/west.mp4
+2026-03-19 16:01:58,834 - Unsuccessful downloading - video 62908
+2026-03-19 16:01:58,835 - gloss: west, video: 62909.
+2026-03-19 16:01:58,835 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20West-yTYwtQ6OTsI.mp4
+2026-03-19 16:01:58,836 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20West-yTYwtQ6OTsI.mp4
+2026-03-19 16:01:58,836 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20West-yTYwtQ6OTsI.mp4
+2026-03-19 16:01:58,836 - Unsuccessful downloading - video 62909
+2026-03-19 16:01:58,837 - gloss: west, video: 62910.
+2026-03-19 16:01:58,837 - Requesting https://media.asldeafined.com/vocabulary/1468927753.3770.mp4
+2026-03-19 16:01:58,837 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468927753.3770.mp4
+2026-03-19 16:01:58,837 - Requesting http://media.asldeafined.com/vocabulary/1468927753.3770.mp4
+2026-03-19 16:01:58,838 - Unsuccessful downloading - video 62910
+2026-03-19 16:01:58,838 - gloss: west, video: 62911.
+2026-03-19 16:01:58,838 - Requesting https://www.handspeak.com/word/w/west.mp4
+2026-03-19 16:01:58,839 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/w/west.mp4
+2026-03-19 16:01:58,839 - Requesting http://www.handspeak.com/word/w/west.mp4
+2026-03-19 16:01:58,840 - Unsuccessful downloading - video 62911
+2026-03-19 16:01:58,840 - gloss: west, video: 62912.
+2026-03-19 16:01:58,840 - Requesting https://www.signingsavvy.com/signs/mp4/6/6864.mp4
+2026-03-19 16:01:58,841 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/6/6864.mp4
+2026-03-19 16:01:58,841 - Requesting http://www.signingsavvy.com/signs/mp4/6/6864.mp4
+2026-03-19 16:01:58,842 - Unsuccessful downloading - video 62912
+2026-03-19 16:01:58,842 - YouTube videos https://www.youtube.com/watch?v=jPn0FQxkdBc already exists.
+2026-03-19 16:01:58,842 - gloss: australia, video: 04186.
+2026-03-19 16:01:58,842 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/australia.mp4
+2026-03-19 16:01:58,844 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/australia.mp4
+2026-03-19 16:01:58,844 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/australia.mp4
+2026-03-19 16:01:58,845 - Unsuccessful downloading - video 04186
+2026-03-19 16:01:58,845 - gloss: australia, video: 04187.
+2026-03-19 16:01:58,845 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia%202-TPHeMqSGgCM.mp4
+2026-03-19 16:01:58,848 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia%202-TPHeMqSGgCM.mp4
+2026-03-19 16:01:58,848 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia%202-TPHeMqSGgCM.mp4
+2026-03-19 16:01:58,849 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=i5hZZy5Sl_A
+2026-03-19 16:01:58,849 - Unsuccessful downloading - video 04187
+2026-03-19 16:01:58,849 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:58,850 - gloss: australia, video: 04188.
+2026-03-19 16:01:58,850 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-jrfLziRGVAU.mp4
+2026-03-19 16:01:58,851 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-jrfLziRGVAU.mp4
+2026-03-19 16:01:58,851 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-jrfLziRGVAU.mp4
+2026-03-19 16:01:58,852 - Unsuccessful downloading - video 04188
+2026-03-19 16:01:58,853 - gloss: australia, video: 04189.
+2026-03-19 16:01:58,853 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-WhRLSPxDkJw.mp4
+2026-03-19 16:01:58,854 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-WhRLSPxDkJw.mp4
+2026-03-19 16:01:58,854 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-WhRLSPxDkJw.mp4
+2026-03-19 16:01:58,856 - Unsuccessful downloading - video 04189
+2026-03-19 16:01:58,856 - gloss: australia, video: 04190.
+2026-03-19 16:01:58,856 - Requesting https://media.asldeafined.com/vocabulary/1466646970.4368.mp4
+2026-03-19 16:01:58,857 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1466646970.4368.mp4
+2026-03-19 16:01:58,857 - Requesting http://media.asldeafined.com/vocabulary/1466646970.4368.mp4
+2026-03-19 16:01:58,858 - Unsuccessful downloading - video 04190
+2026-03-19 16:01:58,858 - gloss: australia, video: 04191.
+2026-03-19 16:01:58,858 - Requesting https://www.handspeak.com/word/a/australia2.mp4
+2026-03-19 16:01:58,859 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/a/australia2.mp4
+2026-03-19 16:01:58,859 - Requesting http://www.handspeak.com/word/a/australia2.mp4
+2026-03-19 16:01:58,860 - Unsuccessful downloading - video 04191
+2026-03-19 16:01:58,861 - gloss: australia, video: 65111.
+2026-03-19 16:01:58,861 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUSTRALIA-824.mp4
+2026-03-19 16:01:58,862 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUSTRALIA-824.mp4
+2026-03-19 16:01:58,862 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUSTRALIA-824.mp4
+2026-03-19 16:01:58,862 - HTTPS failed, retrying with HTTP: https://youtu.be/4M_eGGD6eEs
+2026-03-19 16:01:58,864 - Unsuccessful downloading - video 65111
+2026-03-19 16:01:58,865 - gloss: australia, video: 04193.
+2026-03-19 16:01:58,865 - Requesting https://www.signingsavvy.com/signs/mp4/5/5754.mp4
+2026-03-19 16:01:58,867 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5754.mp4
+2026-03-19 16:01:58,868 - Requesting http://www.signingsavvy.com/signs/mp4/5/5754.mp4
+2026-03-19 16:01:58,870 - Unsuccessful downloading - video 04193
+2026-03-19 16:01:59,452 - Unsuccessful downloading - youtube video url https://youtu.be/4M_eGGD6eEs
+2026-03-19 16:01:59,453 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:01:59,457 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=Qkec7A7_o8c
+2026-03-19 16:01:59,676 - gloss: australia, video: 04196.
+2026-03-19 16:01:59,677 - Requesting http://www.aslpro.com/main/a/australia_1.swf
+2026-03-19 16:01:59,678 - Unsuccessful downloading - video 04196
+2026-03-19 16:01:59,679 - gloss: australia, video: 04198.
+2026-03-19 16:01:59,679 - Requesting http://www.aslsearch.com/signs/videos/australia.mp4
+2026-03-19 16:01:59,679 - Unsuccessful downloading - video 04198
+2026-03-19 16:01:59,680 - gloss: australia, video: 04184.
+2026-03-19 16:01:59,680 - Requesting https://media.spreadthesign.com/video/mp4/13/455286.mp4
+2026-03-19 16:01:59,681 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/455286.mp4
+2026-03-19 16:01:59,681 - Requesting http://media.spreadthesign.com/video/mp4/13/455286.mp4
+2026-03-19 16:01:59,681 - Unsuccessful downloading - video 04184
+2026-03-19 16:01:59,681 - YouTube videos https://www.youtube.com/watch?v=pDqITge_TGs already exists.
+2026-03-19 16:02:00,050 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Qkec7A7_o8c
+2026-03-19 16:02:00,050 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:00,269 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=sErq0TJMKEo
+2026-03-19 16:02:00,575 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=C_TxYVsGywI
+2026-03-19 16:02:00,877 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=sErq0TJMKEo
+2026-03-19 16:02:00,877 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:00,939 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=gwSTnZlTWnQ
+2026-03-19 16:02:01,177 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=C_TxYVsGywI
+2026-03-19 16:02:01,177 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:01,218 - gloss: basement, video: 65142.
+2026-03-19 16:02:01,218 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEMENT-572.mp4
+2026-03-19 16:02:01,220 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEMENT-572.mp4
+2026-03-19 16:02:01,220 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEMENT-572.mp4
+2026-03-19 16:02:01,221 - Unsuccessful downloading - video 65142
+2026-03-19 16:02:01,353 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=vxHqc1L9tso
+2026-03-19 16:02:01,529 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=gwSTnZlTWnQ
+2026-03-19 16:02:01,529 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:01,814 - HTTPS failed, retrying with HTTP: https://youtu.be/w1yOviGTgpw
+2026-03-19 16:02:01,947 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=vxHqc1L9tso
+2026-03-19 16:02:01,947 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:02,275 - gloss: basement, video: 05204.
+2026-03-19 16:02:02,275 - Requesting http://www.aslsearch.com/signs/videos/basement.mp4
+2026-03-19 16:02:02,277 - Unsuccessful downloading - video 05204
+2026-03-19 16:02:02,277 - gloss: basement, video: 05194.
+2026-03-19 16:02:02,277 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/basement.mp4
+2026-03-19 16:02:02,278 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/basement.mp4
+2026-03-19 16:02:02,278 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/basement.mp4
+2026-03-19 16:02:02,279 - Unsuccessful downloading - video 05194
+2026-03-19 16:02:02,279 - gloss: basement, video: 05195.
+2026-03-19 16:02:02,279 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Basement-Tso9F3Z9f2Q.mp4
+2026-03-19 16:02:02,280 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Basement-Tso9F3Z9f2Q.mp4
+2026-03-19 16:02:02,280 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Basement-Tso9F3Z9f2Q.mp4
+2026-03-19 16:02:02,280 - Unsuccessful downloading - video 05195
+2026-03-19 16:02:02,281 - gloss: basement, video: 05196.
+2026-03-19 16:02:02,281 - Requesting https://media.asldeafined.com/vocabulary/1466649389.7379.mp4
+2026-03-19 16:02:02,281 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1466649389.7379.mp4
+2026-03-19 16:02:02,281 - Requesting http://media.asldeafined.com/vocabulary/1466649389.7379.mp4
+2026-03-19 16:02:02,282 - Unsuccessful downloading - video 05196
+2026-03-19 16:02:02,282 - gloss: basement, video: 05197.
+2026-03-19 16:02:02,282 - Requesting https://www.handspeak.com/word/b/basement.mp4
+2026-03-19 16:02:02,283 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/basement.mp4
+2026-03-19 16:02:02,283 - Requesting http://www.handspeak.com/word/b/basement.mp4
+2026-03-19 16:02:02,283 - Unsuccessful downloading - video 05197
+2026-03-19 16:02:02,283 - gloss: basement, video: 05198.
+2026-03-19 16:02:02,283 - Requesting https://www.signingsavvy.com/signs/mp4/23/23995.mp4
+2026-03-19 16:02:02,285 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23995.mp4
+2026-03-19 16:02:02,285 - Requesting http://www.signingsavvy.com/signs/mp4/23/23995.mp4
+2026-03-19 16:02:02,288 - Unsuccessful downloading - video 05198
+2026-03-19 16:02:02,288 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:02:02,402 - Unsuccessful downloading - youtube video url https://youtu.be/w1yOviGTgpw
+2026-03-19 16:02:02,402 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:02,884 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=4Nh1iFv2BMc
+2026-03-19 16:02:02,937 - gloss: cafeteria, video: 08595.
+2026-03-19 16:02:02,938 - Requesting http://www.aslsearch.com/signs/videos/cafeteria.mp4
+2026-03-19 16:02:02,939 - Unsuccessful downloading - video 08595
+2026-03-19 16:02:02,939 - gloss: cafeteria, video: 65284.
+2026-03-19 16:02:02,940 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAFETERIA-2145.mp4
+2026-03-19 16:02:02,941 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAFETERIA-2145.mp4
+2026-03-19 16:02:02,941 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAFETERIA-2145.mp4
+2026-03-19 16:02:02,941 - Unsuccessful downloading - video 65284
+2026-03-19 16:02:03,200 - gloss: cafeteria, video: 08587.
+2026-03-19 16:02:03,201 - Requesting https://media.spreadthesign.com/video/mp4/13/74898.mp4
+2026-03-19 16:02:03,211 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=-ynqS9XaFwY
+2026-03-19 16:02:03,211 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/74898.mp4
+2026-03-19 16:02:03,211 - Requesting http://media.spreadthesign.com/video/mp4/13/74898.mp4
+2026-03-19 16:02:03,215 - Unsuccessful downloading - video 08587
+2026-03-19 16:02:03,215 - gloss: cafeteria, video: 08588.
+2026-03-19 16:02:03,215 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cafeteria.mp4
+2026-03-19 16:02:03,216 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cafeteria.mp4
+2026-03-19 16:02:03,216 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cafeteria.mp4
+2026-03-19 16:02:03,218 - Unsuccessful downloading - video 08588
+2026-03-19 16:02:03,218 - gloss: cafeteria, video: 08589.
+2026-03-19 16:02:03,218 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cafeteria-Wh1kREgi9tE.mp4
+2026-03-19 16:02:03,219 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cafeteria-Wh1kREgi9tE.mp4
+2026-03-19 16:02:03,219 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cafeteria-Wh1kREgi9tE.mp4
+2026-03-19 16:02:03,219 - Unsuccessful downloading - video 08589
+2026-03-19 16:02:03,220 - gloss: cafeteria, video: 08590.
+2026-03-19 16:02:03,220 - Requesting https://media.asldeafined.com/vocabulary/1466725761.86.mp4
+2026-03-19 16:02:03,220 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1466725761.86.mp4
+2026-03-19 16:02:03,220 - Requesting http://media.asldeafined.com/vocabulary/1466725761.86.mp4
+2026-03-19 16:02:03,221 - Unsuccessful downloading - video 08590
+2026-03-19 16:02:03,221 - gloss: cafeteria, video: 08591.
+2026-03-19 16:02:03,221 - Requesting https://www.handspeak.com/word/c/cafeteria.mp4
+2026-03-19 16:02:03,222 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/cafeteria.mp4
+2026-03-19 16:02:03,222 - Requesting http://www.handspeak.com/word/c/cafeteria.mp4
+2026-03-19 16:02:03,224 - Unsuccessful downloading - video 08591
+2026-03-19 16:02:03,224 - gloss: cafeteria, video: 08592.
+2026-03-19 16:02:03,224 - Requesting https://www.signingsavvy.com/signs/mp4/22/22163.mp4
+2026-03-19 16:02:03,225 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/22/22163.mp4
+2026-03-19 16:02:03,225 - Requesting http://www.signingsavvy.com/signs/mp4/22/22163.mp4
+2026-03-19 16:02:03,229 - Unsuccessful downloading - video 08592
+2026-03-19 16:02:03,229 - gloss: cafeteria, video: 08593.
+2026-03-19 16:02:03,229 - Requesting https://www.signingsavvy.com/signs/mp4/23/23896.mp4
+2026-03-19 16:02:03,230 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/23/23896.mp4
+2026-03-19 16:02:03,230 - Requesting http://www.signingsavvy.com/signs/mp4/23/23896.mp4
+2026-03-19 16:02:03,231 - Unsuccessful downloading - video 08593
+2026-03-19 16:02:03,231 - YouTube videos https://www.youtube.com/watch?v=PPmQd2zWdP0 already exists.
+2026-03-19 16:02:03,418 - gloss: church, video: 10776.
+2026-03-19 16:02:03,419 - Requesting http://www.aslpro.com/main/c/church.swf
+2026-03-19 16:02:03,420 - Unsuccessful downloading - video 10776
+2026-03-19 16:02:03,420 - gloss: church, video: 10777.
+2026-03-19 16:02:03,420 - Requesting http://www.aslsearch.com/signs/videos/church.mp4
+2026-03-19 16:02:03,425 - Unsuccessful downloading - video 10777
+2026-03-19 16:02:03,425 - gloss: church, video: 65358.
+2026-03-19 16:02:03,425 - Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/CH/CHURCH-2296.mp4
+2026-03-19 16:02:03,428 - HTTPS failed, retrying with HTTP: http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/CH/CHURCH-2296.mp4
+2026-03-19 16:02:03,428 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/CH/CHURCH-2296.mp4
+2026-03-19 16:02:03,429 - Unsuccessful downloading - video 65358
+2026-03-19 16:02:03,491 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=4Nh1iFv2BMc
+2026-03-19 16:02:03,491 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:03,541 - HTTPS failed, retrying with HTTP: https://youtu.be/KmDKguy0lTg
+2026-03-19 16:02:03,820 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=-ynqS9XaFwY
+2026-03-19 16:02:03,820 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:03,838 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=lHTdrUkUVcM
+2026-03-19 16:02:04,034 - HTTPS failed, retrying with HTTP: https://youtu.be/5l1FtsYkTDI
+2026-03-19 16:02:04,146 - Unsuccessful downloading - youtube video url https://youtu.be/KmDKguy0lTg
+2026-03-19 16:02:04,147 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:04,432 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lHTdrUkUVcM
+2026-03-19 16:02:04,432 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:04,634 - Unsuccessful downloading - youtube video url https://youtu.be/5l1FtsYkTDI
+2026-03-19 16:02:04,634 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:04,897 - gloss: church, video: 10769.
+2026-03-19 16:02:04,897 - Requesting https://media.spreadthesign.com/video/mp4/13/400994.mp4
+2026-03-19 16:02:04,900 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/400994.mp4
+2026-03-19 16:02:04,900 - Requesting http://media.spreadthesign.com/video/mp4/13/400994.mp4
+2026-03-19 16:02:04,902 - Unsuccessful downloading - video 10769
+2026-03-19 16:02:04,902 - gloss: church, video: 10770.
+2026-03-19 16:02:04,902 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/church.mp4
+2026-03-19 16:02:04,903 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/church.mp4
+2026-03-19 16:02:04,904 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/church.mp4
+2026-03-19 16:02:04,905 - Unsuccessful downloading - video 10770
+2026-03-19 16:02:04,905 - gloss: church, video: 10771.
+2026-03-19 16:02:04,905 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Church-nPM03TJ2njU.mp4
+2026-03-19 16:02:04,907 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Church-nPM03TJ2njU.mp4
+2026-03-19 16:02:04,907 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Church-nPM03TJ2njU.mp4
+2026-03-19 16:02:04,912 - Unsuccessful downloading - video 10771
+2026-03-19 16:02:04,912 - gloss: church, video: 10772.
+2026-03-19 16:02:04,912 - Requesting https://media.asldeafined.com/vocabulary/1466733626.4965.mp4
+2026-03-19 16:02:04,914 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1466733626.4965.mp4
+2026-03-19 16:02:04,914 - Requesting http://media.asldeafined.com/vocabulary/1466733626.4965.mp4
+2026-03-19 16:02:04,915 - Unsuccessful downloading - video 10772
+2026-03-19 16:02:04,915 - gloss: church, video: 10773.
+2026-03-19 16:02:04,915 - Requesting https://www.handspeak.com/word/c/church.mp4
+2026-03-19 16:02:04,916 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/c/church.mp4
+2026-03-19 16:02:04,916 - Requesting http://www.handspeak.com/word/c/church.mp4
+2026-03-19 16:02:04,917 - Unsuccessful downloading - video 10773
+2026-03-19 16:02:04,917 - gloss: church, video: 10774.
+2026-03-19 16:02:04,917 - Requesting https://www.signingsavvy.com/signs/mp4/7/7174.mp4
+2026-03-19 16:02:04,919 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/7/7174.mp4
+2026-03-19 16:02:04,919 - Requesting http://www.signingsavvy.com/signs/mp4/7/7174.mp4
+2026-03-19 16:02:04,920 - Unsuccessful downloading - video 10774
+2026-03-19 16:02:05,521 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=MrQpEWyELqo
+2026-03-19 16:02:05,815 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=dAzz4ooEN0U
+2026-03-19 16:02:05,868 - gloss: hospital, video: 28040.
+2026-03-19 16:02:05,869 - Requesting https://www.handspeak.com/word/h/hospital.mp4
+2026-03-19 16:02:05,870 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/h/hospital.mp4
+2026-03-19 16:02:05,870 - Requesting http://www.handspeak.com/word/h/hospital.mp4
+2026-03-19 16:02:05,871 - Unsuccessful downloading - video 28040
+2026-03-19 16:02:05,871 - gloss: hospital, video: 28041.
+2026-03-19 16:02:05,871 - Requesting https://www.signingsavvy.com/signs/mp4/8/8688.mp4
+2026-03-19 16:02:05,872 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/8/8688.mp4
+2026-03-19 16:02:05,872 - Requesting http://www.signingsavvy.com/signs/mp4/8/8688.mp4
+2026-03-19 16:02:05,873 - Unsuccessful downloading - video 28041
+2026-03-19 16:02:05,901 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=VwejDy96MzM
+2026-03-19 16:02:06,060 - gloss: hospital, video: 28033.
+2026-03-19 16:02:06,060 - Requesting https://media.spreadthesign.com/video/mp4/13/456595.mp4
+2026-03-19 16:02:06,062 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/456595.mp4
+2026-03-19 16:02:06,062 - Requesting http://media.spreadthesign.com/video/mp4/13/456595.mp4
+2026-03-19 16:02:06,062 - Unsuccessful downloading - video 28033
+2026-03-19 16:02:06,122 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=MrQpEWyELqo
+2026-03-19 16:02:06,122 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:06,428 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dAzz4ooEN0U
+2026-03-19 16:02:06,428 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:06,477 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=syueldx2RHQ
+2026-03-19 16:02:06,511 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=VwejDy96MzM
+2026-03-19 16:02:06,512 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:06,670 - HTTPS failed, retrying with HTTP: https://youtu.be/n0ghkagUd8g
+2026-03-19 16:02:07,068 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=syueldx2RHQ
+2026-03-19 16:02:07,068 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:07,260 - Unsuccessful downloading - youtube video url https://youtu.be/n0ghkagUd8g
+2026-03-19 16:02:07,260 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:07,458 - gloss: hospital, video: 28043.
+2026-03-19 16:02:07,458 - Requesting http://www.aslpro.com/main/h/hospital.swf
+2026-03-19 16:02:07,461 - Unsuccessful downloading - video 28043
+2026-03-19 16:02:07,461 - gloss: hospital, video: 28044.
+2026-03-19 16:02:07,462 - Requesting http://www.aslsearch.com/signs/videos/hospital.mp4
+2026-03-19 16:02:07,463 - Unsuccessful downloading - video 28044
+2026-03-19 16:02:07,463 - gloss: hospital, video: 28034.
+2026-03-19 16:02:07,463 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hospital.mp4
+2026-03-19 16:02:07,465 - HTTPS failed, retrying with HTTP: http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hospital.mp4
+2026-03-19 16:02:07,465 - Requesting http://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hospital.mp4
+2026-03-19 16:02:07,469 - Unsuccessful downloading - video 28034
+2026-03-19 16:02:07,469 - gloss: hospital, video: 28035.
+2026-03-19 16:02:07,469 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital%202-RBjXHnCW5O4.mp4
+2026-03-19 16:02:07,471 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital%202-RBjXHnCW5O4.mp4
+2026-03-19 16:02:07,471 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital%202-RBjXHnCW5O4.mp4
+2026-03-19 16:02:07,472 - Unsuccessful downloading - video 28035
+2026-03-19 16:02:07,472 - gloss: hospital, video: 28036.
+2026-03-19 16:02:07,472 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital-nVGW6FnfoZk.mp4
+2026-03-19 16:02:07,473 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital-nVGW6FnfoZk.mp4
+2026-03-19 16:02:07,473 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital-nVGW6FnfoZk.mp4
+2026-03-19 16:02:07,474 - Unsuccessful downloading - video 28036
+2026-03-19 16:02:07,474 - gloss: hospital, video: 28038.
+2026-03-19 16:02:07,475 - Requesting https://media.asldeafined.com/vocabulary/1468638550.6788.mp4
+2026-03-19 16:02:07,476 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468638550.6788.mp4
+2026-03-19 16:02:07,476 - Requesting http://media.asldeafined.com/vocabulary/1468638550.6788.mp4
+2026-03-19 16:02:07,477 - Unsuccessful downloading - video 28038
+2026-03-19 16:02:07,746 - gloss: japan, video: 30937.
+2026-03-19 16:02:07,746 - Requesting https://media.asldeafined.com/vocabulary/1468668937.5269.mp4
+2026-03-19 16:02:07,748 - HTTPS failed, retrying with HTTP: http://media.asldeafined.com/vocabulary/1468668937.5269.mp4
+2026-03-19 16:02:07,748 - Requesting http://media.asldeafined.com/vocabulary/1468668937.5269.mp4
+2026-03-19 16:02:07,749 - Unsuccessful downloading - video 30937
+2026-03-19 16:02:07,749 - gloss: japan, video: 30938.
+2026-03-19 16:02:07,749 - Requesting https://www.handspeak.com/word/j/japan.mp4
+2026-03-19 16:02:07,750 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/j/japan.mp4
+2026-03-19 16:02:07,750 - Requesting http://www.handspeak.com/word/j/japan.mp4
+2026-03-19 16:02:07,751 - Unsuccessful downloading - video 30938
+2026-03-19 16:02:07,751 - gloss: japan, video: 30941.
+2026-03-19 16:02:07,751 - Requesting https://www.signingsavvy.com/signs/mp4/5/5731.mp4
+2026-03-19 16:02:07,752 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/5/5731.mp4
+2026-03-19 16:02:07,752 - Requesting http://www.signingsavvy.com/signs/mp4/5/5731.mp4
+2026-03-19 16:02:07,752 - Unsuccessful downloading - video 30941
+2026-03-19 16:02:07,874 - gloss: japan, video: 30933.
+2026-03-19 16:02:07,874 - Requesting https://media.spreadthesign.com/video/mp4/13/455336.mp4
+2026-03-19 16:02:07,876 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/455336.mp4
+2026-03-19 16:02:07,876 - Requesting http://media.spreadthesign.com/video/mp4/13/455336.mp4
+2026-03-19 16:02:07,877 - Unsuccessful downloading - video 30933
+2026-03-19 16:02:08,076 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=8kWVajLqBL4
+2026-03-19 16:02:08,323 - gloss: japan, video: 30944.
+2026-03-19 16:02:08,323 - Requesting http://www.aslpro.com/main/j/japan_a.swf
+2026-03-19 16:02:08,325 - Unsuccessful downloading - video 30944
+2026-03-19 16:02:08,325 - gloss: japan, video: 30945.
+2026-03-19 16:02:08,325 - Requesting http://www.aslpro.com/main/j/japan_b.swf
+2026-03-19 16:02:08,332 - Unsuccessful downloading - video 30945
+2026-03-19 16:02:08,332 - gloss: japan, video: 30946.
+2026-03-19 16:02:08,332 - Requesting http://www.aslsearch.com/signs/videos/japan.mp4
+2026-03-19 16:02:08,334 - Unsuccessful downloading - video 30946
+2026-03-19 16:02:08,334 - gloss: japan, video: 30934.
+2026-03-19 16:02:08,334 - Requesting https://media.spreadthesign.com/video/mp4/13/455337.mp4
+2026-03-19 16:02:08,335 - HTTPS failed, retrying with HTTP: http://media.spreadthesign.com/video/mp4/13/455337.mp4
+2026-03-19 16:02:08,335 - Requesting http://media.spreadthesign.com/video/mp4/13/455337.mp4
+2026-03-19 16:02:08,336 - Unsuccessful downloading - video 30934
+2026-03-19 16:02:08,336 - gloss: japan, video: 30935.
+2026-03-19 16:02:08,337 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan%202-8u5dM9Tyf1k.mp4
+2026-03-19 16:02:08,338 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan%202-8u5dM9Tyf1k.mp4
+2026-03-19 16:02:08,338 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan%202-8u5dM9Tyf1k.mp4
+2026-03-19 16:02:08,339 - Unsuccessful downloading - video 30935
+2026-03-19 16:02:08,339 - gloss: japan, video: 30936.
+2026-03-19 16:02:08,339 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan-iA8S4bnsIIg.mp4
+2026-03-19 16:02:08,340 - HTTPS failed, retrying with HTTP: http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan-iA8S4bnsIIg.mp4
+2026-03-19 16:02:08,340 - Requesting http://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan-iA8S4bnsIIg.mp4
+2026-03-19 16:02:08,341 - Unsuccessful downloading - video 30936
+2026-03-19 16:02:08,348 - HTTPS failed, retrying with HTTP: https://www.youtube.com/watch?v=3RWypBF6cKY
+2026-03-19 16:02:08,474 - HTTPS failed, retrying with HTTP: https://youtu.be/ZYUWTx3Xtdo
+2026-03-19 16:02:08,666 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=8kWVajLqBL4
+2026-03-19 16:02:08,666 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:08,940 - Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=3RWypBF6cKY
+2026-03-19 16:02:08,940 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:02:09,067 - Unsuccessful downloading - youtube video url https://youtu.be/ZYUWTx3Xtdo
+2026-03-19 16:02:09,068 - WARNING: Your yt-dlp version (2025.12.08) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         You installed yt-dlp with pip or using the wheel from PyPi; Use that to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] 
+2026-03-19 16:04:19,638 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/b/bathroom2.mp4
+2026-03-19 16:04:19,638 - Requesting http://www.handspeak.com/word/b/bathroom2.mp4
+2026-03-19 16:04:22,520 - Unsuccessful downloading - video 05301
+2026-03-19 16:04:22,521 - All downloads completed.

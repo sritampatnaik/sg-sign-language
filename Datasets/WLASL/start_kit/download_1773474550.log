@@ -1,0 +1,44 @@
+2026-03-14 15:49:10,924 - Start downloading videos using multithreading.
+2026-03-14 15:49:10,925 - gloss: africa, video: 01383.
+2026-03-14 15:49:10,925 - gloss: africa, video: 01385.
+2026-03-14 15:49:10,925 - gloss: africa, video: 01386.
+2026-03-14 15:49:10,925 - Requesting https://media.spreadthesign.com/video/mp4/13/50049.mp4
+2026-03-14 15:49:10,925 - gloss: africa, video: 01384.
+2026-03-14 15:49:10,925 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Africa%202-TrChLRg2itY.mp4
+2026-03-14 15:49:10,927 - gloss: africa, video: 01387.
+2026-03-14 15:49:10,928 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Africa%203-Jn6HQbdJE48.mp4
+2026-03-14 15:49:10,928 - Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/africa.mp4
+2026-03-14 15:49:10,928 - Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Africa-il-R1NptEEw.mp4
+2026-03-14 15:49:13,207 - gloss: africa, video: 01388.
+2026-03-14 15:49:13,207 - Requesting https://media.asldeafined.com/vocabulary/1466171159.7047.mp4
+2026-03-14 15:49:13,867 - gloss: africa, video: 01390.
+2026-03-14 15:49:13,867 - Requesting https://www.handspeak.com/word/a/africa.mp4
+2026-03-14 15:49:13,938 - Finish downloading youtube video url https://www.youtube.com/watch?v=jPn0FQxkdBc
+2026-03-14 15:49:13,974 - gloss: africa, video: 01391.
+2026-03-14 15:49:13,974 - Requesting https://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-14 15:49:14,064 - gloss: africa, video: 65029.
+2026-03-14 15:49:14,064 - Requesting http://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AF/AFRICA-846.mp4
+2026-03-14 15:49:14,616 - HTTPS failed, retrying with HTTP: http://www.handspeak.com/word/a/africa.mp4
+2026-03-14 15:49:14,616 - Requesting http://www.handspeak.com/word/a/africa.mp4
+2026-03-14 15:49:14,635 - HTTPS failed, retrying with HTTP: http://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-14 15:49:14,635 - Requesting http://www.signingsavvy.com/signs/mp4/14/14836.mp4
+2026-03-14 15:49:15,103 - HTTPS failed, retrying with HTTP: https://youtu.be/niBJ6C9Rs_8
+2026-03-14 15:49:15,726 - Unsuccessful downloading - youtube video url https://youtu.be/niBJ6C9Rs_8
+2026-03-14 15:49:15,726 - ERROR: [youtube] niBJ6C9Rs_8: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+2026-03-14 15:49:15,774 - Unsuccessful downloading - video 01391
+2026-03-14 15:49:15,865 - Unsuccessful downloading - video 01390
+2026-03-14 15:49:15,987 - Finish downloading youtube video url https://www.youtube.com/watch?v=qtVdE7tBGsU
+2026-03-14 15:49:16,841 - Finish downloading youtube video url https://www.youtube.com/watch?v=S__GZ7Vki30
+2026-03-14 15:49:16,924 - gloss: africa, video: 01396.
+2026-03-14 15:49:16,924 - Requesting http://www.aslpro.com/main/a/africa_1.swf
+2026-03-14 15:49:17,081 - gloss: africa, video: 01397.
+2026-03-14 15:49:17,081 - Requesting http://www.aslpro.com/main/a/africa_2.swf
+2026-03-14 15:49:17,160 - gloss: africa, video: 01398.
+2026-03-14 15:49:17,161 - Requesting http://www.aslsearch.com/signs/videos/africa.mp4
+2026-03-14 15:49:17,508 - Finish downloading youtube video url https://www.youtube.com/watch?v=YnK5IFMrc6Q
+2026-03-14 15:49:17,873 - Finish downloading youtube video url https://www.youtube.com/watch?v=ZyH7kuEa18Q
+2026-03-14 15:50:31,930 - Unsuccessful downloading - video 01396
+2026-03-14 15:50:32,088 - Unsuccessful downloading - video 01397
+2026-03-14 15:51:47,168 - Unsuccessful downloading - video 01398
+2026-03-14 15:51:47,170 - All downloads completed.
